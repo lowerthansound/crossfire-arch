@@ -41,6 +41,12 @@ treasureone building_material
   arch building_horizontal_gate_inv
     chance 1
   more
+  arch building_stair_up
+    chance 1
+  more
+  arch building_stair_down
+    chance 1
+  more
   list building_talking_objects
    chance 1
 end
