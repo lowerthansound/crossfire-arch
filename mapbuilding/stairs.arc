@@ -5,7 +5,7 @@ weight 1500
 value 7500
 type 161
 subtype 3
-face mbfirepot.111
+face mbstairs_up.111
 slaying stair_up
 end
 Object building_stair_down
@@ -15,6 +15,6 @@ weight 1500
 value 7500
 type 161
 subtype 3
-face mbfirepot.111
+face mbstairs_down.111
 slaying stair_down
 end
