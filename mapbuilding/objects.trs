@@ -26,7 +26,7 @@ treasureone building_objects
   arch building_altar
     chance 3
   more
-  arch building_stove
+  arch building_kitchen_stove
     chance 3
   more
   arch building_workbench
