@@ -4,6 +4,7 @@ face inn_west.x11
 type 66
 blocksview 1
 no_pick 1
+visibility 100
 client_type 25012
 end
 More
@@ -14,5 +15,6 @@ type 66
 blocksview 1
 x 1
 no_pick 1
+visibility 100
 end
 

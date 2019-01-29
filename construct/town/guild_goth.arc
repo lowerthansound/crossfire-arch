@@ -4,6 +4,7 @@ face guild_goth.x11
 type 66
 no_pick 1
 no_pass 1
+visibility 100
 client_type 25012
 end
 More
@@ -14,6 +15,7 @@ type 66
 no_pick 1
 no_pass 1
 x 1
+visibility 100
 end
 More
 Object guild_goth_3
@@ -22,6 +24,7 @@ face guild_goth.x11
 type 66
 no_pick 1
 y 1
+visibility 100
 end
 More
 Object guild_goth_4
@@ -31,4 +34,5 @@ type 66
 no_pick 1
 x 1
 y 1
+visibility 100
 end

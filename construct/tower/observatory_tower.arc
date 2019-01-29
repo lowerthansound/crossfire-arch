@@ -3,6 +3,7 @@ name observatory tower
 type 66
 face observatory_tower.x11
 no_pick 1
+visibility 100
 client_type 25012
 end
 More
@@ -12,6 +13,7 @@ type 66
 face observatory_tower.x11
 no_pick 1
 x 1
+visibility 100
 end
 More
 Object observatory_tower_3
@@ -20,6 +22,7 @@ type 66
 face observatory_tower.x11
 no_pick 1
 y 1
+visibility 100
 end
 More
 Object observatory_tower_4
@@ -29,4 +32,5 @@ face observatory_tower.x11
 no_pick 1
 x 1
 y 1
+visibility 100
 end

@@ -3,6 +3,7 @@ name stall
 type 66
 face barn_goth.x11
 no_pick 1
+visibility 100
 client_type 25012
 end
 More
@@ -12,6 +13,7 @@ type 66
 face barn_goth.x11
 no_pick 1
 x 1
+visibility 100
 end
 More
 Object barn_goth_3
@@ -20,6 +22,7 @@ type 66
 face barn_goth.x11
 no_pick 1
 y 1
+visibility 100
 end
 More
 Object barn_goth_4
@@ -29,4 +32,5 @@ face barn_goth.x11
 no_pick 1
 x 1
 y 1
+visibility 100
 end
