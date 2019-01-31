@@ -14,7 +14,7 @@
 #NOTE: GOD treasure lists have been moved out to the arches
 #
 #
-# This is basically given to monsters that might get spellbooks or use
+# This is given to monsters that might get spellbooks or use
 # wands/rods/etc.  This is mostly necessary so that if they become
 # the pets of players, the player will get exp awarded to the correct
 # skill.
