@@ -49,7 +49,7 @@ treasureone shop_building
     chance 2
   more
   arch building_destroyer
-    chance 2
+    chance 1
   more
   list building_material
     chance 78
@@ -62,7 +62,7 @@ treasureone shop_building_fant
     chance 2
   more
   arch building_destroyer
-    chance 2
+    chance 1
   more
   list building_material
     chance 78
@@ -88,7 +88,7 @@ treasureone shop_building_east
     chance 2
   more
   arch building_destroyer
-    chance 2
+    chance 1
   more
   list building_material
     chance 78

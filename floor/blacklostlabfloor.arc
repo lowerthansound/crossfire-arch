@@ -1,3 +1,12 @@
+Object floor
+face blacklostlabfloor5.111
+smoothface blacklostlabfloor5.111 empty_S.111
+name floor
+no_pick 1
+is_floor 1
+smoothlevel 30
+end
+
 Object blacklostlabfloor5
 face blacklostlabfloor5.111
 smoothface blacklostlabfloor5.111 empty_S.111

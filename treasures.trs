@@ -788,6 +788,30 @@ treasureone random_potion
 #  list NONE
 #    chance 30
 #  more
+arch minor_potion_restoration
+    chance 15
+  more
+  arch medium_potion_restoration
+    chance 10
+  more
+  arch major_potion_restoration
+    chance 5
+  more
+  arch potion_restoration
+    chance 5
+  more  
+arch potion_fire
+    chance 4
+  more
+  arch potion_cold
+    chance 4
+  more
+  arch potion_heal
+    chance 3
+  more
+  arch potion_magic
+    chance 5
+  more
   arch potionstr
     chance 1
   more
@@ -823,20 +847,20 @@ treasureone random_potion
   more
   list random_potion
     magic 8
-    chance 5
+    chance 2
   more
   list random_potion
     magic 10
-    chance 10
+    chance 2
   more
   list random_potion
     magic 12
-    chance 5
+    chance 2
   more
   list random_potion
     magic 14
     nrof 1
-    chance 5
+    chance 2
   more
   list special_uncommon
     magic 14
