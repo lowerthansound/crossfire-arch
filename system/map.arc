@@ -26,9 +26,9 @@ Object map_scorn
 name Scorn
 type 22
 subtype 3
-slaying /world/world_105_115
-hp 5
-sp 37
+slaying /world/world_105_116
+hp 8
+sp 6
 face map.111
 msg
 Scorn is the best place for new players to start when they have already completed the beginners tutorial.

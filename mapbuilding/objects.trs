@@ -31,13 +31,13 @@ treasureone building_objects
   more
   arch building_workbench
     chance 3
-  more 
+  more
   arch building_thaumaturg_desk
     chance 3
-  more 
+  more
   arch building_jeweler_bench
     chance 3
-  more 
+  more
   arch building_forge
     chance 3
   more
