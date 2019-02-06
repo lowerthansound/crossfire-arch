@@ -22,49 +22,16 @@ hp 12
 sp 12
 end
 #
-Object map_scorn
-name Scorn
+Object map_tutorial
+name Tutorial
 type 22
 subtype 3
-slaying /world/world_105_116
-hp 8
-sp 6
-face map.111
-msg
-Scorn is the best place for new players to start when they have already completed the beginners tutorial.
-Players starting in Scorn have a lot of ready options for adventuring.
-This does however mean that many others may be adventuring in the same areas.
-endmsg
-end
-#
-Object map_beginners_house
-name Beginners House
-type 22
-subtype 3
-slaying /start/newbieshouse
+slaying /start/tutorial_part1
 face map.111
 unique 1
-hp 9
-sp 4
+hp 8
+sp 1
 msg
-The beginners house is a good choice for first time players.  It will teach you some of the mechanics of the game.
-
-If you have played before, you may choose to skip the beginners house and start your adventures in some other location right away.
-endmsg
-end
-#
-Object map_navar_city
-name Navar City
-type 22
-subtype 3
-slaying /world/world_121_116
-hp 47
-sp 46
-face map.111
-msg
-Navar is a good place for more experienced players to start.
-Adventurers starting in Navar might have to do a bit more exploring, but then it is more likely you will find things.
-
-[b]WARNING[/b]: Navar is not a "Newbie Friendly" place. True novices should start either in beginners house or Scorn.
+This is the tutorial. All players start here.
 endmsg
 end
