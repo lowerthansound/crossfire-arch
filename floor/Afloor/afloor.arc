@@ -28,4 +28,3 @@ face afloor.171
 no_pick 1
 is_floor 1
 end
-

@@ -799,7 +799,7 @@ arch minor_potion_restoration
   more
   arch potion_restoration
     chance 5
-  more  
+  more
 arch potion_fire
     chance 4
   more
@@ -1994,7 +1994,7 @@ treasure rich_old
   chance 10
   end
 treasure rod
-  arch rod light
+  arch rod_light
   chance 1
   no
     arch rod_heavy
