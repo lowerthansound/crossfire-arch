@@ -19,4 +19,3 @@ no_pick 1
 move_allow walk
 move_block boat
 end
-
