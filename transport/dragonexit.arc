@@ -1,6 +1,6 @@
 Object dragon_exit
 name dragon
-face dragon.x71
+face dragon.x31
 animation big_dragon
 type 66
 anim_speed 2
@@ -11,7 +11,7 @@ end
 More
 Object dragon_exit_2
 name dragon
-face dragon.x71
+face dragon.x31
 animation big_dragon
 no_pick 1
 type 66
@@ -21,7 +21,7 @@ end
 More
 Object dragon_exit_3
 name dragon
-face dragon.x71
+face dragon.x31
 animation big_dragon
 no_pick 1
 type 66
@@ -31,7 +31,7 @@ end
 More
 Object dragon_exit_4
 name dragon
-face dragon.x71
+face dragon.x31
 animation big_dragon
 no_pick 1
 type 66
@@ -41,7 +41,7 @@ end
 More
 Object dragon_exit_5
 name dragon
-face dragon.x71
+face dragon.x31
 animation big_dragon
 no_pick 1
 type 66
@@ -52,7 +52,7 @@ end
 More
 Object dragon_exit_6
 name dragon
-face dragon.x71
+face dragon.x31
 animation big_dragon
 no_pick 1
 type 66
