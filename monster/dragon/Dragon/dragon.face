@@ -1,15 +1,15 @@
-face dragon.x71
+face dragon.x31
 magicmap red
 animation big_dragon
 facings 2
-dragon.x71
-dragon.x72
-dragon.x73
-dragon.x74
 dragon.x31
 dragon.x32
 dragon.x33
-dragon.x34
+dragon.x34dragon.x71
+dragon.x72
+dragon.x73
+dragon.x74
+
 mina
 animation big_dragon_spellcasting
 dragon_spellcasting.x71
