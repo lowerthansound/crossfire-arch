@@ -32,6 +32,20 @@ unique 1
 hp 8
 sp 1
 msg
-This is the tutorial. All players start here.
+All players start here.
+endmsg
+end
+#
+Object map_tutorial_2
+name Tutorial
+type 22
+subtype 3
+slaying /start/tutorial_part1
+face map.111
+unique 1
+hp 8
+sp 1
+msg
+All players start here.
 endmsg
 end
