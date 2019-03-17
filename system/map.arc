@@ -28,7 +28,6 @@ type 22
 subtype 3
 slaying /start/tutorial_part1
 face map.111
-unique 1
 hp 8
 sp 1
 msg
@@ -42,7 +41,6 @@ type 22
 subtype 3
 slaying /start/tutorial_part1
 face map.111
-unique 1
 hp 8
 sp 1
 msg
