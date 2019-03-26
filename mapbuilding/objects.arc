@@ -139,3 +139,53 @@ subtype 3
 face mb_shopmat.111
 slaying shop_mat
 end
+Object building_shop_potion
+name Shop Potion material
+nrof 1
+weight 1500
+value 9500
+type 161
+subtype 3
+face mb_shop_potio.111
+slaying shop_potion
+end
+Object building_shop_general
+name Shop General material
+nrof 1
+weight 1500
+value 9500
+type 161
+subtype 3
+face mb_shop_gener.111
+slaying shop_gener
+end
+Object building_shop_food
+name Shop Food material
+nrof 1
+weight 1500
+value 9500
+type 161
+subtype 3
+face mb_shop_food.111
+slaying shop_food
+end
+Object building_shop_building
+name Shop Building material
+nrof 1
+weight 1500
+value 9500
+type 161
+subtype 3
+face mb_shop_building.111
+slaying shop_building
+end
+Object building_shop_books
+name Shop Books material
+nrof 1
+weight 1500
+value 9500
+type 161
+subtype 3
+face mb_shop_books.111
+slaying shop_books
+end

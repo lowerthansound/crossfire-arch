@@ -43,4 +43,25 @@ treasureone building_objects
   more
   arch building_altar
     chance 1
-end
+  more
+  arch building_shopfloor
+    chance 3
+  more
+  arch building_shopmat
+    chance 3  
+  more
+  arch building_shop_potion
+    chance 3
+  more
+  arch building_shop_general
+    chance 3
+  more
+  arch building_shop_food
+    chance 3
+  more
+  arch building_shop_building
+    chance 3
+  more
+  arch building_shop_books
+    chance 3
+  end
