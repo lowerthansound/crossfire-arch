@@ -119,3 +119,23 @@ subtype 3
 face mbworkbench.111
 slaying workbench
 end
+Object building_shopfloor
+name Shop Floor material
+nrof 1
+weight 1500
+value 9500
+type 161
+subtype 3
+face mb_shopfloor.111
+slaying shop_empty
+end
+Object building_shopmat
+name Shop Mat material
+nrof 1
+weight 1500
+value 9500
+type 161
+subtype 3
+face mb_shopmat.111
+slaying shop_mat
+end
