@@ -239,9 +239,6 @@ treasureone random_shop
     chance 5
   end
 treasureone random_weapon
-  list missile_weapons
-    chance 5
-  more
   list melee_weapons
     chance 10
   end
