@@ -930,9 +930,6 @@ treasureone special_uncommon
   arch potion_restoration
     chance 5
   more
-  arch rod_light
-    chance 1
-  more
   list uncommon_items
     magic 2
     chance 5
@@ -1369,9 +1366,6 @@ treasureone random_magical
   arch staff
     chance 5
   more
-  arch rod_light
-    chance 1
-  more
   arch scroll_new
     nrof 9
     chance 30
@@ -1543,12 +1537,6 @@ treasureone random_wands
   more
   arch staff
     chance 30
-  more
-  arch rod_light
-    chance 1
-  more
-  arch rod_heavy
-    chance 1
   end
 # for shop
 treasureone random_books
@@ -1723,12 +1711,6 @@ treasureone uncommon_items
   arch crown
     magic 3
     chance 15
-  more
-  arch rod_light
-    chance 1
-  more
-  arch rod_heavy
-    chance 1
   more
   arch lockpicks
     chance 5
@@ -1973,12 +1955,6 @@ treasure rich_old
   more
   arch staff
   chance 2
-  more
-  arch rod_light
-  chance 1
-  no
-    arch rod_heavy
-    chance 1
     end
   more
   list random_books
