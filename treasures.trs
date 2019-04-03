@@ -241,9 +241,6 @@ treasureone random_shop
 treasureone random_weapon
   list melee_weapons
     chance 10
-  more
-  list random_armour
-    chance 2
   end
 treasureone random_armour
   arch b_full_helmet
