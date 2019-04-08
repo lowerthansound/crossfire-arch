@@ -2,7 +2,7 @@ Object corpse_pl
 face corpse1.111
 nrof 1
 type 157
-material 32
+material 0
 weight 75000
 resist_physical 100
 resist_magic 100
