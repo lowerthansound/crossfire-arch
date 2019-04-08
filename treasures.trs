@@ -1952,14 +1952,6 @@ treasure rich_old
   more
   arch staff
   chance 2
-    end
-  treasure rod
-  arch rod_light
-  chance 1
-  no
-    arch rod_heavy
-    chance 1
-    end
   end
 treasure ring
   arch ring
