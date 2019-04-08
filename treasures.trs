@@ -1953,20 +1953,7 @@ treasure rich_old
   arch staff
   chance 2
     end
-  more
-  list random_books
-  chance 10
-  more
-  arch ring
-  chance 10
-  more
-  arch scroll_new
-  chance 15
-  more
-  arch cloak
-  chance 10
-  end
-treasure rod
+  treasure rod
   arch rod_light
   chance 1
   no
