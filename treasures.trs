@@ -1479,44 +1479,11 @@ treasureone random_scroll
   arch scroll_new
     chance 60
   more
-  arch prepare_weapon
-    chance 1
-  more
-  arch improve_cha
-    chance 1
-  more
-  arch improve_con
-    chance 1
-  more
-  arch improve_damage
-    chance 1
-  more
-  arch improve_dex
-    chance 1
-  more
-  arch improve_enchantment
-    chance 1
-  more
-  arch improve_int
-    chance 1
-  more
-  arch improve_pow
-    chance 1
-  more
-  arch improve_str
-    chance 1
-  more
   arch improve_weight
-    chance 1
-  more
-  arch improve_wis
     chance 1
   more
   list random_knowledge
     chance 7
-  more
-  arch ench_armour
-    chance 3
   more
   list random_read
     chance 5
@@ -1687,7 +1654,7 @@ treasureone random_ore
     chance 15
   more
   arch uraniumore
-    chance 12
+    chance 25
   more
   arch silverore
     chance 9
