@@ -1518,9 +1518,6 @@ treasureone random_books
   more
   arch summoner_book
      chance 15
-  more
-    list random_read
-    chance 5
   end
 #
 treasureone random_read
