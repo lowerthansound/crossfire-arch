@@ -1478,15 +1478,6 @@ treasureone random_scroll
   more
   arch scroll_new
     chance 60
-  more
-  arch improve_weight
-    chance 1
-  more
-  list random_knowledge
-    chance 7
-  more
-  list random_read
-    chance 5
   end
 treasure random_amulet
   arch amulet
