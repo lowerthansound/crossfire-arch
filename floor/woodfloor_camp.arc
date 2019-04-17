@@ -1,5 +1,5 @@
 Object woodfloor_camp
-name wood floor_camp
+name dirt floor
 is_buildable 1
 unique 1
 face dirtfloor.111
