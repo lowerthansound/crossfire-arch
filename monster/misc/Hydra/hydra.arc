@@ -3,14 +3,11 @@ name hydra
 race hydra
 randomitems dragon
 monster 1
+move_type walk
 sleep 1
 Wis 20
 face hydra.x71
-anim
-facings 2
-hydra.x71
-hydra.x31
-mina
+animation hydra
 level 50
 Con 100
 Pow 26
@@ -38,12 +35,9 @@ Object big_hydra_2
 x 1
 name hydra
 monster 1
+move_type walk
 face hydra.x71
-anim
-facings 2
-hydra.x71
-hydra.x31
-mina
+animation hydra
 alive 1
 no_pick 1
 weight 900000
@@ -54,12 +48,9 @@ Object big_hydra_3
 x 2
 name hydra
 monster 1
+move_type walk
 face hydra.x71
-anim
-facings 2
-hydra.x71
-hydra.x31
-mina
+animation hydra
 alive 1
 no_pick 1
 weight 900000
@@ -70,12 +61,9 @@ Object big_hydra_4
 x 3
 name hydra
 monster 1
+move_type walk
 face hydra.x71
-anim
-facings 2
-hydra.x71
-hydra.x31
-mina
+animation hydra
 alive 1
 no_pick 1
 weight 900000
@@ -86,12 +74,9 @@ Object big_hydra_5
 y 1
 name hydra
 monster 1
+move_type walk
 face hydra.x71
-anim
-facings 2
-hydra.x71
-hydra.x31
-mina
+animation hydra
 alive 1
 no_pick 1
 weight 900000
@@ -103,12 +88,9 @@ x 1
 y 1
 name hydra
 monster 1
+move_type walk
 face hydra.x71
-anim
-facings 2
-hydra.x71
-hydra.x31
-mina
+animation hydra
 alive 1
 no_pick 1
 weight 900000
@@ -120,12 +102,9 @@ x 2
 y 1
 name hydra
 monster 1
+move_type walk
 face hydra.x71
-anim
-facings 2
-hydra.x71
-hydra.x31
-mina
+animation hydra
 alive 1
 no_pick 1
 weight 900000
@@ -137,12 +116,9 @@ x 3
 y 1
 name hydra
 monster 1
+move_type walk
 face hydra.x71
-anim
-facings 2
-hydra.x71
-hydra.x31
-mina
+animation hydra
 alive 1
 no_pick 1
 weight 900000
@@ -153,12 +129,9 @@ Object big_hydra_9
 y 2
 name hydra
 monster 1
+move_type walk
 face hydra.x71
-anim
-facings 2
-hydra.x71
-hydra.x31
-mina
+animation hydra
 alive 1
 no_pick 1
 weight 900000
@@ -170,12 +143,9 @@ x 1
 y 2
 name hydra
 monster 1
+move_type walk
 face hydra.x71
-anim
-facings 2
-hydra.x71
-hydra.x31
-mina
+animation hydra
 alive 1
 no_pick 1
 weight 900000
@@ -187,12 +157,9 @@ x 2
 y 2
 name hydra
 monster 1
+move_type walk
 face hydra.x71
-anim
-facings 2
-hydra.x71
-hydra.x31
-mina
+animation hydra
 alive 1
 no_pick 1
 weight 900000
@@ -204,12 +171,9 @@ x 3
 y 2
 name hydra
 monster 1
+move_type walk
 face hydra.x71
-anim
-facings 2
-hydra.x71
-hydra.x31
-mina
+animation hydra
 alive 1
 no_pick 1
 weight 900000
