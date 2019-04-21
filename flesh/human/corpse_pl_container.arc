@@ -1,4 +1,4 @@
-Object corpse_pl
+Object corpse_pl_container
 face corpse1.111
 nrof 1
 type 122
@@ -22,7 +22,6 @@ resist_fear 100
 resist_cancellation 100
 resist_deplete 100
 resist_death 100
-
 name_pl corpse_pl_containers
 client_type 622
 end
