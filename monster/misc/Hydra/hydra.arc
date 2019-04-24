@@ -28,7 +28,7 @@ speed -0.4
 weight 900000
 run_away 3
 editable 1
-magicmap green
+magicmap red
 end
 More
 Object big_hydra_2
@@ -41,7 +41,7 @@ animation hydra
 alive 1
 no_pick 1
 weight 900000
-magicmap green
+magicmap red
 end
 More
 Object big_hydra_3
@@ -54,7 +54,7 @@ animation hydra
 alive 1
 no_pick 1
 weight 900000
-magicmap green
+magicmap red
 end
 More
 Object big_hydra_4
@@ -67,7 +67,7 @@ animation hydra
 alive 1
 no_pick 1
 weight 900000
-magicmap green
+magicmap red
 end
 More
 Object big_hydra_5
@@ -80,7 +80,7 @@ animation hydra
 alive 1
 no_pick 1
 weight 900000
-magicmap green
+magicmap red
 end
 More
 Object big_hydra_6
@@ -94,7 +94,7 @@ animation hydra
 alive 1
 no_pick 1
 weight 900000
-magicmap green
+magicmap red
 end
 More
 Object big_hydra_7
@@ -108,7 +108,7 @@ animation hydra
 alive 1
 no_pick 1
 weight 900000
-magicmap green
+magicmap red
 end
 More
 Object big_hydra_8
@@ -122,7 +122,7 @@ animation hydra
 alive 1
 no_pick 1
 weight 900000
-magicmap green
+magicmap red
 end
 More
 Object big_hydra_9
@@ -135,7 +135,7 @@ animation hydra
 alive 1
 no_pick 1
 weight 900000
-magicmap green
+magicmap red
 end
 More
 Object big_hydra_10
@@ -149,7 +149,7 @@ animation hydra
 alive 1
 no_pick 1
 weight 900000
-magicmap green
+magicmap red
 end
 More
 Object big_hydra_11
@@ -163,7 +163,7 @@ animation hydra
 alive 1
 no_pick 1
 weight 900000
-magicmap green
+magicmap red
 end
 More
 Object big_hydra_12
@@ -177,5 +177,5 @@ animation hydra
 alive 1
 no_pick 1
 weight 900000
-magicmap green
+magicmap red
 end

@@ -7,7 +7,7 @@ no_pick 1
 face odoorm2.111
 animation odoorm2_closed_1
 is_animated 0
-move_block all
+move_block 0
 no_magic 1
 damned 1
 blocksview 1
