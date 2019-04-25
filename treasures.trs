@@ -858,32 +858,6 @@ arch potion_fire
     magic 14
     nrof 1
     chance 2
-  more
-  list special_uncommon
-    magic 14
-    nrof 1
-    chance 5
-  more
-  list special_uncommon
-    magic 13
-    nrof 1
-    chance 5
-  more
-  list special_uncommon
-    magic 12
-    chance 5
-  more
-  list special_uncommon
-    magic 10
-    chance 5
-  more
-  list special_uncommon
-    magic 7
-    chance 5
-  more
-  list uncommon_items
-    magic 3
-    chance 5
   end
 treasureone special_uncommon
   list NONE
