@@ -22,3 +22,9 @@ face light_bulb_4.111
 glow_radius 4
 invisible 1
 end
+Object titus_flower
+name Titus Flower
+face titusflower.111
+glow_radius 8
+unique 1
+end
