@@ -27,4 +27,6 @@ name Titus Flower
 face titusflower.111
 glow_radius 8
 unique 1
+no_pick 0
+material 256
 end
