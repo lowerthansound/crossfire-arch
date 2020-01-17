@@ -4,7 +4,7 @@ randomitems door
 move_block 0
 blocksview 1
 face odoor_1_fant_blue-green.111
-hp 400
+hp 40
 exp 1
 ac 20
 type 23
@@ -20,7 +20,7 @@ randomitems door
 move_block 0
 blocksview 1
 face odoor_1_fant_blue-yellow.111
-hp 400
+hp 40
 exp 1
 ac 20
 type 23
@@ -36,7 +36,7 @@ randomitems door
 move_block 0
 blocksview 1
 face odoor_1_fant_brown.111
-hp 400
+hp 40
 exp 1
 ac 20
 type 23
@@ -52,7 +52,7 @@ randomitems door
 move_block 0
 blocksview 1
 face odoor_1_fant_red-white.111
-hp 400
+hp 40
 exp 1
 ac 20
 type 23
@@ -68,7 +68,7 @@ randomitems door
 move_block 0
 blocksview 1
 face odoor_1_fant_red-yellow.111
-hp 400
+hp 40
 exp 1
 ac 20
 type 23

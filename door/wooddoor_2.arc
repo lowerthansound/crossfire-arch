@@ -3,7 +3,7 @@ name door
 randomitems door
 move_block all
 face wooddoor_2.111
-hp 400
+hp 40
 exp 1
 ac 20
 type 23

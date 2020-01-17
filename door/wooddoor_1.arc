@@ -1,9 +1,9 @@
 Object door_look_1
 name door
 randomitems door
-move_block 0
+move_block all
 face wooddoor_1.111
-hp 400
+hp 40
 exp 1
 ac 20
 type 23

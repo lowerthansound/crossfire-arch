@@ -4,7 +4,7 @@ randomitems door
 move_block 0
 blocksview 1
 face odoor_1.111
-hp 400
+hp 40
 exp 1
 ac 20
 type 23
