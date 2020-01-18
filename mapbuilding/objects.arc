@@ -189,3 +189,47 @@ subtype 3
 face mb_shop_books.111
 slaying shop_books
 end
+Object building_flaming_tower
+name Flaming Tower material
+nrof 1
+weight 1500
+value 7500
+type 161
+subtype 3
+face mb_flamingtower.111
+slaying flaming_tower
+end
+Object building_magma
+name Magma material
+nrof 1
+weight 1500
+value 7500
+type 161
+subtype 3
+face mb_magma.111
+slaying magma
+end
+Object building_lava_well
+name Lava Well material
+nrof 1
+weight 1500
+value 9500
+type 161
+subtype 3
+face mb_lavawell.111
+slaying lava_well
+end
+Object building_burning_fountain
+name Burning Fountain material
+nrof 1
+weight 1500
+value 9500
+type 161
+subtype 3
+face mb_burningfountain.111
+slaying burning_fountain
+end
+
+
+
+
