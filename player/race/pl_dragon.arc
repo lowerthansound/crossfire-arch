@@ -30,7 +30,7 @@ speed 1
 attacktype 1
 can_use_shield 0
 can_use_armour 0
-can_use_weapon 0
+can_use_weapon 1
 Str 5
 Dex 0
 Con 6
@@ -40,7 +40,7 @@ Pow 5
 # can't use bows anymore with this, so let him use cloaks,
 # bracers, and girdles.
 body_range 1
-body_arm 0
+body_arm 2
 body_neck 1
 body_skill 1
 body_finger 2
