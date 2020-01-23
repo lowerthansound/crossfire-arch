@@ -78,7 +78,7 @@ type 91
 activate_on_push 1
 activate_on_release 1
 no_pick 1
-face spike.110
+face oceanfloorb.119
 animation spikkes_open
 move_block 0
 is_animated 0
