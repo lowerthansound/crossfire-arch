@@ -78,12 +78,12 @@ type 91
 activate_on_push 1
 activate_on_release 1
 no_pick 1
-face oceanfloorb.111
-animation oceanfloor_dry
+face oceanflooro.111
+animation ocean_open
 move_block 0
 is_animated 0
 wc 0
-dam 8
+dam 0
 maxsp 1
 ac 1
 end
