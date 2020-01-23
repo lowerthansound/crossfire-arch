@@ -90,6 +90,7 @@ end
 Object spikkes_closed
 name spikkes
 move_block all -boat
+move_on boat
 type 91
 activate_on_push 1
 activate_on_release 1
