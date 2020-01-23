@@ -74,12 +74,11 @@ ac 1
 end
 Object oceanfloor_open
 name ocean floor
-luck 1
 type 91
 activate_on_push 1
 activate_on_release 1
 no_pick 1
-face oceanfloorb.119
+face spike.110
 animation spikkes_open
 move_block 0
 is_animated 0
@@ -88,3 +87,19 @@ dam 0
 maxsp 1
 ac 1
 end
+Object spikkes_closed
+name spikkes
+move_block all -boat
+type 91
+activate_on_push 1
+activate_on_release 1
+no_pick 1
+face spikes.111
+animation spikes_closed
+is_animated 0
+wc 8
+maxsp 0
+dam 8
+ac 1
+end
+
