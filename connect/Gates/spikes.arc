@@ -72,5 +72,18 @@ maxsp 0
 dam 8
 ac 1
 end
-
-
+Object oceanfloor_open
+name ocean floor
+type 91
+activate_on_push 1
+activate_on_release 1
+no_pick 1
+face oceanfloorb.111
+animation oceanfloor_dry
+move_block 0
+is_animated 0
+wc 0
+dam 8
+maxsp 1
+ac 1
+end
