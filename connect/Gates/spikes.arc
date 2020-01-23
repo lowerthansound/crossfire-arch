@@ -78,8 +78,8 @@ type 91
 activate_on_push 1
 activate_on_release 1
 no_pick 1
-face oceanflooro.111
-animation ocean_open
+face spike.110
+animation spikkes_open
 move_block 0
 is_animated 0
 wc 0
