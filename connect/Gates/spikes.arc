@@ -74,6 +74,7 @@ ac 1
 end
 Object oceanfloor_open
 name ocean floor
+luck 1
 type 91
 activate_on_push 1
 activate_on_release 1
