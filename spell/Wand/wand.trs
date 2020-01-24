@@ -1,19 +1,379 @@
 treasureone wand
-  list evocation_book
-	food 25
-     chance 5
+  arch spell_create_missile
+    nrof 10
+    chance 1
   more
-  list sorcery_book
-	food 25
-     chance 5
+  arch spell_lesser_summon_golem
+    nrof 10
+    chance 4
   more
-  list pyromancy_book
-	food 25
-     chance 5
+  arch spell_earth_to_dust
+    nrof 10
+    chance 2
   more
-  list summoner_book
-     food 25
-	chance 5
+  arch spell_summon_fog
+    nrof 10
+    chance 2
+  more
+  arch spell_summon_golem
+    nrof 10
+    chance 8
+  more
+  arch spell_summon_pet_monster
+    nrof 10
+    chance 7
+  more
+  arch spell_alchemy
+    nrof 10
+    chance 5
+  more
+  arch spell_create_earth_wall
+    nrof 10
+    chance 6
+  more
+  arch spell_summon_earth_elemental
+    nrof 10
+    chance 3
+  more
+  arch spell_counterspell
+    nrof 10
+    chance 1
+  more
+  arch spell_charm_monsters
+    nrof 10
+    chance 1
+  more
+  arch spell_summon_water_elemental
+    nrof 10
+    chance 4
+  more
+  arch spell_mystic_fist
+    nrof 10
+    chance 1
+  more
+  arch spell_create_food
+    nrof 10
+    chance 4
+  more
+  arch spell_counterwall
+    nrof 10
+    chance 1
+  more
+  arch spell_summon_air_elemental
+    nrof 10
+    chance 5
+  more
+  arch spell_summon_fire_elemental
+    nrof 10
+    chance 2
+  more
+  arch spell_build_director
+    nrof 10
+    chance 1
+  more
+  arch spell_dancing_sword
+    nrof 10
+    chance 1
+  more
+  arch spell_pentagram
+    nrof 10
+    chance 1
+  more
+  arch spell_detect_magic
+    nrof 10
+    chance 10
+  more
+  arch spell_magic_bullet
+    nrof 10
+    chance 10
+  more
+  arch spell_magic_missile
+    nrof 10
+    chance 8
+  more
+  arch spell_marking_rune
+    nrof 10
+    chance 5
+  more
+  arch spell_probe
+    nrof 10
+    chance 6
+  more
+  arch spell_slow
+    nrof 10
+    chance 7
+  more
+  arch spell_confusion
+    nrof 10
+    chance 7
+  more
+  arch spell_paralyze
+    nrof 10
+    chance 8
+  more
+  arch spell_poison_cloud
+    nrof 10
+    chance 6
+  more
+  arch spell_strength
+    nrof 10
+    chance 6
+  more
+  arch spell_charisma
+    nrof 10
+    chance 4
+  more
+  arch spell_dexterity
+    nrof 10
+    chance 4
+  more
+  arch spell_constitution
+    nrof 10
+    chance 4
+  more
+  arch spell_disarm
+    nrof 10
+    chance 1
+  more
+  arch spell_fear
+    nrof 10
+    chance 5
+  more
+  arch spell_dark_vision
+    nrof 10
+    chance 2
+  more
+  arch spell_magic_mapping
+    nrof 10
+    chance 5
+  more
+  arch spell_steambolt
+    nrof 10
+    chance 1
+  more
+  arch spell_transference
+    nrof 10
+    chance 1
+  more
+  arch spell_invisible
+    nrof 10
+    chance 4
+  more
+  arch spell_levitate
+    nrof 10
+    chance 2
+  more
+  arch spell_rune_of_transference
+    nrof 10
+    chance 1
+  more
+  arch spell_animate_weapon
+    nrof 10
+    chance 4
+  more
+  arch spell_antimagic_rune
+    nrof 10
+    chance 1
+  more
+  arch spell_mass_confusion
+    nrof 10
+    chance 3
+  more
+  arch spell_missile_swarm
+    nrof 10
+    chance 1
+  more
+  arch spell_identify
+    nrof 10
+    chance 5
+  more
+  arch spell_improved_invisibility
+    nrof 10
+    chance 1
+  more
+  arch spell_dimension_door
+    nrof 10
+    chance 1
+  more
+  arch spell_xray
+    nrof 10
+    chance 1
+  more
+  arch spell_magic_drain
+    nrof 10
+    chance 1
+  more
+  arch spell_magic_rune
+    nrof 10
+    chance 1
+  more
+  arch spell_rune_of_death
+    nrof 10
+    chance 1
+  more
+  arch spell_destruction
+    nrof 10
+    chance 1
+  more
+  arch spell_town_portal
+    nrof 10
+    chance 1
+  more
+  arch spell_burning_hands
+    nrof 10
+    chance 8
+  more
+  arch spell_small_fireball
+    nrof 10
+    chance 8
+  more
+  arch spell_sm_lightning
+    nrof 10
+    chance 8
+  more
+  arch spell_firebolt
+    nrof 10
+    chance 4
+  more
+  arch spell_medium_fireball
+    nrof 10
+    chance 6
+  more
+  arch spell_faery_fire
+    nrof 10
+    chance 2
+  more
+  arch spell_large_lightning
+    nrof 10
+    chance 3
+  more
+  arch spell_rune_of_fire
+    nrof 10
+    chance 5
+  more
+  arch spell_large_fireball
+    nrof 10
+    chance 2
+  more
+  arch spell_create_bomb
+    nrof 10
+    chance 3
+  more
+  arch spell_create_fire_wall
+    nrof 10
+    chance 3
+  more
+  arch spell_rune_of_shocking
+    nrof 10
+    chance 3
+  more
+  arch spell_rune_of_blasting
+    nrof 10
+    chance 2
+  more
+  arch spell_firetrap
+    nrof 10
+    chance 1
+  more
+  arch spell_build_fireball_wall
+    nrof 10
+    chance 1
+  more
+  arch spell_build_lightning_wall
+    nrof 10
+    chance 1
+  more
+  arch spell_armour
+    nrof 10
+    chance 5
+  more
+  arch spell_icestorm
+    nrof 10
+    chance 4
+  more
+  arch spell_small_snowstorm
+    nrof 10
+    chance 8
+  more
+  arch spell_small_bullet
+    nrof 10
+    chance 8
+  more
+  arch spell_detect_monster
+    nrof 10
+    chance 8
+  more
+  arch spell_mana_blast
+    nrof 10
+    chance 2
+  more
+  arch spell_small_manaball
+    nrof 10
+    chance 3
+  more
+  arch spell_frostbolt
+    nrof 10
+    chance 3
+  more
+  arch spell_manabolt
+    nrof 10
+    chance 2
+  more
+  arch spell_medium_snowstorm
+    nrof 10
+    chance 6
+  more
+  arch spell_lg_magic_bullet
+    nrof 10
+    chance 4
+  more
+  arch spell_rune_of_frost
+    nrof 10
+    chance 3
+  more
+  arch spell_medium_manaball
+    nrof 10
+    chance 2
+  more
+  arch spell_large_snowstorm
+    nrof 10
+    chance 2
+  more
+  arch spell_bullet_swarm
+    nrof 10
+    chance 1
+  more
+  arch spell_large_manaball
+    nrof 10
+    chance 1
+  more
+  arch spell_create_frost_wall
+    nrof 10
+    chance 2
+  more
+  arch spell_bullet_storm
+    nrof 10
+    chance 1
+  more
+  arch spell_cancellation
+    nrof 10
+    chance 1
+  more
+  arch spell_create_pool_of_chaos
+    nrof 10
+    chance 1
+  more
+  arch spell_build_bullet_wall
+    nrof 10
+    chance 1
+  more
+  arch spell_large_icestorm
+    nrof 10
+    chance 1
+  more
+  arch spell_sigil
+    nrof 10
+    chance 1
 # Polymorph is disabled by default.
 #  more
 #  arch spell_polymorph
@@ -21,4 +381,5 @@ treasureone wand
 #    chance 2
 end
 # end of wand
+
 
