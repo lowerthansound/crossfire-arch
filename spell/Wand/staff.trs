@@ -1,5 +1,6 @@
 treasureone staff
   list prayer_book
+	nrof 20
      chance 5
 end
 
