@@ -1462,9 +1462,11 @@ treasure random_amulet
   end
 treasureone random_wands
   arch wand
+    nrof 20
     chance 95
   more
   arch staff
+    nrof 6
     chance 30
   end
 # for shop

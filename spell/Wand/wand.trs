@@ -1,18 +1,18 @@
 treasureone wand
   list evocation_book
-	nrof 25
+	food 25
      chance 5
   more
   list sorcery_book
-	nrof 25
+	food 25
      chance 5
   more
   list pyromancy_book
-	nrof 25
+	food 25
      chance 5
   more
   list summoner_book
-     nrof 25
+     food 25
 	chance 5
 # Polymorph is disabled by default.
 #  more
