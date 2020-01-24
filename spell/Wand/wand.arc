@@ -4,7 +4,7 @@ animation wand
 anim_speed 10
 client_anim_random 1
 type 109
-value 50
+value 5000
 weight 2300
 material 16
 name_pl wands
