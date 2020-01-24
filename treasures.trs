@@ -1463,12 +1463,10 @@ treasure random_amulet
 treasureone random_wands
   arch wand
     chance 95
-    nrof 20
   more
   arch staff
     chance 30
-    nrof 6
-  end
+end
 # for shop
 treasureone random_books
   arch cleric_book

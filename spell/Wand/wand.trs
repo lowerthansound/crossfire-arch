@@ -1,4 +1,8 @@
 treasureone wand
+  arch spell_create_lava
+    nrof 10
+    chance 1
+  more
   arch spell_create_missile
     nrof 10
     chance 1
