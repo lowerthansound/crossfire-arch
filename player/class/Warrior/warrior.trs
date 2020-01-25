@@ -10,5 +10,7 @@ treasure warrior_class_items
   arch b_shield
   more
   arch sack
+  more
+  dikshunary
   end
 

@@ -30,5 +30,7 @@ treasure barbarian_class_items
   arch round_shield
   more
   arch high_boots
+  more
+  arch dikshunary
   end
 
