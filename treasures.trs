@@ -2034,7 +2034,7 @@ treasure warrior
   more
   arch sack
   more
-  dikshunary
+  arch dikshunary
   end
 treasure barbarian
   list fighter_skills
@@ -2047,7 +2047,7 @@ treasure barbarian
   more
   arch skill_woodsman
   more
-  dikshunary
+  arch dikshunary
   more
   arch horned_helmet
   more

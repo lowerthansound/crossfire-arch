@@ -1,5 +1,5 @@
 treasureone staff
-  arch spell_recharge
+  arch spell_charging
     nrof 5
     chance 2
   more
