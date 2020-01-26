@@ -10,7 +10,7 @@ smoothface quicksilver_sea.113 quicksilver_sea_S.113
 smoothface quicksilver_sea.114 quicksilver_sea_S.114
 anim_speed 3
 client_anim_sync 1
-move_block all
+move_block walk
 no_pick 1
 is_water 1
 is_floor 1

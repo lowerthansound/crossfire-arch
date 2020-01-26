@@ -7,7 +7,7 @@ lostlabwater.112
 smoothface lostlabwater.111 lostlabwater_S.111
 smoothface lostlabwater.112 lostlabwater_S.112
 speed 0.2
-move_block all -boat
+move_block walk
 no_pick 1
 is_water 1
 is_floor 1

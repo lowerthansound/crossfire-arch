@@ -21,7 +21,7 @@ attacktype 4
 duration 60
 dam 3
 is_floor 1
-move_block boat swim
+move_block walk
 end
 #
 Object permanent_lava
@@ -46,7 +46,7 @@ attacktype 4
 hp 1
 dam 3
 is_floor 1
-move_block boat swim
+move_block walk
 end
 #
 Object permanent_lava666

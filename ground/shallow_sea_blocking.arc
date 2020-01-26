@@ -17,6 +17,6 @@ no_pass 1
 no_pick 1
 is_water 1
 is_floor 1
-move_block all -boat
+move_block walk
 client_anim_sync 1
 end

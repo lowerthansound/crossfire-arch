@@ -10,7 +10,7 @@ smoothface blood_sea.113 blood_sea_S.113
 smoothface blood_sea.114 blood_sea_S.114
 anim_speed 5
 client_anim_sync 1
-move_block all
+move_block walk
 no_pick 1
 is_water 1
 is_floor 1
