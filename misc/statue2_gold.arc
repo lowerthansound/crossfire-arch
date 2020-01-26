@@ -8,3 +8,4 @@ move_block walk swim boat
 type 121
 face statue2_gold.111
 subtype 45
+end

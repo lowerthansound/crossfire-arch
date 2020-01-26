@@ -3,6 +3,6 @@ treasure half_orc_player_items
   more
   arch skill_stealing
   more
-  dikshunary
+  arch dikshunary
   end
 

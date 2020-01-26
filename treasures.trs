@@ -2033,8 +2033,6 @@ treasure warrior
   arch plate_mail
   more
   arch sack
-  more
-  arch dikshunary
   end
 treasure barbarian
   list fighter_skills

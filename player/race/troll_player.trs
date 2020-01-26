@@ -3,6 +3,6 @@ treasure troll_player_items
   more
   arch no_class_face_change
   more
-  dikshunary
+  arch dikshunary
   end
 

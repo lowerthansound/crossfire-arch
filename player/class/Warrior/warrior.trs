@@ -11,6 +11,6 @@ treasure warrior_class_items
   more
   arch sack
   more
-  dikshunary
+  arch dikshunary
   end
 
