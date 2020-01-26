@@ -3,7 +3,7 @@ race human
 anim_suffix class_wizard
 name wizard
 randomitems wizard_class_items
-face wizard.171
+face wizard_sch.171
 animation wizard_class
 is_animated 0
 type 37
