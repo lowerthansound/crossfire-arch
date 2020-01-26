@@ -1,3 +1,5 @@
+Object statue2_gold
+name gold statue
 weight 3000
 no_pick 0
 blocksview 1
