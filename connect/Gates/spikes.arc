@@ -67,6 +67,7 @@ face mountain5.111
 animation mountains_closed
 is_animated 0
 move_block all
+glow_radius 10
 wc 8
 maxsp 0
 dam 8
