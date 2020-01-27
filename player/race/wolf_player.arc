@@ -8,7 +8,7 @@ Blink Wolves have a certain malice about them. They are also
 cunning and somewhat intelligent. If a wolf is seen it
 often will be hunted or feared.
 
-Blink Wolves can hold a weapon in their teeth as well as claw or bite their opponents.
+Blink Wolves bite with their teeth as well as claw or bite their opponents.
 endmsg
 animation wolf_player
 is_animated 1
