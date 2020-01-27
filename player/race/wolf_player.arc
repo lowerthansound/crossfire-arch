@@ -47,7 +47,7 @@ body_skill 1
 body_finger 4
 body_shoulder 1
 body_foot 4
-body_hand 1
+body_hand 2
 body_wrist 4
 body_waist 1
 end
