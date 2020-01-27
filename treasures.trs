@@ -1452,13 +1452,16 @@ treasureone random_scroll
   more
   arch scroll_new
     chance 60
+  more
+  list random_knowledge
+    chance 10
   end
-treasure random_amulet
+treasureone random_amulet
   arch amulet
     chance 98
-    no
-      list talisman
-    end
+  more
+  list talisman
+    chance 10
   end
 treasureone random_wands
   arch wand
