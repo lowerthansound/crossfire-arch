@@ -1,4 +1,4 @@
-animation warrior_class_double_sword
+animation warrior_class_sword
 facings 4
 warrior_red_pl1.111
 warrior_red_pl1.112
@@ -9,5 +9,5 @@ warrior_red_pl1.152
 warrior_red_pl1.171
 warrior_red_pl1.172
 mina
-end
+
 
