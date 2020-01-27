@@ -5,10 +5,11 @@ randomitems wolf_player_items
 face wolf_p.151
 msg
 Blink Wolves have a certain malice about them. They are also
-cunning and somewhat intelligent. If a wolf is seen it
+cunning and somewhat intelligent. If a blink wolf is seen it
 often will be hunted or feared.
 
-Blink Wolves bite with their teeth as well as claw or bite their opponents.
+Blink Wolves are able to hold magic wands and staffs in theirteeth as well as claw or bite their opponents.
+They are also intelligent enough to read scrolls and learn new spells.
 endmsg
 animation wolf_player
 is_animated 1
@@ -16,11 +17,10 @@ anim_speed -1
 type 1
 level 1
 ac 10
-wc 21
-dam 1
+wc 20
+dam 5
 can_use_shield 0
 can_use_armour 1
-can_use_weapon 1
 can_see_in_dark 1
 alive 1
 weight 55000
