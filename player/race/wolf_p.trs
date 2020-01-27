@@ -7,6 +7,6 @@ treasure wolf_player_items
   more
   list basic_skills
   more
-  arch spell_dimension_door
+  arch skill_jumping
 end
 
