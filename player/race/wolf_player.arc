@@ -35,7 +35,6 @@ Wis 1
 Pow 1
 Cha 2
 resist_cold 15
-#path_repelled 2
 magicmap blue
 body_range 1
 body_arm 4
