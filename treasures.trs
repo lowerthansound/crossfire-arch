@@ -1435,166 +1435,75 @@ treasureone rare_artifacts
 # appear in shops, but never did, due to how the code worked out.
 treasureone random_scroll
   arch scroll_new
+    chance 50
+    nrof 5
+  more
+  arch scroll_new
+    chance 100
+    nrof 4
+  more
+  arch scroll_new
+    chance 150
+    nrof 3
+  more
+  arch scroll_new
+    chance 100
+    nrof 2
+  more
+  arch scroll_new
+    chance 250
+  more
+  arch scroll_empty
+    chance 50
+  more
+  arch prepare_weapon
+    chance 3
+  more
+  arch improve_cha
+    chance 2
+  more
+  arch improve_con
+    chance 2
+  more
+  arch improve_damage
+    chance 4
+  more
+  arch improve_dex
+    chance 2
+  more
+  arch improve_enchantment
+    chance 2
+  more
+  arch improve_int
+    chance 2
+  more
+  arch improve_pow
+    chance 2
+  more
+  arch improve_str
+    chance 2
+  more
+  arch improve_weight
+    chance 5
+  more
+  arch improve_wis
+    chance 2
+  more
+  list random_knowledge
+    chance 3
+  more
+  arch ench_armour
     chance 10
-    nrof 5
   more
-  arch scroll_new
-    chance 20
-    nrof 4
-  more
-  arch scroll_new
-    chance 30
-    nrof 3
-  more
-  arch scroll_new
-    chance 40
-    nrof 2
-  more
-  arch scroll_new
-    chance 60
-  more
-  arch scroll_alchemy
-    chance 30
-    nrof 32
-  more
-  arch scroll_bargaining
-    chance 30
-    nrof 31
-  more
-  arch scroll_bowyer
-    chance 30
-    nrof 30
-  more
-# clawing is not something you can learn
-  arch scroll_climbing
-    chance 30
-    nrof 29
-  more
-  arch scroll_disarm_traps
-    chance 30
-    nrof 28
-  more
-  arch scroll_evocation
-    chance 30
-    nrof 27
-  more
-  arch scroll_find_traps
-    chance 30
-    nrof 26
-  more
-# flame touch is not something you can learn
-  arch scroll_hiding
-    chance 30
-    nrof 25
-  more
-#   the inscription skill is only available as a pen  
-  arch stylus	
-    chance 30
-    nrof 24
-  more
-  arch scroll_jewelry
-    chance 30
-    nrof 23
-  more
-  arch scroll_jumping
-    chance 30
-    nrof 22
-  more
-  arch scroll_karate
-    chance 30
-    nrof 21
-  more
-# levitation is not something to be learned
-  arch scroll_literacy
-    chance 30
-    nrof 20
-  more
-# not knowledge per se, but is a random skill
-  arch lockpicks
-    chance 30
-    nrof 19
-  more
-# meditation can not be learned
-  arch scroll_missile_weap
-    chance 30
-    nrof 18
-  more
-  arch scroll_one_handed_weapons
-    chance 30
-    nrof 17
-  more
-  arch scroll_oratory
-    chance 30
-    nrof 16
-  more
-  arch scroll_praying
-    chance 30
-    nrof 15
-  more
-  arch scroll_punching
-    chance 30
-    nrof 14
-  more
-  arch scroll_pyromancy
-    chance 30
-    nrof 13
-  more
-  arch scroll_sense_curse
-    chance 30
-    nrof 12
-  more
-  arch scroll_sense_mag
-    chance 30
-    nrof 11
-  more
-# set traps is disabled
-  arch scroll_singing
-    chance 30
-    nrof 10
-  more
-  arch scroll_smithing
-    chance 30
-    nrof 9
-  more
-  arch scroll_sorcery
-    chance 30
-    nrof 8
-  more
-  arch scroll_stealing
-    chance 30
-    nrof 7
-  more
-  arch scroll_summoning
-    chance 30
-    nrof 6
-  more
-  arch scroll_thaumaturgy
-    chance 30
-    nrof 5
-  more
-# throwing is a native ability, but give slight chance for unclassed players
-  arch scroll_throwing
-    chance 30
-    nrof 4
-  more
-  arch scroll_two_handed_weapons
-    chance 30
-    nrof 3
-  more
-# use magic is a native ability, but give slight chance for unclassed players
-  arch scroll_use_magic_item
-    chance 30
-    nrof 2
-  more
-  arch scroll_woodsman
-    chance 30
+  list random_read
+    chance 25
   end
-treasureone random_amulet
+treasure random_amulet
   arch amulet
     chance 98
-  more
-  list talisman
-    chance 40
+    no
+      list talisman
+    end
   end
 treasureone random_wands
   arch wand
