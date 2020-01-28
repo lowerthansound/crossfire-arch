@@ -1,7 +1,7 @@
 Object scroll_evocation
 name scroll
 name_pl scrolls
-face scroll.111
+face scroll_evocation.111
 identified_name scroll of evocation
 identified_name_pl scrolls of evocation
 skill evocation

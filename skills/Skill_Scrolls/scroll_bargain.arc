@@ -1,7 +1,7 @@
 Object scroll_bargaining
 name scroll
 name_pl scrolls
-face scroll.111
+face scroll_bargaining.111
 identified_name scroll of bargaining
 identified_name_pl scrolls of bargaining
 skill bargaining

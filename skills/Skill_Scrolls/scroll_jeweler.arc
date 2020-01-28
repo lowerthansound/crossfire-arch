@@ -1,7 +1,7 @@
 Object scroll_jewelry
 name scroll
 name_pl scrolls
-face scroll.111
+face scroll_jewelry.111
 identified_name scroll of jeweler
 identified_name_pl scroll of jewelers
 skill jeweler

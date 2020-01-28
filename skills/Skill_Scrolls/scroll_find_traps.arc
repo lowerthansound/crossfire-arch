@@ -1,7 +1,7 @@
 Object scroll_find_traps
 name scroll
 name_pl scrolls
-face scroll.111
+face scroll_find_traps.111
 identified_name scroll of finding traps
 identified_name_pl scrolls of finding traps
 skill find traps

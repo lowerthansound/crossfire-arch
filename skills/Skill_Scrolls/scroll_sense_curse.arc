@@ -1,7 +1,7 @@
 Object scroll_sense_curse
 name scroll
 name_pl scrolls
-face scroll.111
+face scroll_sense_curse.111
 identified_name scroll of sense curse
 skill sense curse
 identified_face scroll_sense_curse.111

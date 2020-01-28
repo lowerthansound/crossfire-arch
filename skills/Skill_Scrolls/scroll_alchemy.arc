@@ -1,7 +1,7 @@
 Object scroll_alchemy
 name scroll
 name_pl scrolls
-face scroll.111
+face scroll_alchemy.111
 identified_name scroll of alchemistry
 skill alchemy
 identified_face scroll_alchemy.111

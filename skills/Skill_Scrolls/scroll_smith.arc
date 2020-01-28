@@ -1,7 +1,7 @@
 Object scroll_smithing
 name scroll
 name_pl scrolls
-face scroll.111
+face scroll_smithing.111
 identified_name scroll of smithing
 skill smithery
 identified_face scroll_smithing.111

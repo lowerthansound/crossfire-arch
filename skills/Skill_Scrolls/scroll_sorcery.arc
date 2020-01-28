@@ -1,7 +1,7 @@
 Object scroll_sorcery
 name scroll
 name_pl scrolls
-face scroll.111
+face scroll_sorcery.111
 identified_name scroll of sorcery
 identified_name_pl scrolls of sorcery
 skill sorcery

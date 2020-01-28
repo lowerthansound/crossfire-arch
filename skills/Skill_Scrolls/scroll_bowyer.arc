@@ -1,7 +1,7 @@
 Object scroll_bowyer
 name scroll
 name_pl scrolls
-face scroll.111
+face scroll_bowyer.111
 identified_name scroll of bowyery
 skill bowyer
 identified_face scroll_bowyer.111

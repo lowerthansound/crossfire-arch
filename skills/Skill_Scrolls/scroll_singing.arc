@@ -1,7 +1,7 @@
 Object scroll_singing
 name scroll
 name_pl scrolls
-face scroll.111
+face scroll_singing.111
 identified_name scroll of singing
 skill singing
 identified_face scroll_singing.111

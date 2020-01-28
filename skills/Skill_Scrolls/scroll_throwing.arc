@@ -1,7 +1,7 @@
 Object scroll_throwing
 name scroll
 name_pl scrolls
-face scroll.111
+face scroll_throwing.111
 identified_name scroll of throwing
 identified_name_pl scrolls of throwing
 skill throwing

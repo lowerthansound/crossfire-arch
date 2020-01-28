@@ -1,7 +1,7 @@
 Object scroll_missile_weap
 name scroll
 name_pl scrolls
-face scroll.111
+face scroll_missile_weapon.111
 identified_name scroll of missile weapons
 skill missile weapons
 identified_face scroll_missile_weapon.111

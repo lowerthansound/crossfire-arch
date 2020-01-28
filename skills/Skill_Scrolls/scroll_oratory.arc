@@ -1,7 +1,7 @@
 Object scroll_oratory
 name scroll
 name_pl scrolls
-face scroll.111
+face scroll_oratory.111
 identified_name scroll of oratory
 skill oratory
 identified_face scroll_oratory.111

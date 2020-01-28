@@ -1,7 +1,7 @@
 Object scroll_literacy
 name scroll
 name_pl scrolls
-face scroll.111
+face scroll_literacy.111
 identified_name scroll of literacy
 skill literacy
 identified_face scroll_literacy.111

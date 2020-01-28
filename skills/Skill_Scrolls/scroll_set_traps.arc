@@ -1,7 +1,7 @@
 Object scroll_set_traps
 name scroll
 name_pl scrolls
-face scroll.111
+face scroll_set_traps.111
 identified_name scroll of snares
 skill set traps
 identified_face scroll_set_traps.111

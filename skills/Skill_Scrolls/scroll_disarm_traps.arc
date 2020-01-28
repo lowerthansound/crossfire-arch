@@ -1,7 +1,7 @@
 Object scroll_disarm_traps
 name scroll
 name_pl scrolls
-face scroll.111
+face scroll_disarm_traps.111
 identified_name scroll of disarming traps
 identified_name_pl scrolls of disarming traps
 skill disarm traps

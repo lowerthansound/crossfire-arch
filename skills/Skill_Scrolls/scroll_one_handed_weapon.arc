@@ -1,7 +1,7 @@
 Object scroll_one_handed_weapons
 name scroll
 name_pl scrolls
-face scroll.111
+face scroll_one_handed_weapon.111
 identified_name scroll of one handed weapons
 identified_name_pl scrolls of one handed weapons
 skill one handed weapons

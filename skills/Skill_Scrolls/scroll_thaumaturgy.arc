@@ -1,7 +1,7 @@
 Object scroll_thaumaturgy
 name scroll
 name_pl scrolls
-face scroll.111
+face scroll_thaumaturgy.111
 identified_name scroll of thaumaturgy
 skill thaumaturgy
 identified_face scroll_thaumaturgy.111

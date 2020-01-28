@@ -1,7 +1,7 @@
 Object scroll_stealing
 name scroll
 name_pl scrolls
-face scroll.111
+face scroll_stealing.111
 identified_name scroll of stealing
 skill stealing
 identified_face scroll_stealing.111

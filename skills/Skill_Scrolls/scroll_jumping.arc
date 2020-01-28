@@ -1,7 +1,7 @@
 Object scroll_jumping
 name scroll
 name_pl scrolls
-face scroll.111
+face scroll_jumping.111
 identified_name scroll of jumping
 identified_name_pl scrolls of jumping
 skill jumping

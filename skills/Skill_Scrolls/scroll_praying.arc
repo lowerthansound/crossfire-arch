@@ -1,7 +1,7 @@
 Object scroll_praying
 name scroll
 name_pl scrolls
-face scroll.111
+face scroll_praying.111
 identified_name scroll of praying
 identified_name_pl scrolls of praying
 skill praying

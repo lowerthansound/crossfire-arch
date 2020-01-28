@@ -1,7 +1,7 @@
 Object scroll_pyromancy
 name scroll
 name_pl scrolls
-face scroll.111
+face scroll_pyromancy.111
 identified_name scroll of pyromancy
 identified_name_pl scrolls of pyromancy
 skill pyromancy

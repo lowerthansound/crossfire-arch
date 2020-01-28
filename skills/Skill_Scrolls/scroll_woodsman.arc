@@ -1,7 +1,7 @@
 Object scroll_woodsman
 name scroll
 name_pl scrolls
-face scroll.111
+face scroll_woodsman.111
 identified_name scroll of wood lore
 skill woodsman
 identified_face scroll_woodsman.111
