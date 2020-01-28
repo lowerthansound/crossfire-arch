@@ -1489,40 +1489,40 @@ treasureone random_scroll
     chance 50
   more
   arch prepare_weapon
-    chance 3
+    chance 30
   more
   arch improve_cha
-    chance 2
+    chance 20
   more
   arch improve_con
-    chance 2
+    chance 20
   more
   arch improve_damage
-    chance 4
+    chance 40
   more
   arch improve_dex
-    chance 2
+    chance 20
   more
   arch improve_enchantment
-    chance 2
+    chance 20
   more
   arch improve_int
-    chance 2
+    chance 20
   more
   arch improve_pow
-    chance 2
+    chance 20
   more
   arch improve_str
-    chance 2
+    chance 20
   more
   arch improve_weight
-    chance 5
+    chance 50
   more
   arch improve_wis
-    chance 2
+    chance 20
   more
   list random_knowledge
-    chance 3
+    chance 40
   more
   arch ench_armour
     chance 10
