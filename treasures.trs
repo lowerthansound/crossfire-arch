@@ -1454,14 +1454,14 @@ treasureone random_scroll
     chance 60
   more
   list random_knowledge
-    chance 10
+    chance 70
   end
 treasureone random_amulet
   arch amulet
     chance 98
   more
   list talisman
-    chance 10
+    chance 40
   end
 treasureone random_wands
   arch wand
