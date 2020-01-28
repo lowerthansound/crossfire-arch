@@ -92,106 +92,106 @@ end
 # ordered by skill names
 treasureone random_knowledge
   arch scroll_alchemy
-    chance 50
+    chance 10
   more
   arch scroll_bargaining
-    chance 50
+    chance 10
   more
   arch scroll_bowyer
-    chance 50
+    chance 10
   more
 # clawing is not something you can learn
   arch scroll_climbing
-    chance 50
+    chance 10
   more
   arch scroll_disarm_traps
-    chance 50
+    chance 10
   more
   arch scroll_evocation
-    chance 50
+    chance 10
   more
   arch scroll_find_traps
-    chance 50
+    chance 10
   more
 # flame touch is not something you can learn
   arch scroll_hiding
-    chance 50
+    chance 10
   more
 #   the inscription skill is only available as a pen  
   arch stylus	
-    chance 50
+    chance 10
   more
   arch scroll_jewelry
-    chance 50
+    chance 10
   more
   arch scroll_jumping
-    chance 50
+    chance 10
   more
   arch scroll_karate
-    chance 50
+    chance 10
   more
 # levitation is not something to be learned
   arch scroll_literacy
-    chance 50
+    chance 10
   more
 # not knowledge per se, but is a random skill
   arch lockpicks
-    chance 50
+    chance 10
   more
 # meditation can not be learned
   arch scroll_missile_weap
-    chance 50
+    chance 10
   more
   arch scroll_one_handed_weapons
-    chance 50
+    chance 10
   more
   arch scroll_oratory
-    chance 50
+    chance 10
   more
   arch scroll_praying
-    chance 50
+    chance 10
   more
   arch scroll_punching
-    chance 50
+    chance 10
   more
   arch scroll_pyromancy
-    chance 50
+    chance 10
   more
   arch scroll_sense_curse
-    chance 50
+    chance 10
   more
   arch scroll_sense_mag
-    chance 50
+    chance 10
   more
 # set traps is disabled
   arch scroll_singing
-    chance 50
+    chance 10
   more
   arch scroll_smithing
-    chance 50
+    chance 10
   more
   arch scroll_sorcery
-    chance 50
+    chance 10
   more
   arch scroll_stealing
-    chance 50
+    chance 10
   more
   arch scroll_summoning
-    chance 50
+    chance 10
   more
   arch scroll_thaumaturgy
-    chance 50
+    chance 10
   more
 # throwing is a native ability, but give slight chance for unclassed players
   arch scroll_throwing
-    chance 50
+    chance 10
   more
   arch scroll_two_handed_weapons
-    chance 50
+    chance 10
   more
 # use magic is a native ability, but give slight chance for unclassed players
   arch scroll_use_magic_item
-    chance 1
+    chance 10
   more
   arch scroll_woodsman
     chance 10
@@ -1453,8 +1453,110 @@ treasureone random_scroll
   arch scroll_new
     chance 60
   more
-  list random_knowledge
-    chance 70
+  arch scroll_alchemy
+    chance 10
+  more
+  arch scroll_bargaining
+    chance 10
+  more
+  arch scroll_bowyer
+    chance 10
+  more
+# clawing is not something you can learn
+  arch scroll_climbing
+    chance 10
+  more
+  arch scroll_disarm_traps
+    chance 10
+  more
+  arch scroll_evocation
+    chance 10
+  more
+  arch scroll_find_traps
+    chance 10
+  more
+# flame touch is not something you can learn
+  arch scroll_hiding
+    chance 10
+  more
+#   the inscription skill is only available as a pen  
+  arch stylus	
+    chance 10
+  more
+  arch scroll_jewelry
+    chance 10
+  more
+  arch scroll_jumping
+    chance 10
+  more
+  arch scroll_karate
+    chance 10
+  more
+# levitation is not something to be learned
+  arch scroll_literacy
+    chance 10
+  more
+# not knowledge per se, but is a random skill
+  arch lockpicks
+    chance 10
+  more
+# meditation can not be learned
+  arch scroll_missile_weap
+    chance 10
+  more
+  arch scroll_one_handed_weapons
+    chance 10
+  more
+  arch scroll_oratory
+    chance 10
+  more
+  arch scroll_praying
+    chance 10
+  more
+  arch scroll_punching
+    chance 10
+  more
+  arch scroll_pyromancy
+    chance 10
+  more
+  arch scroll_sense_curse
+    chance 10
+  more
+  arch scroll_sense_mag
+    chance 10
+  more
+# set traps is disabled
+  arch scroll_singing
+    chance 10
+  more
+  arch scroll_smithing
+    chance 10
+  more
+  arch scroll_sorcery
+    chance 10
+  more
+  arch scroll_stealing
+    chance 10
+  more
+  arch scroll_summoning
+    chance 10
+  more
+  arch scroll_thaumaturgy
+    chance 10
+  more
+# throwing is a native ability, but give slight chance for unclassed players
+  arch scroll_throwing
+    chance 10
+  more
+  arch scroll_two_handed_weapons
+    chance 10
+  more
+# use magic is a native ability, but give slight chance for unclassed players
+  arch scroll_use_magic_item
+    chance 10
+  more
+  arch scroll_woodsman
+    chance 10
   end
 treasureone random_amulet
   arch amulet
