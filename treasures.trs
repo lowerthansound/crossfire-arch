@@ -1471,19 +1471,19 @@ treasureone random_scroll
     nrof 5
   more
   arch scroll_new
-    chance 100
+    chance 20
     nrof 4
   more
   arch scroll_new
-    chance 150
+    chance 30
     nrof 3
   more
   arch scroll_new
-    chance 100
+    chance 20
     nrof 2
   more
   arch scroll_new
-    chance 250
+    chance 50
   more
   arch scroll_empty
     chance 50
