@@ -1485,9 +1485,6 @@ treasureone random_scroll
   arch scroll_new
     chance 50
   more
-  arch scroll_empty
-    chance 50
-  more
   arch prepare_weapon
     chance 30
   more
