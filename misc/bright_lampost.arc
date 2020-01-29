@@ -26,17 +26,3 @@ no_pick 1
 glow_radius 6
 end
 
-Object bright_lamppost_ironfirepot
-name iron firepot
-face ironfirepot.111
-anim
-ironfirepot.111
-ironfirepot.112
-ironfirepot.113
-ironfirepot.114
-mina
-speed -0.30
-no_pick 1
-glow_radius 6
-end
-

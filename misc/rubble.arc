@@ -1,3 +1,4 @@
+Object rubble
 name rubble
 startequip 1
 face rubble1.111
