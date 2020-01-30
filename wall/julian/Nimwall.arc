@@ -95,7 +95,7 @@ Nimwall3.112
 Nimwall3.113
 mina
 name Pulsating Nexus
-face Nimwall3.x11
+face Nimwall3.111
 is_animated 1
 speed 0.2
 move_block all
@@ -110,7 +110,7 @@ Nimwall5.112
 Nimwall5.113
 mina
 name Pulsating Nexus
-face Nimwall5.x11
+face Nimwall5.111
 is_animated 1
 speed 0.2
 move_block all
@@ -125,7 +125,7 @@ Nimwall4.112
 Nimwall4.113
 mina
 name Pulsating Nexus
-face Nimwall4.x11
+face Nimwall4.111
 is_animated 1
 speed 0.2
 move_block all
@@ -140,7 +140,7 @@ Nimwall6.112
 Nimwall6.113
 mina
 name Pulsating Nexus
-face Nimwall6.x11
+face Nimwall6.111
 is_animated 1
 speed 0.2
 move_block all
@@ -170,7 +170,7 @@ Nimwall8.112
 Nimwall8.113
 mina
 name Pulsating Nexus
-face Nimwall8.x11
+face Nimwall8.111
 is_animated 1
 speed 0.2
 move_block all
@@ -185,7 +185,7 @@ Nimwall11.112
 Nimwall11.113
 mina
 name Pulsating Nexus
-face Nimwall11.x11
+face Nimwall11.111
 is_animated 1
 speed 0.2
 move_block all
@@ -200,7 +200,7 @@ Nimwall7.112
 Nimwall7.113
 mina
 name Pulsating Nexus
-face Nimwall7.x11
+face Nimwall7.111
 is_animated 1
 speed 0.2
 move_block all
@@ -215,7 +215,7 @@ Nimwall10.112
 Nimwall10.113
 mina
 name Pulsating Nexus
-face Nimwall10.x11
+face Nimwall10.111
 is_animated 1
 speed 0.2
 move_block all
@@ -230,7 +230,7 @@ Nimwall9.112
 Nimwall9.113
 mina
 name Pulsating Nexus
-face Nimwall9.x11
+face Nimwall9.111
 is_animated 1
 speed 0.2
 move_block all
