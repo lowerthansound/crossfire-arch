@@ -4,7 +4,7 @@ randomitems door
 move_block all
 blocksview 1
 face door_0.111
-hp 400
+hp 40
 exp 1
 ac 20
 type 23
@@ -19,7 +19,7 @@ randomitems door
 move_block all
 blocksview 1
 face door_1.111
-hp 400
+hp 40
 exp 1
 ac 20
 type 23
@@ -34,7 +34,7 @@ randomitems door
 move_block all
 blocksview 1
 face door_2.111
-hp 400
+hp 40
 exp 1
 ac 20
 type 23
@@ -49,7 +49,7 @@ randomitems door
 move_block all
 blocksview 1
 face door_3.111
-hp 400
+hp 40
 exp 1
 ac 20
 type 23
@@ -64,7 +64,7 @@ randomitems door
 move_block all
 blocksview 1
 face door_4.111
-hp 400
+hp 40
 exp 1
 ac 20
 type 23
@@ -79,7 +79,7 @@ randomitems door
 move_block all
 blocksview 1
 face door_5.111
-hp 400
+hp 40
 exp 1
 ac 20
 type 23
@@ -94,7 +94,7 @@ randomitems door
 move_block all
 blocksview 1
 face door_6.111
-hp 400
+hp 40
 exp 1
 ac 20
 type 23
@@ -109,7 +109,7 @@ randomitems door
 move_block all
 blocksview 1
 face door_7.111
-hp 400
+hp 40
 exp 1
 ac 20
 type 23
@@ -124,7 +124,7 @@ randomitems door
 move_block all
 blocksview 1
 face door_8.111
-hp 400
+hp 40
 exp 1
 ac 20
 type 23
@@ -139,7 +139,7 @@ randomitems door
 move_block all
 blocksview 1
 face door_9.111
-hp 400
+hp 40
 exp 1
 ac 20
 type 23
@@ -154,7 +154,7 @@ name door
 move_block all
 blocksview 1
 face door_A.111
-hp 400
+hp 40
 exp 1
 ac 20
 type 23
@@ -169,7 +169,7 @@ name door
 move_block all
 blocksview 1
 face door_B.111
-hp 400
+hp 40
 exp 1
 ac 20
 type 23
@@ -184,7 +184,7 @@ name door
 move_block all
 blocksview 1
 face door_C.111
-hp 400
+hp 40
 exp 1
 ac 20
 type 23
@@ -199,7 +199,7 @@ name door
 move_block all
 blocksview 1
 face door_D.111
-hp 400
+hp 40
 exp 1
 ac 20
 type 23
@@ -214,7 +214,7 @@ name door
 move_block all
 blocksview 1
 face door_E.111
-hp 400
+hp 40
 exp 1
 ac 20
 type 23
@@ -229,7 +229,7 @@ name door
 move_block all
 blocksview 1
 face door_F.111
-hp 400
+hp 40
 exp 1
 ac 20
 type 23
