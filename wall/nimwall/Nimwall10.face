@@ -1,0 +1,15 @@
+animation Nimwall10
+Nimwall10.111
+Nimwall10.112
+Nimwall10.113
+mina
+face Nimwall10.111
+visibility 100
+end
+face Nimwall10.112
+visibility 100
+end
+face Nimwall10.113
+visibility 100
+end
+

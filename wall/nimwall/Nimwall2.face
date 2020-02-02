@@ -1,0 +1,15 @@
+animation Nimwall2
+Nimwall2.111
+Nimwall2.112
+Nimwall2.113
+mina
+face Nimwall2.111
+visibility 100
+end
+face Nimwall2.112
+visibility 100
+end
+face Nimwall2.113
+visibility 100
+end
+

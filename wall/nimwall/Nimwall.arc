@@ -4,10 +4,7 @@ face Nimwall12.111
 no_pass 1
 no_pick 1
 blocksview 0
-animation
-Nimwall12.111
-Nimwall12.112
-Nimwall12.113
+animation Nimwall12
 is_animated 1
 speed 0.2
 end
@@ -17,10 +14,7 @@ face Nimwall13.111
 no_pass 1
 no_pick 1
 blocksview 0
-animation
-Nimwall13.111
-Nimwall13.112
-Nimwall13.113
+animation Nimwall13
 is_animated 1
 speed 0.2
 end
@@ -30,10 +24,7 @@ face Nimwall14.111
 no_pass 1
 no_pick 1
 blocksview 0
-animation
-Nimwall14.111
-Nimwall14.112
-Nimwall14.113
+animation Nimwall14
 is_animated 1
 speed 0.2
 end
@@ -43,10 +34,7 @@ face Nimwall15.111
 no_pass 1
 no_pick 1
 blocksview 0
-animation
-Nimwall15.111
-Nimwall15.112
-Nimwall15.113
+animation Nimwall15
 is_animated 1
 speed 0.2
 end
@@ -56,10 +44,7 @@ face Nimwall16.111
 no_pass 1
 no_pick 1
 blocksview 0
-animation
-Nimwall16.111
-Nimwall16.112
-Nimwall16.113
+animation Nimwall16
 is_animated 1
 speed 0.2
 end
@@ -69,10 +54,7 @@ face Nimwall1.111
 no_pass 1
 no_pick 1
 blocksview 1
-animation
-Nimwall1.111
-Nimwall1.112
-Nimwall1.113
+animation Nimwall1
 is_animated 1
 speed 0.2
 end
@@ -82,10 +64,7 @@ face Nimwall2.111
 no_pass 1
 no_pick 1
 blocksview 1
-animation
-Nimwall2.111
-Nimwall2.112
-Nimwall2.113
+animation Nimwall2
 is_animated 1
 speed 0.2
 end
@@ -95,10 +74,7 @@ face Nimwall3.111
 no_pass 1
 no_pick 1
 blocksview 1
-animation
-Nimwall3.111
-Nimwall3.112
-Nimwall3.113
+animation Nimwall3
 is_animated 1
 speed 0.2
 end
@@ -108,10 +84,7 @@ face Nimwall4.111
 no_pass 1
 no_pick 1
 blocksview 1
-animation
-Nimwall4.111
-Nimwall4.112
-Nimwall4.113
+animation Nimwall4
 is_animated 1
 speed 0.2
 end
@@ -121,10 +94,7 @@ face Nimwall5.111
 no_pass 1
 no_pick 1
 blocksview 1
-animation
-Nimwall5.111
-Nimwall5.112
-Nimwall5.113
+animation Nimwall5
 is_animated 1
 speed 0.2
 end
@@ -134,10 +104,7 @@ face Nimwall6.111
 no_pass 1
 no_pick 1
 blocksview 1
-animation
-Nimwall6.111
-Nimwall6.112
-Nimwall6.113
+animation Nimwall6
 is_animated 1
 speed 0.2
 end
@@ -146,10 +113,7 @@ name Pulsating Nexus
 face Nimwall7.111
 no_pass 1
 no_pick 1
-animation
-Nimwall7.111
-Nimwall7.112
-Nimwall7.113
+animation Nimwall7
 is_animated 1
 speed 0.2
 end
@@ -158,10 +122,7 @@ name Pulsating Nexus
 face Nimwall8.111
 no_pass 1
 no_pick 1
-animation
-Nimwall8.111
-Nimwall8.112
-Nimwall8.113
+animation Nimwall8
 is_animated 1
 speed 0.2
 end
@@ -170,10 +131,7 @@ name Pulsating Nexus
 face Nimwall9.111
 no_pass 1
 no_pick 1
-animation
-Nimwall9.111
-Nimwall9.112
-Nimwall9.113
+animation Nimwall9
 is_animated 1
 speed 0.2
 end
@@ -182,10 +140,7 @@ name Pulsating Nexus
 face Nimwall10.111
 no_pass 1
 no_pick 1
-animation
-Nimwall10.111
-Nimwall10.112
-Nimwall10.113
+animation Nimwall10
 is_animated 1
 speed 0.2
 end
@@ -194,10 +149,7 @@ name Pulsating Nexus
 face Nimwall11.111
 no_pass 1
 no_pick 1
-animation
-Nimwall11.111
-Nimwall11.112
-Nimwall11.113
+animation Nimwall11
 is_animated 1
 speed 0.2
 end
