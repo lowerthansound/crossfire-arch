@@ -1,5 +1,6 @@
 Object behemoth
 face behemoth.x31
+name warg mount
 animation behemoth
 race animal
 randomitems behemoth
