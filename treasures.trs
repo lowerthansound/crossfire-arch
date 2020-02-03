@@ -1461,6 +1461,27 @@ treasureone rare_artifacts
   more
   arch gram
     chance 5
+  more
+  arch bone_helm
+    chance 2
+  more
+  arch lunar_shield
+    chance 2
+  more
+  arch shield_imana
+    chance 2
+  more
+  arch dragonskin_boots
+    chance 2
+  more
+  arch unicorn_hide_robe
+    chance 1
+  more
+  arch wizard_gloves
+    chance 2
+  more
+  arch golem_shoes
+    chance 2
   end
 # list 16.  Make the improve weapon scrolls possibly, but just give
 # them a very low chance.  In the old method, they were supposed to
