@@ -1,4 +1,4 @@
-Object air_elemental_stoned
+gnObject air_elemental_stoned
 name statue
 face air_elemental_stoned.111
 type 98
@@ -759,7 +759,7 @@ type 98
 subtype 45
 no_pick 0
 no_pass 0
-weight 10000
+weight 2000
 magicmap black
 material 64
 end
@@ -771,7 +771,7 @@ type 98
 subtype 45
 no_pick 0
 no_pass 0
-weight 10000
+weight 2000
 magicmap black
 material 64
 end
@@ -783,7 +783,7 @@ type 98
 subtype 45
 no_pick 0
 no_pass 0
-weight 10000
+weight 2000
 magicmap black
 material 64
 end
@@ -795,7 +795,7 @@ type 98
 subtype 45
 no_pick 0
 no_pass 0
-weight 10000
+weight 2000
 magicmap black
 material 64
 end
@@ -867,7 +867,7 @@ type 98
 subtype 45
 no_pick 0
 no_pass 0
-weight 10000
+weight 2000
 magicmap black
 material 64
 end
@@ -879,7 +879,7 @@ type 98
 subtype 45
 no_pick 0
 no_pass 0
-weight 10000
+weight 2000
 magicmap black
 material 64
 end
@@ -891,7 +891,7 @@ type 98
 subtype 45
 no_pick 0
 no_pass 0
-weight 10000
+weight 2000
 magicmap black
 material 64
 end
@@ -903,7 +903,7 @@ type 98
 subtype 45
 no_pick 0
 no_pass 0
-weight 10000
+weight 2000
 magicmap black
 material 64
 end
