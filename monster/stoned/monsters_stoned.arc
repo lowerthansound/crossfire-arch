@@ -198,7 +198,7 @@ magicmap black
 material 64
 end
 
-Object bat_stoned
+Object figurine_generic
 name statue
 face bat_stoned.111
 level 20
