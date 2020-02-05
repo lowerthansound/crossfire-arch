@@ -198,15 +198,16 @@ magicmap black
 material 64
 end
 
-Object figurine_generic
+Object bat_stoned
 name statue
 face bat_stoned.111
-level 20
-no_pick 0
-on_use_yield rubble
-arch spell_summon_pet_monster
-other_arch bat
-randomitems none
+type 98
+subtype 45
+no_pick 1
+no_pass 0
+editable 128
+magicmap black
+material 64
 end
 
 Object bird_stoned
