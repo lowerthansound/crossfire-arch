@@ -14,4 +14,3 @@ smoothlevel 30
 smoothface cobblesto2.111 empty_S.111
 move_block boat swim
 end
-
