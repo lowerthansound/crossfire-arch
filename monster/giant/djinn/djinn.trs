@@ -32,6 +32,4 @@ treasure djinn
   arch spell_summon_air_elemental
   more
   arch abil_slow
-  more
-  arch rod_heavy
   end

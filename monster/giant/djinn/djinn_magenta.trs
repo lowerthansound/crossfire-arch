@@ -42,6 +42,4 @@ treasure djinn_magenta
   arch abil_slow
   more
   arch turban
-  more
-  arch rod_heavy
   end

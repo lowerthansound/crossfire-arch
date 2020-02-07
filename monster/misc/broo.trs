@@ -82,7 +82,7 @@ treasure broo
   nrof 3
   no
     arch wand
-    chance 20
+    chance 2
     no
       arch ring
       chance 10

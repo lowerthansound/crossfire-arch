@@ -2,7 +2,7 @@ treasure pixie
   list all_spell_skills
   more
   arch wand
-    chance 4
+    chance 1
   more
   arch pix_dust
     chance 15

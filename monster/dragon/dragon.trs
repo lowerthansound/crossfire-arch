@@ -21,12 +21,6 @@ treasure dragon
   arch staff
   chance 50
   more
-  arch rod_light
-  chance 20
-  more
-  arch rod_heavy
-  chance 5
-  more
   arch ring
   more
   arch ring
