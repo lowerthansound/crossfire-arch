@@ -1,7 +1,7 @@
 Object door_2
 name door
 randomitems door
-move_block 0
+move_block all
 blocksview 1
 face odoor_2.111
 hp 40

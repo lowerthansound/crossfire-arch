@@ -1,7 +1,7 @@
 Object odoor_1_fant_blue-green
 name door
 randomitems door
-move_block 0
+move_block all
 blocksview 1
 face odoor_1_fant_blue-green.111
 hp 40
@@ -17,7 +17,7 @@ end
 Object odoor_1_fant_blue-yellow
 name door
 randomitems door
-move_block 0
+move_block all
 blocksview 1
 face odoor_1_fant_blue-yellow.111
 hp 40
@@ -33,7 +33,7 @@ end
 Object odoor_1_fant_brown
 name door
 randomitems door
-move_block 0
+move_block all
 blocksview 1
 face odoor_1_fant_brown.111
 hp 40
@@ -49,7 +49,7 @@ end
 Object odoor_1_fant_red-white
 name door
 randomitems door
-move_block 0
+move_block all
 blocksview 1
 face odoor_1_fant_red-white.111
 hp 40
@@ -65,7 +65,7 @@ end
 Object odoor_1_fant_red-yellow
 name door
 randomitems door
-move_block 0
+move_block all
 blocksview 1
 face odoor_1_fant_red-yellow.111
 hp 40
