@@ -1,28 +1,26 @@
 Object u_horn
-anim_speed 2
-animation u_horn
-attacktype 1
-body_arm -1
-client_anim_random 1
-client_type 627
-dam 5
-face u_horn.111
-hp 3
-item_power 3
-last_sp 5
-material 2048
 name unicorn horn
-name_pl unicorn horns
-nrof 1
-path_attuned 256
-path_repelled 393216
-resist_blind 100
-resist_confusion 100
-resist_deplete 100
-resist_poison 50
-skill one handed weapons
-type 15
-value 5000
-weapontype 5
+material 32
+dam 9
+last_sp 9
+face u_horn.111
 weight 10000
+value 500
+editable 1024
+magic 3
+anim
+u_horn.111
+u_horn.112
+u_horn.113
+u_horn.114
+u_horn.115
+mina
+type 15
+nrof 1
+magicmap white
+name_pl unicorn horns
+client_type 627
+item_power 2
+skill one handed weapons
+body_arm -1
 end
