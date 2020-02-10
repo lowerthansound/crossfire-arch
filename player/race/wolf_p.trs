@@ -8,5 +8,9 @@ treasure wolf_player_items
   list basic_skills
   more
   arch skill_jumping
+  more
+  arch skill_evocation
+  more
+  arch evoker_book_l1
 end
 
