@@ -1,4 +1,5 @@
 animation livingarrow
+facings 8
 arrow.111
 arrow.121
 arrow.131
@@ -8,27 +9,3 @@ arrow.161
 arrow.171
 arrow.181
 mina
-face arrow.111
-magicmap red
-end
-face arrow.121
-magicmap red
-end
-face arrow.131
-magicmap red
-end
-face arrow.141
-magicmap red
-end
-face arrow.151
-magicmap red
-end
-face arrow.161
-magicmap red
-end
-face arrow.171
-magicmap red
-end
-face arrow.181
-magicmap red
-end
