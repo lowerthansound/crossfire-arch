@@ -9,7 +9,7 @@ Str 15
 Dex 20
 Con 1
 Int 3
-Wis 3
+Wis 30
 Pow 0
 Cha 0
 see_invisible 1
@@ -23,7 +23,7 @@ hp 100
 maxhp 100
 wc 5
 dam 20
-speed -0.3
+speed 1
 resist_physical 25
 attacktype 256
 resist_electricity 100
