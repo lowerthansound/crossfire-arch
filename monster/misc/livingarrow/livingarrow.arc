@@ -3,8 +3,6 @@ race arrows
 type 13
 face arrow.111
 animation livingarrow
-is_animated 1
-is_turnable 0
 monster 1
 move_type walk fly_low
 Str 15
