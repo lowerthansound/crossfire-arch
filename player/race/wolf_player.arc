@@ -8,7 +8,7 @@ Blink Wolves have a certain malice about them. They are also
 cunning and somewhat intelligent. If a blink wolf is seen it
 often will be hunted or feared.
 
-Blink Wolves are able to hold magic wands and staffs in theirteeth as well as claw or bite their opponents.
+Blink Wolves are able to hold magic wands and handled weapons in their teeth as well as claw or bite their opponents.
 They are also intelligent enough to read scrolls and learn new spells.
 endmsg
 animation wolf_player
@@ -22,6 +22,7 @@ dam 5
 can_use_shield 0
 can_use_armour 1
 can_see_in_dark 1
+can_use_weapon 1
 alive 1
 weight 55000
 food 999
