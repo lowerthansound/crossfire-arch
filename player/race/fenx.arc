@@ -23,6 +23,7 @@ dam 1
 can_use_shield 1
 can_use_armour 1
 can_use_weapon 1
+can_see_in_dark 1
 alive 1
 weight 65000
 food 999
