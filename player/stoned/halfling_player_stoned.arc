@@ -4,10 +4,11 @@ name_pl statues
 face halfling_stoned.111
 magicmap gray
 type 2
-no_pick 1
-move_type 0
-speed 0
-move_block all
+no_pick 0
+weight 100000
+move_type walk
+speed -0.2
+move_block 0
 passenger_limit 1
 container 10000000
 weight_limit 10000000
