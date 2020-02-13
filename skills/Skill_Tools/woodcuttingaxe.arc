@@ -1,4 +1,4 @@
-Object axe
+Object woodcuttingaxe
 harvest_race logs
 harvest_tool axe
 skill woodcutting
