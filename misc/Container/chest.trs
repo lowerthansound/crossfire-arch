@@ -30,10 +30,6 @@ treasureone chest_items
   list random_food
     chance 10
   more
-  list random_special
-    chance 5
-    magic 6
-  more
   list random_wealth
     chance 5
     magic 5

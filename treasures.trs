@@ -899,24 +899,8 @@ treasureone special_uncommon
     magic 4
     chance 10
   more
-  arch mithril_chainmail
-    magic 4
-    chance 1
-  more
   arch lockpicks
     chance 10
-  more
-  list rare_artifacts
-    magic 14
-    chance 5
-  more
-  list uncommon_artifacts
-    magic 13
-    chance 5
-  more
-  list uncommon_artifacts
-    magic 7
-    chance 5
   more
   arch potion_fire
     chance 5
