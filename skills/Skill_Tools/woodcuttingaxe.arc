@@ -1,6 +1,7 @@
 Object woodcuttingaxe
 harvest_race logs
 harvest_tool axe
+harvest_speed -2
 skill woodcutting
 name woodsmans axe
 name_pl woodsmans axes
