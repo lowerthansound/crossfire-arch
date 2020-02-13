@@ -12,5 +12,4 @@ value 1500
 weight 5000
 client_type 451
 body_skill -1
-harvest_speed -2
 end
