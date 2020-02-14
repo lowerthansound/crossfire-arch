@@ -1786,7 +1786,7 @@ treasure tree
   arch logs
   end
 treasure mountain
-  arch random_mineral
+  list random_mineral
   end
 
 
