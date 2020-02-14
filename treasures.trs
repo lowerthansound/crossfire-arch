@@ -270,7 +270,11 @@ treasureone random_shop
   list random_special
     chance 5
   arch miningpick
-    chance 1
+    chance 3
+  arch woodcuttingaxe
+    chance 3
+  arch shovel_1
+    chance 3
   end
 treasureone random_weapon
   list melee_weapons
@@ -1295,10 +1299,6 @@ treasureone uncommon_weapons
   more
   arch taifu_1
     magic 3
-    chance 5
-  more
-  arch shovel_1
-    magic 2
     chance 5
   more
   arch stake
