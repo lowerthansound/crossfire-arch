@@ -4,7 +4,7 @@ harvest_tool axe
 skill mining
 name mining pick
 name_pl mining picks
-face pickaxe.base.111
+face pickaxe.111
 type 74
 material 20
 nrof 1
