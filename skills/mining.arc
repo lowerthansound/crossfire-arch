@@ -1,7 +1,7 @@
 Object skill_mining
 name mining
 skill mining
-slaying chop
+slaying mine
 type 43
 invisible 1
 no_drop 1
