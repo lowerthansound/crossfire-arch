@@ -1848,6 +1848,9 @@ treasure desert
   arch bones5
     chance 1
   end
+treasure dirt_ground
+  arch ground_dirt
+  end
 
 # I switched the names to '_old' -- these lists
 # are just the way standard/rich were before we 

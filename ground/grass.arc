@@ -2,6 +2,7 @@ Object grass
 face grass.111
 type 67
 race /terrain/plains
+randomitems dirt_ground
 move_on walk
 is_floor 1
 no_pick 1
@@ -15,6 +16,7 @@ end
 Object grass_only
 name grass
 face grass.111
+randomitems dirt_ground
 type 67
 move_on walk
 is_floor 1
