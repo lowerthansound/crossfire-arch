@@ -1,4 +1,3 @@
-# Source: http://commons.wikimedia.org/wiki/Image:Argyropelecus_gigas_(Giant_hatchetfish).gif
 # Licence:
 # The author is Dr Tony Ayling, the illustration was originally published in Guide to the Sea Fishes of New Zealand by Tony Ayling & Geoffrey Cox, (William Collins Publishers Ltd, Auckland, New Zealand 1982) ISBN 0-00-216987-8
 Object fish_1
