@@ -1645,6 +1645,9 @@ treasureone random_inorganic
   list random_stone
     chance 40
   more
+  list random_ore
+    chance 15
+  more
   arch rock2
     chance 25
   end
