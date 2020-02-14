@@ -1,5 +1,6 @@
 Object river_junct_we-n
 face branch_137.111
+randomitems sea_stuff
 name river junction
 move_block walk
 no_pick 1

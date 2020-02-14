@@ -10,7 +10,7 @@ weight 5000
 name_pl fishing poles
 client_type 451
 body_skill -1
-harvest_race fish
+harvest_race water_material
 harvest_tool pole
 harvest_speed -2
 end

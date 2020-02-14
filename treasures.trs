@@ -270,11 +270,11 @@ treasureone random_shop
   list random_special
     chance 5
   arch miningpick
-    chance 3
+    chance 6
   arch woodcuttingaxe
-    chance 3
+    chance 6
   arch shovel_1
-    chance 3
+    chance 6
   end
 treasureone random_weapon
   list melee_weapons
@@ -1851,7 +1851,25 @@ treasure desert
 treasure dirt_ground
   arch ground_dirt
   end
-
+treasure sea_stuff
+  arch fish_1
+    chance 20
+  more
+  arch fish_2
+    chance 20
+  more
+  arch fish_3
+    chance 20
+  more
+  arch fish_4
+    chance 20
+  more
+  arch fish_5
+    chance 20
+  more
+  arch fish_6
+    chance 20
+  end
 # I switched the names to '_old' -- these lists
 # are just the way standard/rich were before we 
 # started adding bodyparts to the treasure mix. 

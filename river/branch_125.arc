@@ -1,6 +1,7 @@
 Object river_crook_ns-ne
 face branch_125.111
 name river junction
+randomitems sea_stuff
 move_block all
 no_pick 1
 is_water 1
