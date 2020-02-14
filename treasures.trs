@@ -1827,7 +1827,7 @@ treasure tree
   arch logs
   end
 treasure mountain
-  arch mountain_rubble
+  arch mountain rubble
   end
 
 

@@ -1,5 +1,5 @@
-Object mountain_rubble
-face rubble.111
+Object mountain rubble
+face rubble1.111
 harvest_race mountain_rubble
 harvest_tool pickaxe
 harvestable -1
