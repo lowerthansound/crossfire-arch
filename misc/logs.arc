@@ -2,6 +2,8 @@ Object logs
 harvest_race logs
 harvest_tool axe
 harvestable -1
+harvest_level 1
+harvest_exp 0
 slow_move 1
 face logs1.111
 material 16

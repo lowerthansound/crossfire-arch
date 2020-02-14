@@ -3,7 +3,6 @@ name woods
 face woods_5.111
 type 67
 randomitems tree
-randomitems tree
 race /terrain/forest
 move_on walk
 no_pick 1
