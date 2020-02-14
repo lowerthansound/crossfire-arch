@@ -1,6 +1,11 @@
 Object rock2
 name rock
 face rock2.111
+harvest_race random_mineral
+harvest_tool pickaxe
+harvestable -1
+harvest_level 1
+harvest_exp 0
 material 64
 value 100
 type 73
