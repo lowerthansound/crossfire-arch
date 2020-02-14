@@ -1,4 +1,4 @@
-Object glass block
+Object blockofglass
 face icecube.111
 material 2
 value 100
@@ -8,6 +8,7 @@ resist_acid 100
 materialname glass
 weight 5000
 nrof 1
+name glass block
 name_pl glass blocks
 client_type 642
 end
