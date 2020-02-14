@@ -1,7 +1,6 @@
 Object woodcuttingaxe
 harvest_race logs
 harvest_tool axe
-harvest_speed -2
 skill woodcutting
 name woodsmans axe
 name_pl woodsmans axes
@@ -13,4 +12,7 @@ value 1500
 weight 5000
 client_type 451
 body_skill -1
+harvest_race logs
+harvest_tool axe
+harvest_speed 2
 end

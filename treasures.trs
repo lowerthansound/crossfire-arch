@@ -1780,6 +1780,10 @@ treasure poor
   list human_parts
     chance 20
   end
+treasure tree
+  arch logs
+  end
+
 # I switched the names to '_old' -- these lists
 # are just the way standard/rich were before we 
 # started adding bodyparts to the treasure mix. 

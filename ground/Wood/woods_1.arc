@@ -2,6 +2,7 @@ Object woods
 face woods_1.111
 type 67
 race /terrain/forest
+randomitems tree
 move_on walk
 no_pick 1
 move_slow walk
