@@ -1,5 +1,5 @@
 Object miningpick
-harvest_race random_inorganic
+harvest_race random_minerals
 harvest_tool pickaxe
 skill mining
 name mining pick
