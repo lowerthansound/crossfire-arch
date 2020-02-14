@@ -1,0 +1,22 @@
+Object shovel_1
+harvest_race ground_material
+harvest_tool shovel
+skill digging
+name shovel
+face shovel_1.111
+nrof 1
+type 74
+material 2
+weight 30000
+value 5
+animation shovel_1
+name_pl shovels
+client_type 451
+body_skill -1
+harvest_race ground_material
+harvest_tool shovel
+harvest_speed 2
+skill digging
+anim_speed 5
+client_anim_random 1
+end

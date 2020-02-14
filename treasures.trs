@@ -1832,7 +1832,22 @@ treasure tree
 treasure mountain
   arch mountain_rubble
   end
-
+treasure desert
+  arch sandpile
+    chance 99
+  more
+  arch bones1
+    chance 1
+  more
+  arch bones2
+    chance 1
+  more
+  arch bones3
+    chance 1
+  more
+  arch bones5
+    chance 1
+  end
 
 # I switched the names to '_old' -- these lists
 # are just the way standard/rich were before we 

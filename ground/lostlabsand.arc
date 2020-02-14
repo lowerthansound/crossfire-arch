@@ -1,6 +1,7 @@
 Object lostlabgreysand
 name sand
 face lostlabgreysand.111
+randomitems desert
 type 67
 walk_on 1
 no_pick 1
@@ -15,6 +16,7 @@ end
 Object lostlabbluesand
 name sand
 face lostlabbluesand.111
+randomitems desert
 type 67
 walk_on 1
 no_pick 1

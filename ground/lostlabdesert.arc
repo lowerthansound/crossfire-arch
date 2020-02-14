@@ -1,6 +1,7 @@
 Object lostlabdesert
 name desert
 face lostlabdesert.111
+randomitems desert
 type 67
 race /terrain/desert
 walk_on 1
@@ -18,6 +19,7 @@ name desert mountain
 face lostlabdesert2.111
 type 67
 race /terrain/desert
+randomitems desert
 walk_on 1
 no_pick 1
 is_wooded 1
@@ -35,6 +37,7 @@ name desert
 face lostlabdesert3.111
 type 67
 race /terrain/desert
+randomitems desert
 walk_on 1
 no_pick 1
 slow_move 1
@@ -50,6 +53,7 @@ name desert
 face lostlabdesert4.111
 type 67
 race /terrain/desert
+randomitems desert
 walk_on 1
 no_pick 1
 slow_move 1
@@ -65,6 +69,7 @@ name desert
 face lostlabdesert5.111
 type 67
 race /terrain/desert
+randomitems desert
 walk_on 1
 no_pick 1
 slow_move 1
