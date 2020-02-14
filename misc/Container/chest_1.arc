@@ -1,4 +1,4 @@
-Object mountain rubble
+Object mountain_rubble
 face rubble1.111
 harvest_race mountain_rubble
 harvest_tool pickaxe
@@ -13,6 +13,7 @@ value 50
 weight 50000
 identified 1
 randomitems random_inorganic
+name rubble
 name_pl rubble
 client_type 51
 end
