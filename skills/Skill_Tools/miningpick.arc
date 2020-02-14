@@ -1,6 +1,6 @@
 Object miningpick
 harvest_race random_inorganic
-harvest_tool axe
+harvest_tool pickaxe
 skill mining
 name mining pick
 name_pl mining picks
