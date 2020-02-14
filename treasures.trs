@@ -709,6 +709,47 @@ treasureone random_gem
     chance 5
     nrof 4
   end
+treasureone random_gem_new
+  arch gem
+    chance 5
+    nrof 1
+  more
+  arch gem
+    chance 5
+    nrof 2
+  more
+  arch pearl
+    chance 5
+    nrof 4
+  more
+  arch pearl
+    chance 5
+    nrof 6
+  more
+  arch ruby
+    chance 5
+    nrof 2
+  more
+  arch ruby
+    chance 5
+    nrof 4
+  more
+  arch sapphire
+    chance 5
+    nrof 2
+  more
+  arch sapphire
+    chance 5
+    nrof 4
+  more
+  arch emerald
+    chance 5
+    nrof 10
+  more
+  arch emerald
+    chance 5
+    nrof 4
+  end
 treasureone starting_wealth
   arch goldcoin
     nrof 120
@@ -1786,7 +1827,7 @@ treasure tree
   arch logs
   end
 treasure mountain
-  list random_mineral
+  list random_minerals
   end
 
 
