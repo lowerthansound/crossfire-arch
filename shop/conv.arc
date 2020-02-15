@@ -34,7 +34,7 @@ end
 Object silver_converter
 name convert silver into gold, 10 for 1
 other_arch goldcoin
-slaying silvercoin
+slaying money
 food 10
 sp 1
 type 103
@@ -45,8 +45,8 @@ end
 Object gold_converter
 name convert gold into platinum, 5 for 1
 other_arch platinacoin
-slaying goldcoin
-food 5
+slaying money
+food 50
 sp 1
 type 103
 no_pick 1
@@ -56,7 +56,7 @@ end
 Object gold_converter2
 name convert gold into silver, 1 for 10
 other_arch silvercoin
-slaying goldcoin
+slaying money
 food 1
 sp 10
 type 103
@@ -77,9 +77,9 @@ move_on walk
 end
 Object platinum_converter2
 name convert platinum into jade, 100 for 1
-other_arch jadecoin
-slaying platinacoin
-food 100
+other_arch jade
+slaying money
+food 5000
 sp 1
 type 103
 no_pick 1
@@ -89,8 +89,8 @@ end
 Object jade_converter
 name convert jade into amberium, 100 for 1
 other_arch ambercoin
-slaying jadecoin
-food 100
+slaying money
+food 500000
 sp 1
 type 103
 no_pick 1
@@ -100,8 +100,8 @@ end
 Object jade_converter2
 name convert jade into platinum, 1 for 100
 other_arch platinacoin
-slaying jadecoin
-food 1
+slaying money
+food 50
 sp 100
 type 103
 no_pick 1
@@ -110,9 +110,9 @@ move_on walk
 end
 Object amberium_converter
 name convert amberium into jade, 1 for 100
-other_arch jadecoin
+other_arch money
 slaying ambercoin
-food 100
+food 5000
 sp 1
 type 103
 no_pick 1
