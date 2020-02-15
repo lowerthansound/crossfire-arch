@@ -1133,7 +1133,7 @@ treasureone random_gem_mine_garnet
   arch garnet
     chance 5
     nrof 500
-  end  
+  end
 treasureone random_gem_mine_chrysoberyl
   arch chrysoberyl
     chance 30
