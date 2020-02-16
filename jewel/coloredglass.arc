@@ -15,6 +15,24 @@ name_pl jade
 client_type 2011
 end
 
+Object coloredglass_blue
+name colored glass
+face coloredglass_blue.111
+race gold and jewels
+type 60
+magicmap blue
+nrof 1
+value 120
+weight 50
+material 64
+materialname hard glass
+editable 2048
+identified 0
+name_pl colored glass
+client_type 2011
+end
+
+
 Object coloredglass_green
 name colored glass
 face coloredglass_green.111
