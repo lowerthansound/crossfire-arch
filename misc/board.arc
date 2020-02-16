@@ -5,7 +5,7 @@ harvestable -1
 harvest_level 1
 harvest_exp 0
 slow_move 1
-face logs1.111
+face board.111
 material 16
 weight 1500
 editable 2048
