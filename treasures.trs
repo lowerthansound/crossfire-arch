@@ -3270,7 +3270,8 @@ treasure poor
 treasure tree
   arch logs
     chance 70
-  arch apple 5
+  arch apple 
+    chance 5
   end
 treasure mountain
   arch mountain_rubble
