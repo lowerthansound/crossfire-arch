@@ -17,7 +17,6 @@ u_horn.115
 mina
 type 15
 nrof 1
-magicmap white
 name_pl unicorn horns
 client_type 627
 item_power 2
