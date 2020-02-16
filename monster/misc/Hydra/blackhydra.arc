@@ -31,7 +31,6 @@ speed -0.5
 weight 900000
 run_away 3
 editable 1
-magicmap black
 end
 More
 Object big_blackhydra_2
@@ -47,7 +46,6 @@ mina
 alive 1
 no_pick 1
 weight 900000
-magicmap green
 end
 More
 Object big_blackhydra_3
@@ -63,7 +61,6 @@ mina
 alive 1
 no_pick 1
 weight 900000
-magicmap green
 end
 More
 Object big_blackhydra_4
@@ -79,7 +76,6 @@ mina
 alive 1
 no_pick 1
 weight 900000
-magicmap green
 end
 More
 Object big_blackhydra_5
@@ -95,7 +91,6 @@ mina
 alive 1
 no_pick 1
 weight 900000
-magicmap green
 end
 More
 Object big_blackhydra_6
@@ -112,7 +107,6 @@ mina
 alive 1
 no_pick 1
 weight 900000
-magicmap green
 end
 More
 Object big_blackhydra_7
@@ -129,7 +123,6 @@ mina
 alive 1
 no_pick 1
 weight 900000
-magicmap green
 end
 More
 Object big_blackhydra_8
@@ -146,7 +139,6 @@ mina
 alive 1
 no_pick 1
 weight 900000
-magicmap black
 end
 More
 Object big_blackhydra_9
@@ -162,7 +154,6 @@ mina
 alive 1
 no_pick 1
 weight 900000
-magicmap black
 end
 More
 Object big_blackhydra_10
@@ -179,7 +170,6 @@ mina
 alive 1
 no_pick 1
 weight 900000
-magicmap black
 end
 More
 Object big_blackhydra_11
@@ -196,7 +186,6 @@ mina
 alive 1
 no_pick 1
 weight 900000
-magicmap black
 end
 More
 Object big_blackhydra_12
@@ -213,5 +202,4 @@ mina
 alive 1
 no_pick 1
 weight 900000
-magicmap green
 end
