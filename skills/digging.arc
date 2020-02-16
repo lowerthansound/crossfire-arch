@@ -2,7 +2,7 @@ Object skill_digging
 name digging
 skill digging
 slaying dig
-type 43
+type 44
 invisible 1
 no_drop 1
 subtype 39

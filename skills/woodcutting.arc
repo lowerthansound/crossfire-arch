@@ -2,7 +2,7 @@ Object skill_woodcutting
 name woodcutting
 skill woodcutting
 slaying chop
-type 43
+type 46
 invisible 1
 no_drop 1
 subtype 39

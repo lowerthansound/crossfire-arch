@@ -2,7 +2,7 @@ Object skill_mining
 name mining
 skill mining
 slaying mine
-type 43
+type 45
 invisible 1
 no_drop 1
 subtype 39

@@ -2,7 +2,7 @@ Object skill_sawing
 name sawing
 skill sawing
 slaying saw
-type 43
+type 47
 invisible 1
 no_drop 1
 subtype 39
