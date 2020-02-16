@@ -3269,25 +3269,27 @@ treasure poor
   end
 treasure tree
   arch logs
+    chance 70
+  arch apple 5
   end
 treasure mountain
   arch mountain_rubble
   end
 treasure desert
   arch sandpile
-    chance 99
+    chance 90
   more
   arch bones1
-    chance 1
+    chance 10
   more
   arch bones2
-    chance 1
+    chance 10
   more
   arch bones3
-    chance 1
+    chance 10
   more
   arch bones5
-    chance 1
+    chance 10
   end
 treasure dirt_ground
   arch ground_dirt
