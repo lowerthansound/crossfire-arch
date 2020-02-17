@@ -3,15 +3,10 @@ name statue
 name_pl statues
 face troll_stoned.111
 magicmap gray
-type 2
+type 98
 no_pick 0
 weight 100000
-move_type walk
-speed -0.2
 move_block 0
-passenger_limit 1
-container 10000000
-weight_limit 10000000
 editable 2
 visibility 100
 identified 1
