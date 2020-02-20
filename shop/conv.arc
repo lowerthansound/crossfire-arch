@@ -77,7 +77,7 @@ move_on walk
 end
 Object platinum_converter2
 name convert platinum into jade, 100 for 1
-other_arch jade
+other_arch jade_coin
 slaying money
 food 5000
 sp 1
