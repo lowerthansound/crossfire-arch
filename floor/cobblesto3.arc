@@ -2,6 +2,7 @@ Object cobblestones3
 name cobblestones
 face cobblesto1.111
 no_pick 0
+unique 1
 is_floor 1
 nrof 1
 weight 1400
