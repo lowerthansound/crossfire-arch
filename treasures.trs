@@ -3313,6 +3313,9 @@ treasure sea_stuff
   arch fish_6
     chance 20
   end
+treasure new_cobble
+  arch cobblestones2
+  end
 # I switched the names to '_old' -- these lists
 # are just the way standard/rich were before we 
 # started adding bodyparts to the treasure mix. 

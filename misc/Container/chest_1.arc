@@ -1,3 +1,16 @@
+Object new cobble
+face rock2.111
+nrof 1
+type 4
+hp 1
+material 18
+value 50
+weight 50000
+identified 1
+randomitems new_cobble
+name_pl new cobblestones
+client_type 51
+end
 Object mountain_rubble
 face rubble1.111
 harvest_race mountain_rubble
