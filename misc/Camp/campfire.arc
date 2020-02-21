@@ -10,8 +10,8 @@ wc -30
 dam 3
 attacktype 4
 speed -0.2
-glow_radius 2
-no_pick 1
+glow_radius 20
+no_pick 0
 end
 
 Object campfire_talking
