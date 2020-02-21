@@ -40,7 +40,7 @@ speed -0.4
 weight 200000
 editable 1
 run_away 3
-magicmap gray
+magicmap grey
 end
 More
 Object big_gray_2
@@ -58,7 +58,7 @@ monster 1
 alive 1
 x 1
 weight 4000000
-magicmap gray
+magicmap grey
 end
 More
 Object big_gray_3
@@ -76,7 +76,7 @@ monster 1
 alive 1
 y 1
 weight 4000000
-magicmap gray
+magicmap grey
 end
 More
 Object big_gray_4
@@ -95,7 +95,7 @@ alive 1
 x 1
 y 1
 weight 4000000
-magicmap gray
+magicmap grey
 end
 More
 Object big_gray_5
@@ -132,5 +132,5 @@ alive 1
 x 1
 y 2
 weight 4000000
-magicmap gray
+magicmap grey
 end
