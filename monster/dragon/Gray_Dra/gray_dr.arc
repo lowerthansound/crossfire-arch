@@ -113,7 +113,7 @@ monster 1
 alive 1
 y 2
 weight 4000000
-magicmap gray
+magicmap grey
 end
 More
 Object big_gray_6
