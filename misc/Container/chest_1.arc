@@ -1,4 +1,5 @@
-Object new cobble
+Object new_cobble
+name new cobble
 face rock2.111
 nrof 1
 type 4
