@@ -8,7 +8,7 @@ value 50
 weight 50000
 identified 1
 randomitems none
-other_arch cobblestones2
+other_arch cobblestones3
 name_pl new cobblestones
 client_type 51
 end
