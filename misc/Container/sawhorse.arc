@@ -1,7 +1,7 @@
 Object sawhorse
 name sawhorse
 face sawhorse.111
-no_pick 1
+no_pick 0
 type 122
 material 16
 weight 80000

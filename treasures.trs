@@ -275,6 +275,8 @@ treasureone random_shop
     chance 6
   arch shovel_1
     chance 6
+  arch sawhorse
+    chance 6
   end
 treasureone random_weapon
   list melee_weapons
