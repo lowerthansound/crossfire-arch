@@ -3314,7 +3314,7 @@ treasure sea_stuff
     chance 20
   end
 treasure new_cobble
-  arch cobblestones2
+  arch cobblestones3
   end
 # I switched the names to '_old' -- these lists
 # are just the way standard/rich were before we 
