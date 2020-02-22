@@ -141,6 +141,16 @@ subtype 2
 face mbewall_0.111
 slaying ewall_0
 end
+Object building_wall6
+name WhiteWood material
+nrof 1
+weight 1000
+value 1600
+type 161
+subtype 2
+face mbwwall_0.111
+slaying wwall_0
+end
 Object building_swall
 name Fence material
 nrof 1
