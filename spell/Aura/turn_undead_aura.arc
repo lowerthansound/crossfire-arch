@@ -5,8 +5,6 @@ invisible 1
 face turnundead.111
 type 102
 subtype 46
-dam 1
-attacktype 4
 no_drop 1
 speed 1
 no_pick 1
