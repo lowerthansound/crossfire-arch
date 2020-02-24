@@ -183,10 +183,6 @@ treasureone staff
     nrof 5
     chance 5
   more
-  arch spell_raise_dead
-    nrof 5
-    chance 5
-  more
   arch spell_summon_avatar
     nrof 5
     chance 5
@@ -203,10 +199,6 @@ treasureone staff
     nrof 5
     chance 5
   more
-  arch spell_glyph
-    nrof 5
-    chance 5
-  more
   arch spell_holy_wrath
     nrof 5
     chance 5
@@ -220,10 +212,6 @@ treasureone staff
     chance 5
   more
   arch spell_resurrection
-    nrof 5
-    chance 5
-  more
-  arch spell_reincarnation
     nrof 5
     chance 5
   more

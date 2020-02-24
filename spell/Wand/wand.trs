@@ -79,10 +79,6 @@ treasureone wand
     nrof 10
     chance 1
   more
-  arch spell_pentagram
-    nrof 10
-    chance 1
-  more
   arch spell_detect_magic
     nrof 10
     chance 10
@@ -204,10 +200,6 @@ treasureone wand
     chance 1
   more
   arch spell_magic_drain
-    nrof 10
-    chance 1
-  more
-  arch spell_magic_rune
     nrof 10
     chance 1
   more
@@ -372,10 +364,6 @@ treasureone wand
     chance 1
   more
   arch spell_large_icestorm
-    nrof 10
-    chance 1
-  more
-  arch spell_sigil
     nrof 10
     chance 1
 # Polymorph is disabled by default.
