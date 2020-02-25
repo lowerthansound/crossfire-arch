@@ -1,4 +1,4 @@
-Object spell_turn_undead
+Object spell_turn_undead_aura
 anim_suffix spellcasting
 name turn undead aura
 name_pl turn undead aura
