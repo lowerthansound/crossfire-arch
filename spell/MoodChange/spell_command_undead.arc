@@ -17,7 +17,7 @@ range 1
 range_modifier 15
 maxgrace 25
 no_attack 1
-other_arch detect_magic
+other_arch command_undead_aura
 race undead
 undead 1
 msg
