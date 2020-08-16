@@ -110,3 +110,10 @@ blocksview 1
 no_pick 1
 move_block all
 end
+Object dwall3_3
+name wall
+face dwall_E.111
+blocksview 1
+no_pick 1
+move_block all
+end
