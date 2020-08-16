@@ -3,7 +3,7 @@ anim_suffix spellcasting
 name command undead aura
 name_pl command undead aura
 face turnundead.111
-level 1
+level 10
 grace 2
 casting_time 5
 path_attuned 65536
