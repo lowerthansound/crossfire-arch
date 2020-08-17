@@ -3293,6 +3293,19 @@ treasure desert
   end
 treasure dirt_ground
   arch ground_dirt
+    chance 90
+  more
+  arch bones1
+    chance 10
+  more
+  arch bones2
+    chance 10
+  more
+  arch bones3
+    chance 10
+  more
+  arch bones5
+    chance 10
   end
 treasure sea_stuff
   arch fish_1
