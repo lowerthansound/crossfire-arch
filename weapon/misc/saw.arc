@@ -3,7 +3,7 @@ name saw
 nrof 1
 last_sp 5
 type 15
-face sai_1.111
+face saw.111
 material 18
 dam 2
 ac 1
