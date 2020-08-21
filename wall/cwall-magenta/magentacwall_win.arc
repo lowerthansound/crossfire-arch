@@ -5,6 +5,7 @@ name window
 face magentacwindow_0.111
 no_pass 1
 no_pick 1
+type 20
 visibility 100
 end
 Object magentacwall_win2
@@ -15,4 +16,5 @@ face magentacwindow_1.111
 no_pass 1
 no_pick 1
 visibility 100
+type 20
 end

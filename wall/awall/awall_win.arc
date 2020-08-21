@@ -5,6 +5,7 @@ name window
 face awindow_0.111
 move_block all
 no_pick 1
+type 20
 end
 Object awall_win2
 no_magic 0
@@ -13,4 +14,5 @@ name window
 face awindow_1.111
 move_block all
 no_pick 1
+type 20
 end
