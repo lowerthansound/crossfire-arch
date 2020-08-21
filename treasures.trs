@@ -2986,13 +2986,13 @@ treasureone random_scroll
     chance 1
   more
   arch improve_damage
-    chance 1
+    chance 0
   more
   arch improve_dex
     chance 1
   more
   arch improve_enchantment
-    chance 1
+    chance 0
   more
   arch improve_int
     chance 1
@@ -3004,7 +3004,7 @@ treasureone random_scroll
     chance 1
   more
   arch improve_weight
-    chance 1
+    chance 0
   more
   arch improve_wis
     chance 1
