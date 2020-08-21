@@ -10,7 +10,7 @@ material 1
 value 10000
 weight 200
 sp 2
-slaying ruby
+slaying potion_heroism
 identified_name_pl 
 client_type 1016
 end

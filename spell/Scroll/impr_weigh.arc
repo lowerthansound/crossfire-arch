@@ -10,6 +10,6 @@ material 1
 value 10000
 weight 200
 sp 3
-slaying pearl
+slaying potion_aethereality
 client_type 1016
 end

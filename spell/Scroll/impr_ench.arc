@@ -11,4 +11,5 @@ value 10000
 weight 200
 sp 4
 client_type 1016
+slaying medium_potion_restoration
 end
