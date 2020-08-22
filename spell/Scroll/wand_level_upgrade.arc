@@ -4,10 +4,10 @@ type 111
 face arescrystal12.111
 no_pick 0
 level 1
-arch scroll_charge_upgrade
+arch scroll_level_upgrade
 end
 end
-Object scroll_charge_upgrade
+Object scroll_level_upgrade
 title Python
 slaying /python/items/wand_improvement_scroll.py
 type 116
