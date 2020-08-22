@@ -3,6 +3,8 @@ name Crystal
 title of Wand Leveling
 type 111
 face arescrystal12.111
+weight 1000
+value 3000
 no_pick 0
 level 1
 arch scroll_level_upgrade
