@@ -1,6 +1,6 @@
 Object wand_level_upgrade
 name Crystal
-title Wand Level Upgrade
+title of Wand Leveling
 type 111
 face arescrystal12.111
 no_pick 0
