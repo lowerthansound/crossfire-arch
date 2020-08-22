@@ -1,8 +1,8 @@
 Object wand_charge_upgrade
-name Scroll of Wand Overcharge
+name Crystal of Wand Overcharge
 type 111
-face altarvalk.111
-no_pick 1
+face arescrystal.111
+no_pick 0
 level 1
 arch scroll_charge_upgrade
 end
