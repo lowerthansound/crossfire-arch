@@ -2985,6 +2985,9 @@ treasureone random_scroll
   arch improve_con
     chance 1
   more
+  arch wand_charge_upgrade
+    chance 1
+  more
   arch improve_damage
     chance 0
   more
