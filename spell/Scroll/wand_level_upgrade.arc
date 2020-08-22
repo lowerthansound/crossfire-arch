@@ -1,4 +1,4 @@
-Object wand_charge_upgrade
+Object wand_level_upgrade
 name Crystal of Wand Level Upgrade
 type 111
 face arescrystal12.111
