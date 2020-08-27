@@ -21,7 +21,6 @@ client_anim_sync 1
 anim_speed 5
 arch earth
 end
-end
 Object sea1
 name sea
 face sea.111
@@ -45,7 +44,6 @@ client_anim_sync 1
 anim_speed 5
 arch earth
 end
-end
 Object sea_nw
 name sea
 face sea_nw.111
@@ -62,7 +60,6 @@ no_pick 1
 is_water 1
 smoothlevel 20
 arch earth
-end
 end
 Object sea_ne
 name sea
@@ -81,7 +78,6 @@ is_water 1
 smoothlevel 20
 arch earth
 end
-end
 Object sea_sw
 name sea
 face sea_sw.111
@@ -98,7 +94,6 @@ no_pick 1
 is_water 1
 smoothlevel 20
 arch earth
-end
 end
 Object sea_se
 name sea
@@ -117,7 +112,6 @@ is_water 1
 smoothlevel 20
 arch earth
 end
-end
 Object sea_nes
 name sea
 face sea_7.111
@@ -134,7 +128,6 @@ is_water 1
 smoothlevel 255
 smoothface sea_7.111 empty_S.111
 arch earth
-end
 end
 Object sea_new
 name sea
@@ -153,7 +146,6 @@ smoothlevel 255
 smoothface sea_B.111 empty_S.111
 arch earth
 end
-end
 Object sea_nse
 name sea
 face sea_D.111
@@ -170,7 +162,6 @@ is_water 1
 smoothlevel 255
 smoothface sea_D.111 empty_S.111
 arch earth
-end
 end
 Object sea_sew
 name sea
@@ -189,7 +180,6 @@ smoothlevel 255
 smoothface sea_E.111 empty_S.111
 arch earth
 end
-end
 Object sea_nsew
 name sea
 face sea_F.111
@@ -206,5 +196,4 @@ is_water 1
 smoothlevel 255
 smoothface sea_E.111 empty_S.111
 arch earth
-end
 end
