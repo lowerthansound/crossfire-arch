@@ -1,7 +1,7 @@
 Object ring_of_war
 name Ring
 title of War
-face ring_war.1117
+face ring_war.117
 value 350
 weight 20
 Str 3
