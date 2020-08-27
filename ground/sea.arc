@@ -1,9 +1,10 @@
 Object sea
 face sea.111
 animation sea
-type 20
+type 4
 no_magic 0
 damned 0
+move_block walk
 msg
 The Sea is deep...
 endmsg
@@ -25,9 +26,10 @@ Object sea1
 name sea
 face sea.111
 animation sea
-type 20
+type 4
 no_magic 0
 damned 0
+move_block walk
 msg
 The Sea is deep...
 endmsg
@@ -47,7 +49,7 @@ end
 Object sea_nw
 name sea
 face sea_nw.111
-type 20
+type 4
 no_magic 0
 damned 0
 msg
@@ -64,7 +66,7 @@ end
 Object sea_ne
 name sea
 face sea_ne.111
-type 20
+type 4
 no_magic 0
 damned 0
 msg
@@ -81,7 +83,7 @@ end
 Object sea_sw
 name sea
 face sea_sw.111
-type 20
+type 4
 no_magic 0
 damned 0
 msg
@@ -98,7 +100,7 @@ end
 Object sea_se
 name sea
 face sea_se.111
-type 20
+type 4
 no_magic 0
 damned 0
 msg
@@ -115,7 +117,7 @@ end
 Object sea_nes
 name sea
 face sea_7.111
-type 20
+type 4
 no_magic 0
 damned 0
 msg
@@ -132,7 +134,7 @@ end
 Object sea_new
 name sea
 face sea_B.111
-type 20
+type 4
 no_magic 0
 damned 0
 msg
@@ -149,7 +151,7 @@ end
 Object sea_nse
 name sea
 face sea_D.111
-type 20
+type 4
 no_magic 0
 damned 0
 msg
@@ -166,7 +168,7 @@ end
 Object sea_sew
 name sea
 face sea_E.111
-type 20
+type 4
 no_magic 0
 damned 0
 msg
@@ -183,7 +185,7 @@ end
 Object sea_nsew
 name sea
 face sea_F.111
-type 20
+type 4
 no_magic 0
 damned 0
 msg
