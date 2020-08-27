@@ -1,6 +1,14 @@
 Object river_junct_ns-e
 face branch_135.111
-randomitems sea_stuff
+type 20
+no_magic 0
+damned 0
+move_block walk
+msg
+The water is clear...
+endmsg
+randomitems sea_earth
+slaying sea_test
 name river junction
 move_block walk
 no_pick 1
