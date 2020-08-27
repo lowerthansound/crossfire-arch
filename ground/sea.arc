@@ -5,7 +5,6 @@ type 20
 no_magic 0
 damned 0
 move_block walk
-hp 1
 msg
 The Sea is deep...
 endmsg
@@ -31,7 +30,6 @@ type 20
 no_magic 0
 damned 0
 move_block walk
-hp 1
 msg
 The Sea is deep...
 endmsg
@@ -60,7 +58,6 @@ endmsg
 randomitems sea_earth
 speed 0.2
 move_block walk
-hp 1
 no_pick 1
 is_water 1
 smoothlevel 20
@@ -78,7 +75,6 @@ endmsg
 randomitems sea_earth
 speed 0.2
 move_block walk
-hp 1
 no_pick 1
 is_water 1
 smoothlevel 20
@@ -96,7 +92,6 @@ endmsg
 randomitems sea_earth
 speed 0.2
 move_block walk
-hp 1
 no_pick 1
 is_water 1
 smoothlevel 20
@@ -115,7 +110,6 @@ randomitems sea_earth
 speed 0.2
 no_pick 1
 move_block walk
-hp 1
 is_water 1
 smoothlevel 20
 slaying sea_test
@@ -131,7 +125,6 @@ The Sea is deep...
 endmsg
 randomitems sea_earth
 move_block walk
-hp 1
 no_pick 1
 is_water 1
 smoothlevel 255
@@ -149,7 +142,6 @@ The Sea is deep...
 endmsg
 randomitems sea_earth
 move_block walk
-hp 1
 no_pick 1
 is_water 1
 smoothlevel 255
@@ -167,7 +159,6 @@ The Sea is deep...
 endmsg
 randomitems sea_earth
 move_block walk
-hp 1
 no_pick 1
 is_water 1
 smoothlevel 255
@@ -185,7 +176,6 @@ The Sea is deep...
 endmsg
 randomitems sea_earth
 move_block walk
-hp 1
 no_pick 1
 is_water 1
 smoothlevel 255
@@ -203,7 +193,6 @@ The Sea is deep...
 endmsg
 randomitems sea_earth
 move_block walk
-hp 1
 no_pick 1
 is_water 1
 smoothlevel 255
