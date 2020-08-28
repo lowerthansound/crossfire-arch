@@ -4,6 +4,14 @@ face magentacwall_0.111
 blocksview 1
 no_pick 1
 no_pass 1
+type 20
+no_magic 1
+damned 1
+msg
+This wall is as solid as it looks... 
+endmsg
+randomitems sea_earth
+slaying wall_buster
 visibility 100
 end
 Object magentacwall_1_2
@@ -12,6 +20,14 @@ face magentacwall_1.111
 blocksview 1
 no_pick 1
 no_pass 1
+type 20
+no_magic 1
+damned 1
+msg
+This wall is as solid as it looks... 
+endmsg
+randomitems sea_earth
+slaying wall_buster
 visibility 100
 end
 Object magentacwall_1_4
@@ -20,6 +36,14 @@ face magentacwall_2.111
 blocksview 1
 no_pick 1
 no_pass 1
+type 20
+no_magic 1
+damned 1
+msg
+This wall is as solid as it looks... 
+endmsg
+randomitems sea_earth
+slaying wall_buster
 visibility 100
 end
 Object magentacwall_2_2_1
@@ -28,6 +52,14 @@ face magentacwall_3.111
 blocksview 1
 no_pick 1
 no_pass 1
+type 20
+no_magic 1
+damned 1
+msg
+This wall is as solid as it looks... 
+endmsg
+randomitems sea_earth
+slaying wall_buster
 visibility 100
 end
 Object magentacwall_1_1
@@ -36,6 +68,14 @@ face magentacwall_4.111
 blocksview 1
 no_pick 1
 no_pass 1
+type 20
+no_magic 1
+damned 1
+msg
+This wall is as solid as it looks... 
+endmsg
+randomitems sea_earth
+slaying wall_buster
 visibility 100
 end
 Object magentacwall_2_1_1
@@ -44,6 +84,14 @@ face magentacwall_5.111
 blocksview 1
 no_pick 1
 no_pass 1
+type 20
+no_magic 1
+damned 1
+msg
+This wall is as solid as it looks... 
+endmsg
+randomitems sea_earth
+slaying wall_buster
 visibility 100
 end
 Object magentacwall_2_2_2
@@ -52,6 +100,14 @@ face magentacwall_6.111
 blocksview 1
 no_pick 1
 no_pass 1
+type 20
+no_magic 1
+damned 1
+msg
+This wall is as solid as it looks... 
+endmsg
+randomitems sea_earth
+slaying wall_buster
 visibility 100
 end
 Object magentacwall_3_2
@@ -60,6 +116,14 @@ face magentacwall_7.111
 blocksview 1
 no_pick 1
 no_pass 1
+type 20
+no_magic 1
+damned 1
+msg
+This wall is as solid as it looks... 
+endmsg
+randomitems sea_earth
+slaying wall_buster
 visibility 100
 end
 Object magentacwall_1_3
@@ -68,6 +132,14 @@ face magentacwall_8.111
 blocksview 1
 no_pick 1
 no_pass 1
+type 20
+no_magic 1
+damned 1
+msg
+This wall is as solid as it looks... 
+endmsg
+randomitems sea_earth
+slaying wall_buster
 visibility 100
 end
 Object magentacwall_2_2_4
@@ -76,6 +148,14 @@ face magentacwall_9.111
 blocksview 1
 no_pick 1
 no_pass 1
+type 20
+no_magic 1
+damned 1
+msg
+This wall is as solid as it looks... 
+endmsg
+randomitems sea_earth
+slaying wall_buster
 visibility 100
 end
 Object magentacwall_2_1_2
@@ -84,6 +164,14 @@ face magentacwall_A.111
 blocksview 1
 no_pick 1
 no_pass 1
+type 20
+no_magic 1
+damned 1
+msg
+This wall is as solid as it looks... 
+endmsg
+randomitems sea_earth
+slaying wall_buster
 visibility 100
 end
 Object magentacwall_3_1
@@ -92,6 +180,14 @@ face magentacwall_B.111
 blocksview 1
 no_pick 1
 no_pass 1
+type 20
+no_magic 1
+damned 1
+msg
+This wall is as solid as it looks... 
+endmsg
+randomitems sea_earth
+slaying wall_buster
 visibility 100
 end
 Object magentacwall_2_2_3
@@ -100,6 +196,14 @@ face magentacwall_C.111
 blocksview 1
 no_pick 1
 no_pass 1
+type 20
+no_magic 1
+damned 1
+msg
+This wall is as solid as it looks... 
+endmsg
+randomitems sea_earth
+slaying wall_buster
 visibility 100
 end
 Object magentacwall_3_4
@@ -108,6 +212,14 @@ face magentacwall_D.111
 blocksview 1
 no_pick 1
 no_pass 1
+type 20
+no_magic 1
+damned 1
+msg
+This wall is as solid as it looks... 
+endmsg
+randomitems sea_earth
+slaying wall_buster
 visibility 100
 end
 Object magentacwall_3_3
@@ -116,6 +228,14 @@ face magentacwall_E.111
 blocksview 1
 no_pick 1
 no_pass 1
+type 20
+no_magic 1
+damned 1
+msg
+This wall is as solid as it looks... 
+endmsg
+randomitems sea_earth
+slaying wall_buster
 visibility 100
 end
 Object magentacwall_4
@@ -124,5 +244,13 @@ face magentacwall_F.111
 blocksview 1
 no_pick 1
 no_pass 1
+type 20
+no_magic 1
+damned 1
+msg
+This wall is as solid as it looks... 
+endmsg
+randomitems sea_earth
+slaying wall_buster
 visibility 100
 end
