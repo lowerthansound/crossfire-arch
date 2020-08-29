@@ -278,40 +278,7 @@ treasureone random_shop
   end
 treasureone random_weapon
   list melee_weapons
-    chance 99
-  arch prepare_weapon
-    chance 1
-  more
-  arch improve_cha
-    chance 1
-  more
-  arch improve_con
-    chance 1
-  more
-  arch improve_damage
-    chance 1
-  more
-  arch improve_dex
-    chance 1
-  more
-  arch improve_enchantment
-    chance 1
-  more
-  arch improve_int
-    chance 1
-  more
-  arch improve_pow
-    chance 1
-  more
-  arch improve_str
-    chance 1
-  more
-  arch improve_weight
-    chance 0
-  more
-  arch improve_wis
-    chance 1
-  more
+    chance 20
   end
 treasureone random_armour
   arch b_full_helmet
@@ -2988,6 +2955,39 @@ treasureone random_scroll
     chance 1
   more
   arch wand_level_upgrade
+    chance 1
+  more
+  arch prepare_weapon
+    chance 1
+  more
+  arch improve_cha
+    chance 1
+  more
+  arch improve_con
+    chance 1
+  more
+  arch improve_damage
+    chance 1
+  more
+  arch improve_dex
+    chance 1
+  more
+  arch improve_enchantment
+    chance 1
+  more
+  arch improve_int
+    chance 1
+  more
+  arch improve_pow
+    chance 1
+  more
+  arch improve_str
+    chance 1
+  more
+  arch improve_weight
+    chance 0
+  more
+  arch improve_wis
     chance 1
   more
   list random_knowledge
