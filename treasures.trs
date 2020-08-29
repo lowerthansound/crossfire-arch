@@ -3307,6 +3307,9 @@ treasure sea_stuff
 treasure new_cobble
   arch cobblestones3
   end
+treasure sea_crystal
+  arch sea_drying_crystal
+  end
 # I switched the names to '_old' -- these lists
 # are just the way standard/rich were before we 
 # started adding bodyparts to the treasure mix. 
