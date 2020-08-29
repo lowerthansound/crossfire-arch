@@ -7,7 +7,7 @@ endmsg
 face rescrystal7.111
 race keys
 nrof 1
-type 24
+type 21
 material 2
 value 10
 weight 10
