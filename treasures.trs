@@ -268,22 +268,58 @@ treasureone random_shop
     chance 15
   more
   list random_special
-    chance 5
+    chance 3
   arch miningpick
-    chance 6
+    chance 10
   arch woodcuttingaxe
-    chance 6
+    chance 10
   arch shovel_1
-    chance 6
+    chance 10
   end
 treasureone random_weapon
   list melee_weapons
-    chance 10
+    chance 20
+  arch prepare_weapon
+    chance 1
+  more
+  arch improve_cha
+    chance 1
+  more
+  arch improve_con
+    chance 1
+  more
+  arch improve_damage
+    chance 1
+  more
+  arch improve_dex
+    chance 1
+  more
+  arch improve_enchantment
+    chance 1
+  more
+  arch improve_int
+    chance 1
+  more
+  arch improve_pow
+    chance 1
+  more
+  arch improve_str
+    chance 1
+  more
+  arch improve_weight
+    chance 0
+  more
+  arch improve_wis
+    chance 1
+  more
   end
 treasureone random_armour
   arch b_full_helmet
     magic 4
     chance 5
+  more
+  arch ench_armour
+    chance 1
   more
   arch b_helmet
     magic 4
@@ -2948,49 +2984,13 @@ treasureone random_scroll
   arch scroll_new
     chance 50
   more
-  arch prepare_weapon
-    chance 1
-  more
-  arch improve_cha
-    chance 1
-  more
-  arch improve_con
-    chance 1
-  more
   arch wand_charge_upgrade
     chance 1
   more
   arch wand_level_upgrade
     chance 1
   more
-  arch improve_damage
-    chance 0
-  more
-  arch improve_dex
-    chance 1
-  more
-  arch improve_enchantment
-    chance 0
-  more
-  arch improve_int
-    chance 1
-  more
-  arch improve_pow
-    chance 1
-  more
-  arch improve_str
-    chance 1
-  more
-  arch improve_weight
-    chance 0
-  more
-  arch improve_wis
-    chance 1
-  more
   list random_knowledge
-    chance 1
-  more
-  arch ench_armour
     chance 1
   end
 treasure random_amulet
