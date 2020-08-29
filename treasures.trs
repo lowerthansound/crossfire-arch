@@ -278,7 +278,7 @@ treasureone random_shop
   end
 treasureone random_weapon
   list melee_weapons
-    chance 20
+    chance 99
   arch prepare_weapon
     chance 1
   more
