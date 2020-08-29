@@ -275,8 +275,6 @@ treasureone random_shop
     chance 6
   arch shovel_1
     chance 6
-  arch sawhorse
-    chance 6
   end
 treasureone random_weapon
   list melee_weapons
@@ -315,7 +313,6 @@ treasureone random_armour
     magic 4
     chance 5
   more
-#
   arch ring_mail
     magic 4
     chance 5
@@ -560,22 +557,6 @@ treasureone random_coin
   arch silvercoin
     chance 5
     nrof 150
-  more
-  arch platinacoin
-    chance 5
-    nrof 10
-  more
-  arch platinacoin
-    chance 5
-    nrof 2
-  more
-  arch platinacoin
-    chance 5
-    nrof 4
-  more
-  arch platinacoin
-    chance 5
-    nrof 6
 end
 treasureone random_wealth
   arch goldcoin
@@ -2493,6 +2474,10 @@ treasureone throw_weapons
     nrof 4
     chance 35
   more
+  arch lspear
+    magic 4
+    chance 5
+  more
   arch axe_2
     magic 2
     nrof 5
@@ -2555,16 +2540,11 @@ treasureone melee_weapons
     magic 4
     chance 5
   more
-#
   arch dagger
     magic 4
     chance 5
   more
   arch shortsword_2
-    magic 4
-    chance 5
-  more
-  arch t_dagger
     magic 4
     chance 5
   more
@@ -2585,14 +2565,6 @@ treasureone melee_weapons
     chance 5
   more
   arch scimitar
-    magic 4
-    chance 5
-  more
-  arch spear
-    magic 4
-    chance 5
-  more
-  arch lspear
     magic 4
     chance 5
   more
@@ -3092,13 +3064,13 @@ treasureone random_inorganic
     chance 35
   more
   list random_stone
-    chance 40
+    chance 15
   more
   list random_ore
     chance 15
   more
   arch rock2
-    chance 25
+    chance 15
   end
 treasureone random_minerals
   arch largenugget

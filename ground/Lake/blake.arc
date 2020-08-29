@@ -9,7 +9,6 @@ The water is clear...
 endmsg
 randomitems sea_earth
 slaying sea_test
-move_block all
 no_pick 1
 is_water 1
 smoothlevel 255
@@ -26,7 +25,6 @@ The water is clear...
 endmsg
 randomitems sea_earth
 slaying sea_test
-move_block all
 no_pick 1
 is_water 1
 smoothlevel 255
@@ -43,7 +41,6 @@ The water is clear...
 endmsg
 randomitems sea_earth
 slaying sea_test
-move_block all
 no_pick 1
 is_water 1
 smoothlevel 255
@@ -60,7 +57,6 @@ The water is clear...
 endmsg
 randomitems sea_earth
 slaying sea_test
-move_block all
 no_pick 1
 is_water 1
 smoothlevel 255
@@ -77,7 +73,6 @@ The water is clear...
 endmsg
 randomitems sea_earth
 slaying sea_test
-move_block all
 no_pick 1
 is_water 1
 smoothlevel 255
@@ -94,7 +89,6 @@ The water is clear...
 endmsg
 randomitems sea_earth
 slaying sea_test
-move_block all
 no_pick 1
 is_water 1
 smoothlevel 255
@@ -111,7 +105,6 @@ The water is clear...
 endmsg
 randomitems sea_earth
 slaying sea_test
-move_block all
 no_pick 1
 is_water 1
 smoothlevel 255
@@ -128,7 +121,6 @@ The water is clear...
 endmsg
 randomitems sea_earth
 slaying sea_test
-move_block all
 no_pick 1
 is_water 1
 smoothlevel 255
@@ -145,7 +137,6 @@ The water is clear...
 endmsg
 randomitems sea_earth
 slaying sea_test
-move_block all
 no_pick 1
 is_water 1
 smoothlevel 255
@@ -162,7 +153,6 @@ The water is clear...
 endmsg
 randomitems sea_earth
 slaying sea_test
-move_block all
 no_pick 1
 is_water 1
 smoothlevel 255
@@ -179,7 +169,6 @@ The water is clear...
 endmsg
 randomitems sea_earth
 slaying sea_test
-move_block all
 no_pick 1
 is_water 1
 smoothlevel 255
@@ -196,7 +185,6 @@ The water is clear...
 endmsg
 randomitems sea_earth
 slaying sea_test
-move_block all
 no_pick 1
 is_water 1
 smoothlevel 255
@@ -213,7 +201,6 @@ The water is clear...
 endmsg
 randomitems sea_earth
 slaying sea_test
-move_block all
 no_pick 1
 is_water 1
 smoothlevel 255
@@ -230,7 +217,6 @@ The water is clear...
 endmsg
 randomitems sea_earth
 slaying sea_test
-move_block all
 no_pick 1
 is_water 1
 smoothlevel 255
@@ -247,7 +233,6 @@ The water is clear...
 endmsg
 randomitems sea_earth
 slaying sea_test
-move_block all
 no_pick 1
 is_water 1
 smoothlevel 255
@@ -264,7 +249,6 @@ The water is clear...
 endmsg
 randomitems sea_earth
 slaying sea_test
-move_block all
 no_pick 1
 is_water 1
 is_floor 1
