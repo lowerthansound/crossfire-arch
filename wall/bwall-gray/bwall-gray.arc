@@ -13,6 +13,7 @@ randomitems sea_earth
 slaying wall_buster
 no_pass 1
 visibility 100
+move_block all
 end
 Object bwall-gray_1_2
 name wall
@@ -29,6 +30,7 @@ randomitems sea_earth
 slaying wall_buster
 no_pass 1
 visibility 100
+move_block all
 end
 Object bwall-gray_1_4
 name wall
@@ -45,6 +47,7 @@ randomitems sea_earth
 slaying wall_buster
 no_pass 1
 visibility 100
+move_block all
 end
 Object bwall-gray_2_2_1
 name wall
@@ -61,6 +64,7 @@ randomitems sea_earth
 slaying wall_buster
 no_pass 1
 visibility 100
+move_block all
 end
 Object bwall-gray_1_1
 name wall
@@ -77,6 +81,7 @@ randomitems sea_earth
 slaying wall_buster
 no_pass 1
 visibility 100
+move_block all
 end
 Object bwall-gray_2_1_1
 name wall
@@ -93,6 +98,7 @@ randomitems sea_earth
 slaying wall_buster
 no_pass 1
 visibility 100
+move_block all
 end
 Object bwall-gray_2_2_2
 name wall
@@ -109,6 +115,7 @@ randomitems sea_earth
 slaying wall_buster
 no_pass 1
 visibility 100
+move_block all
 end
 Object bwall-gray_3_2
 name wall
@@ -125,6 +132,7 @@ randomitems sea_earth
 slaying wall_buster
 no_pass 1
 visibility 100
+move_block all
 end
 Object bwall-gray_1_3
 name wall
@@ -141,6 +149,7 @@ randomitems sea_earth
 slaying wall_buster
 no_pass 1
 visibility 100
+move_block all
 end
 Object bwall-gray_2_2_4
 name wall
@@ -157,6 +166,7 @@ randomitems sea_earth
 slaying wall_buster
 no_pass 1
 visibility 100
+move_block all
 end
 Object bwall-gray_2_1_2
 name wall
@@ -173,6 +183,7 @@ randomitems sea_earth
 slaying wall_buster
 no_pass 1
 visibility 100
+move_block all
 end
 Object bwall-gray_3_1
 name wall
@@ -189,6 +200,7 @@ randomitems sea_earth
 slaying wall_buster
 no_pass 1
 visibility 100
+move_block all
 end
 Object bwall-gray_2_2_3
 name wall
@@ -205,6 +217,7 @@ randomitems sea_earth
 slaying wall_buster
 no_pass 1
 visibility 100
+move_block all
 end
 Object bwall-gray_3_4
 name wall
@@ -221,6 +234,7 @@ randomitems sea_earth
 slaying wall_buster
 no_pass 1
 visibility 100
+move_block all
 end
 Object bwall-gray_3_3
 name wall
@@ -237,6 +251,7 @@ randomitems sea_earth
 slaying wall_buster
 no_pass 1
 visibility 100
+move_block all
 end
 Object bwall-gray_4
 name wall
@@ -253,4 +268,5 @@ randomitems sea_earth
 slaying wall_buster
 no_pass 1
 visibility 100
+move_block all
 end
