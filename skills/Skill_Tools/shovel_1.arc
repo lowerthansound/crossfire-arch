@@ -8,7 +8,7 @@ nrof 1
 type 74
 material 2
 weight 30000
-value 5
+value 1500
 animation shovel_1
 name_pl shovels
 client_type 451
