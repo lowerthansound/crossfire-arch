@@ -473,15 +473,6 @@ treasureone random_special
   arch shovel_1
     chance 10
   more
-  arch amulet
-    chance 10
-  more
-  arch wand
-    chance 15
-  more
-  arch staff
-    chance 5
-  more
   arch holy_symbol
     chance 3
   more
@@ -490,26 +481,6 @@ treasureone random_special
   more
   list random_books
     chance 5
-  more
-  arch emerald
-    chance 5
-    nrof 8
-  more
-  arch sapphire
-    chance 5
-    nrof 5
-  more
-  arch gem
-    chance 5
-    nrof 1
-  more
-  arch ruby
-    chance 5
-    nrof 3
-  more
-  arch pearl
-    chance 5
-    nrof 16
   more
   list special_uncommon
     magic 10
