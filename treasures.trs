@@ -269,12 +269,6 @@ treasureone random_shop
   more
   list random_special
     chance 3
-  arch miningpick
-    chance 10
-  arch woodcuttingaxe
-    chance 10
-  arch shovel_1
-    chance 10
   end
 treasureone random_weapon
   list melee_weapons
@@ -466,6 +460,18 @@ treasureone random_special
   more
   arch flint_and_steel
     chance 5
+  more
+  arch sawhorse
+    chance 5
+  more
+  arch miningpick
+    chance 10
+  more
+  arch woodcuttingaxe
+    chance 10
+  more
+  arch shovel_1
+    chance 10
   more
   arch amulet
     chance 10
