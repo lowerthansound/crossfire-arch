@@ -8,7 +8,7 @@ weight 80000
 container 800000
 is_cauldron 1
 Str 0
-value 18000
+value 3600
 name_pl sawhorses
 client_type 51
 end
