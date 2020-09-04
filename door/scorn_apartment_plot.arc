@@ -1,7 +1,7 @@
 Object scorn_apart_plot
 name Scorn Personal Apartment Plot
 slaying scorn_apart_builder
-randomitems none
+randomitems scorn_apartment
 move_block none
 blocksview 1
 face grass.111
