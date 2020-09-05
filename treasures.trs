@@ -3293,6 +3293,10 @@ treasure scorn_apartment
 treasure brest_apartment
   arch unique_woodfloor2
   end
+treasure darcap_apartment
+  arch unique_woodfloor2
+  end
+
 # I switched the names to '_old' -- these lists
 # are just the way standard/rich were before we 
 # started adding bodyparts to the treasure mix. 
