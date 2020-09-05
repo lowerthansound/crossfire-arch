@@ -3290,11 +3290,29 @@ treasure sea_crystal
 treasure scorn_apartment
   arch unique_woodfloor
   end
+treasure scorn_key_builder
+  arch scorn_builder_key
+  end
+treasure scorn_key_apartment
+  arch scorn_apartment_key
+  end
+treasure brest_key_builder
+  arch brest_builder_key
+  end
+treasure brest_key_apartment
+  arch brest_apartment_key
+  end
 treasure brest_apartment
   arch unique_woodfloor2
   end
 treasure darcap_apartment
   arch unique_woodfloor2
+  end
+treasure darcap_key_builder
+  arch darcap_builder_key
+  end
+treasure darcap_key_apartment
+  arch darcap_apartment_key
   end
 
 # I switched the names to '_old' -- these lists
