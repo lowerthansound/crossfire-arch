@@ -9,7 +9,7 @@ damned 1
 msg
 This wall is as solid as it looks... 
 endmsg
-randomitems sea_earth
+randomitems none
 slaying wall_buster
 move_block all
 end
@@ -24,7 +24,7 @@ damned 1
 msg
 This wall is as solid as it looks... 
 endmsg
-randomitems sea_earth
+randomitems none
 slaying wall_buster
 move_block all
 end
@@ -39,7 +39,7 @@ damned 1
 msg
 This wall is as solid as it looks... 
 endmsg
-randomitems sea_earth
+randomitems none
 slaying wall_buster
 move_block all
 end
@@ -59,7 +59,7 @@ damned 1
 msg
 This wall is as solid as it looks... 
 endmsg
-randomitems sea_earth
+randomitems none
 slaying wall_buster
 move_block all
 end
@@ -74,7 +74,7 @@ damned 1
 msg
 This wall is as solid as it looks... 
 endmsg
-randomitems sea_earth
+randomitems none
 slaying wall_buster
 move_block all
 end
@@ -89,7 +89,7 @@ damned 1
 msg
 This wall is as solid as it looks... 
 endmsg
-randomitems sea_earth
+randomitems none
 slaying wall_buster
 move_block all
 end
@@ -109,7 +109,7 @@ damned 1
 msg
 This wall is as solid as it looks... 
 endmsg
-randomitems sea_earth
+randomitems none
 slaying wall_buster
 move_block all
 end
@@ -124,7 +124,7 @@ damned 1
 msg
 This wall is as solid as it looks... 
 endmsg
-randomitems sea_earth
+randomitems none
 slaying wall_buster
 move_block all
 end
@@ -139,7 +139,7 @@ damned 1
 msg
 This wall is as solid as it looks... 
 endmsg
-randomitems sea_earth
+randomitems none
 slaying wall_buster
 move_block all
 end
@@ -154,7 +154,7 @@ damned 1
 msg
 This wall is as solid as it looks... 
 endmsg
-randomitems sea_earth
+randomitems none
 slaying wall_buster
 move_block all
 end
@@ -169,7 +169,7 @@ damned 1
 msg
 This wall is as solid as it looks... 
 endmsg
-randomitems sea_earth
+randomitems none
 slaying wall_buster
 move_block all
 end
@@ -184,7 +184,7 @@ damned 1
 msg
 This wall is as solid as it looks... 
 endmsg
-randomitems sea_earth
+randomitems none
 slaying wall_buster
 move_block all
 end
@@ -199,7 +199,7 @@ damned 1
 msg
 This wall is as solid as it looks... 
 endmsg
-randomitems sea_earth
+randomitems none
 slaying wall_buster
 move_block all
 end
@@ -214,7 +214,7 @@ damned 1
 msg
 This wall is as solid as it looks... 
 endmsg
-randomitems sea_earth
+randomitems none
 slaying wall_buster
 move_block all
 end
@@ -229,7 +229,7 @@ damned 1
 msg
 This wall is as solid as it looks... 
 endmsg
-randomitems sea_earth
+randomitems none
 slaying wall_buster
 move_block all
 end
@@ -244,7 +244,7 @@ damned 1
 msg
 This wall is as solid as it looks... 
 endmsg
-randomitems sea_earth
+randomitems none
 slaying wall_buster
 move_block all
 end
@@ -259,7 +259,7 @@ damned 1
 msg
 This wall is as solid as it looks... 
 endmsg
-randomitems sea_earth
+randomitems none
 slaying wall_buster
 move_block all
 end
@@ -274,7 +274,7 @@ damned 1
 msg
 This wall is as solid as it looks... 
 endmsg
-randomitems sea_earth
+randomitems none
 slaying wall_buster
 move_block all
 end
@@ -289,7 +289,7 @@ damned 1
 msg
 This wall is as solid as it looks... 
 endmsg
-randomitems sea_earth
+randomitems none
 slaying wall_buster
 move_block all
 end
@@ -304,7 +304,7 @@ damned 1
 msg
 This wall is as solid as it looks... 
 endmsg
-randomitems sea_earth
+randomitems none
 slaying wall_buster
 move_block all
 end
@@ -319,7 +319,7 @@ damned 1
 msg
 This wall is as solid as it looks... 
 endmsg
-randomitems sea_earth
+randomitems none
 slaying wall_buster
 move_block all
 end
@@ -334,7 +334,7 @@ damned 1
 msg
 This wall is as solid as it looks... 
 endmsg
-randomitems sea_earth
+randomitems none
 slaying wall_buster
 move_block all
 end
@@ -349,7 +349,7 @@ damned 1
 msg
 This wall is as solid as it looks... 
 endmsg
-randomitems sea_earth
+randomitems none
 slaying wall_buster
 move_block all
 end
@@ -364,7 +364,7 @@ damned 1
 msg
 This wall is as solid as it looks... 
 endmsg
-randomitems sea_earth
+randomitems none
 slaying wall_buster
 move_block all
 end
@@ -379,7 +379,7 @@ damned 1
 msg
 This wall is as solid as it looks... 
 endmsg
-randomitems sea_earth
+randomitems none
 slaying wall_buster
 move_block all
 end
@@ -394,7 +394,7 @@ damned 1
 msg
 This wall is as solid as it looks... 
 endmsg
-randomitems sea_earth
+randomitems none
 slaying wall_buster
 move_block all
 end
