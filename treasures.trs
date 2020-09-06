@@ -3290,6 +3290,9 @@ treasure sea_crystal
 treasure scorn_apartment
   arch unique_woodfloor
   end
+treasure navar_apartment
+  arch unique_woodfloor
+  end
 treasure scorn_key_builder
   arch scorn_builder_key
   end
