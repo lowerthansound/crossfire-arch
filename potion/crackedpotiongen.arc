@@ -12,4 +12,5 @@ name_pl cracked potions
 client_type 651
 skill use magic item
 on_use_yield glass_rubble
+identified 1
 end

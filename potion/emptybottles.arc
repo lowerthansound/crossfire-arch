@@ -14,6 +14,7 @@ weapontype 8
 client_type 611
 body_arm -1
 skill one handed weapons
+identified 1
 end
 
 Object w_glass_empty
@@ -32,6 +33,7 @@ weapontype 8
 client_type 611
 body_arm -1
 skill one handed weapons
+identified 1
 end
 
 Object boozebottle_empty
@@ -50,6 +52,7 @@ weapontype 8
 client_type 611
 body_arm -1
 skill one handed weapons
+identified 1
 end
 
 Object winebottle_empty
@@ -68,6 +71,7 @@ weapontype 8
 client_type 611
 body_arm -1
 skill one handed weapons
+identified 1
 end
 
 Object wbottle_empty
@@ -86,6 +90,7 @@ weapontype 8
 client_type 611
 body_arm -1
 skill one handed weapons
+identified 1
 end
 
 Object potion_empty
@@ -104,6 +109,7 @@ weapontype 8
 client_type 611
 body_arm -1
 skill one handed weapons
+identified 1
 end
 
 Object vial_empty
@@ -122,6 +128,7 @@ weapontype 8
 client_type 611
 body_arm -1
 skill one handed weapons
+identified 1
 end
 
 Object bag_empty
@@ -140,4 +147,5 @@ weapontype 8
 client_type 611
 body_arm -1
 skill one handed weapons
+identified 1
 end
