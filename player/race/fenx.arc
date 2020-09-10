@@ -4,11 +4,11 @@ race fenx
 randomitems fenx_player_items
 face fenx.150
 msg
-Skills: Woodsman, Missile Weapons, Jumping, Singing
-Resistances: None
-Attunements: None
-Special: Slow HP regeneration, fast SP regeneration, low food consumption, start with bow & arrows, See in dark
-Description:
+Skills: Levitation, Flame Touch, Praying, Pyromancy
+Resistances: ghosthit -50, cold -30; immune to poison and fire
+Attunements: attuned fire
+Special: cannot use weapons or armor; can wear 4 rings; glowing aura; fast SP regen.
+---
 Fenxes, also called Fendrakhis by other speaking races, are humanoids that have some fox-like attributes. A little smaller than humans, they are agile and clever, but usually share little affinity with magical forces.
 Once an important race of Bigworld, they were forced to hide into the Great Forest after they lost an important war against Humans, a long time ago.
 endmsg

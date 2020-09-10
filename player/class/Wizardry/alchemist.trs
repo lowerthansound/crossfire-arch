@@ -17,7 +17,7 @@ treasure alchemist_class_items
   more
   arch robe
   more
-  arch sorcerer_book_l1
+  arch arch summoner_book_l1
   more
   arch b_dagger
   end

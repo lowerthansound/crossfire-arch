@@ -11,7 +11,7 @@ treasure barbarian_class_items
   more
   arch skill_remove_trap
   more
-  arch skill_use_magic_item
+  arch skill_punching
   more
   arch guide_melee
   more

@@ -7,13 +7,17 @@ animation monk_class
 is_animated 1
 anim_speed -1
 type 37
-can_use_weapon 1
+can_use_weapon 0
 Str 2
 Dex 2
 Con 1
 Wis 1
 Int -1
 msg
+Skills: Karate, Missile Weapons, Prayer, Sense Magic, Sense Curse, Meditation
+Items: robe, sandals, rucksack
+Special: cannot wield weapons
+---
 In the Monastery, they believed in mental discipline and peace through physical training, meditation, and, to a lesser extent, religious devotion.
 Your inner peace grants you the ability to regenerate faster and to sense metaphysical auras.
 endmsg
