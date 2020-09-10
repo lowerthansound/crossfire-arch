@@ -689,7 +689,7 @@ title Python
 slaying /python/items/weapon_occidental_mages.py
 end
 end
-# It looks like a normal weapon, but then is anything but if you use it.
+# It looks like a normal weapon, but then is anything but if you # use it.
 Allowed sword,sabre,rapier,scimitar,light_sword,katana_1,falchion
 chance 2
 difficulty 10
@@ -701,7 +701,7 @@ msg
 endmsg
 arch event_attacks
 title Python
-slaying /python/items/sword_of_swords.py
+slaying /python/items/sword_of_souls.py
 end
 arch event_apply
 title Python
