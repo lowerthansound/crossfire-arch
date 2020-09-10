@@ -14,6 +14,6 @@ path_attuned 128
 no_drop 1
 invisible 1
 msg
-This spell is used to convert an altar into an altar of the god the caster worships.
+Consecrate is used to convert an altar into an altar of the god the caster worships.
 endmsg
 end
