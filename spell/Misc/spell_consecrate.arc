@@ -17,3 +17,4 @@ msg
 Consecrate is used to convert an altar into an altar of the god the caster worships.
 endmsg
 end
+
