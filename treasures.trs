@@ -3228,7 +3228,17 @@ treasure tree
   arch logs
   end
 treasure mountain
-  arch mountain_rubble
+  list random_minerals
+    chance 35
+  more
+  list random_stone
+    chance 15
+  more
+  list random_ore
+    chance 15
+  more
+  arch rock2
+    chance 15
   end
 treasure desert
   arch sandpile
