@@ -689,8 +689,8 @@ title Python
 slaying /python/items/weapon_occidental_mages.py
 end
 # It looks like a normal weapon, but then is anything but if you use it.
-Allowed all
-chance 1
+Allowed sword,sabre,rapier,scimitar,light_sword,katana_1,falchion
+chance 2
 difficulty 10
 Object Souls
 type 15
