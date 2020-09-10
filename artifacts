@@ -702,6 +702,7 @@ endmsg
 arch event_attacks
 title Python
 slaying /python/items/sword_of_swords.py
+end
 arch event_apply
 title Python
 slaying /python/items/curse_on_apply.py
