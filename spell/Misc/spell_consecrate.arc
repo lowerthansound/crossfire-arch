@@ -1,4 +1,4 @@
-Object spell_consecrate
+Object spell_consecrat
 anim_suffix spellcasting
 name consecrate
 name_pl consecrate
