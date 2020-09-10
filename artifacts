@@ -688,6 +688,7 @@ arch event_attacks
 title Python
 slaying /python/items/weapon_occidental_mages.py
 end
+end
 # It looks like a normal weapon, but then is anything but if you use it.
 Allowed sword,sabre,rapier,scimitar,light_sword,katana_1,falchion
 chance 2
