@@ -3228,92 +3228,11 @@ treasure tree
   arch logs
   end
 treasure mountain
-  more 
-   arch rubble
-    chance 30
-  more
-  arch zincore
-    chance 8
-  more
-  arch copperore
-    chance 8
-  more
-  arch leadore
-    chance 8
-  more
-  arch tinore
-    chance 8
-  more
-  arch ironore
-    chance 8
-  more
-  arch uraniumore
-    chance 8
-  more
-  arch silverore
-    chance 1
-  more
-  arch goldore
-    chance 1
-  more
-  arch platore
-    chance 1
-  more
-  arch mountain_stone
-    chance 12
-    nrof 3
-  more
-  arch river_stone
-    chance 10
-    nrof 6
-  more
-  arch field_stone
-    chance 10
-    nrof 6
-  more
-  arch largenugget
-    chance 5
-    nrof 3
-  more
-  arch smallnugget
-    chance 2
-    nrof 5
-  more
-  arch largenugget
-    chance 2
-    nrof 3
-  more
-  arch smallnugget
-    chance 5
-    nrof 5
-  more
-  arch gypsum
-    chance 10
-    nrof 3
-  more
-  arch pyrite
-    chance 10
-    nrof 3
-  more
-  arch cinnabar
-    chance 8
-    nrof 2
-  more
-  arch phosphorus
-    chance 10
-    nrof 4
-  more
-  arch sulphur
-    chance 10
-    nrof 4
+  arch mountain_rubble
   end
 treasure desert
   arch sandpile
     chance 90
-  more
-  arch salt
-    chance 15
-    nrof 5
   more
   arch bones1
     chance 10
