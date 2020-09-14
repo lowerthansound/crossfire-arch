@@ -22,7 +22,7 @@ client_anim_sync 1
 anim_speed 5
 slaying sea_test
 end
-Object sea1
+Object dryable_sea1
 name sea
 face sea.111
 animation sea
@@ -31,7 +31,7 @@ no_magic 0
 damned 0
 move_block walk
 msg
-The Sea is deep...
+This sea looks strange...
 endmsg
 randomitems sea_earth
 smoothface sea.111 sea_S.111
@@ -46,14 +46,14 @@ client_anim_sync 1
 anim_speed 5
 slaying sea_test
 end
-Object sea_nw
+Object dryable_sea_nw
 name sea
 face sea_nw.111
 type 20
 no_magic 0
 damned 0
 msg
-The Sea is deep...
+This sea looks strange...
 endmsg
 randomitems sea_earth
 speed 0.2
@@ -63,14 +63,14 @@ is_water 1
 smoothlevel 20
 slaying sea_test
 end
-Object sea_ne
+Object dryable_sea_ne
 name sea
 face sea_ne.111
 type 20
 no_magic 0
 damned 0
 msg
-The Sea is deep...
+This sea looks strange...
 endmsg
 randomitems sea_earth
 speed 0.2
@@ -80,14 +80,14 @@ is_water 1
 smoothlevel 20
 slaying sea_test
 end
-Object sea_sw
+Object dryable_sea_sw
 name sea
 face sea_sw.111
 type 20
 no_magic 0
 damned 0
 msg
-The Sea is deep...
+This sea looks strange...
 endmsg
 randomitems sea_earth
 speed 0.2
@@ -97,14 +97,14 @@ is_water 1
 smoothlevel 20
 slaying sea_test
 end
-Object sea_se
+Object dryable_sea_se
 name sea
 face sea_se.111
 type 20
 no_magic 0
 damned 0
 msg
-The Sea is deep...
+This sea looks strange...
 endmsg
 randomitems sea_earth
 speed 0.2
@@ -114,14 +114,14 @@ is_water 1
 smoothlevel 20
 slaying sea_test
 end
-Object sea_nes
+Object dryable_sea_nes
 name sea
 face sea_7.111
 type 20
 no_magic 0
 damned 0
 msg
-The Sea is deep...
+This sea looks strange...
 endmsg
 randomitems sea_earth
 move_block walk
@@ -131,14 +131,14 @@ smoothlevel 255
 smoothface sea_7.111 empty_S.111
 slaying sea_test
 end
-Object sea_new
+Object dryable_sea_new
 name sea
 face sea_B.111
 type 20
 no_magic 0
 damned 0
 msg
-The Sea is deep...
+This sea looks strange...
 endmsg
 randomitems sea_earth
 move_block walk
@@ -148,14 +148,14 @@ smoothlevel 255
 smoothface sea_B.111 empty_S.111
 slaying sea_test
 end
-Object sea_nse
+Object dryable_sea_nse
 name sea
 face sea_D.111
 type 20
 no_magic 0
 damned 0
 msg
-The Sea is deep...
+This sea looks strange...
 endmsg
 randomitems sea_earth
 move_block walk
@@ -165,14 +165,14 @@ smoothlevel 255
 smoothface sea_D.111 empty_S.111
 slaying sea_test
 end
-Object sea_sew
+Object dryable_sea_sew
 name sea
 face sea_E.111
 type 20
 no_magic 0
 damned 0
 msg
-The Sea is deep...
+This sea looks strange...
 endmsg
 randomitems sea_earth
 move_block walk
@@ -182,14 +182,14 @@ smoothlevel 255
 smoothface sea_E.111 empty_S.111
 slaying sea_test
 end
-Object sea_nsew
+Object dryable_sea_nsew
 name sea
 face sea_F.111
 type 20
 no_magic 0
 damned 0
 msg
-The Sea is deep...
+This sea looks strange...
 endmsg
 randomitems sea_earth
 move_block walk
