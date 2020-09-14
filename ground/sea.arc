@@ -23,6 +23,7 @@ face sea.111
 msg
 The water is clear...
 endmsg
+move_block walk
 animation sea
 smoothface sea.111 sea_S.111
 smoothface sea.112 sea_S.112
