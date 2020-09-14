@@ -1,4 +1,4 @@
-Object sea
+Object dryable_sea
 face sea.111
 animation sea
 type 20
@@ -6,7 +6,7 @@ no_magic 0
 damned 0
 move_block walk
 msg
-The Sea is deep...
+This sea looks strange...
 endmsg
 randomitems sea_earth
 smoothface sea.111 sea_S.111

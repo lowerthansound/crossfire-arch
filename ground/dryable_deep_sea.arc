@@ -1,4 +1,4 @@
-Object deep_sea
+Object dryable_deep_sea
 face deep_sea.111
 animation deep_sea
 smoothlevel 17
@@ -11,7 +11,7 @@ no_magic 0
 damned 0
 move_block walk
 msg
-The water is clear...
+This deep sea looks strange...
 endmsg
 randomitems sea_earth
 slaying sea_test

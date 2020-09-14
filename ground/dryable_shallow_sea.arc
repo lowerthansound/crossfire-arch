@@ -1,10 +1,10 @@
-Object shallow_sea
+Object dryable_shallow_sea
 name shallow sea
 face shallow_sea.111
 randomitems sea_earth
 type 20
 msg
-The Sea is shallow...
+This shallow sea looks strange...
 endmsg
 no_magic 0
 damned 0
