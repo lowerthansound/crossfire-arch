@@ -1,4 +1,5 @@
 Object tech_spider
+name strange metal spider
 face tech_spider_1.111
 race insect
 animation tech_spider
