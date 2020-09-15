@@ -2,7 +2,7 @@ face button_1_off.111
 magicmap grey
 visibility 50
 end
-face button_1_on.112
+face button_1_on.111
 magicmap grey
 visibility 50
 end
