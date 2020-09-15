@@ -13,6 +13,7 @@ this feels hollow... maybe you can pry off
 the lid if you climb on top...
 endmsg
 animation sci_container_face
+is_animated 0
 identified 1
 name_pl strange containers
 client_type 51
@@ -50,6 +51,8 @@ type 121
 face sci_container_2a.112
 no_pick 1
 no_drop 1
+animation sci_container_face
+is_animated 0
 identified 1
 end
 More
