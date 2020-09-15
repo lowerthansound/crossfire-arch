@@ -52,6 +52,7 @@ no_pick 1
 no_drop 1
 identified 1
 end
+More
 Object close_sci_container
 name strange container
 type 121
@@ -61,6 +62,7 @@ no_drop 1
 identified 1
 x 1
 end
+More
 Object close_sci_container
 name strange container
 type 121
@@ -71,6 +73,7 @@ no_pass 1
 identified 1
 y 1
 end
+More
 Object close_sci_container
 name strange container
 type 121
