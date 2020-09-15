@@ -8,6 +8,7 @@ client_type 25012
 material 128
 container 150000
 weight 40000
+animation sci_container_face
 identified 1
 name_pl strange containers
 client_type 51
