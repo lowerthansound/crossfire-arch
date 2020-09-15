@@ -8,6 +8,10 @@ client_type 25012
 material 128
 container 150000
 weight 40000
+msg 
+this feels hollow... maybe you can pry off
+the lid if you climb on top...
+endmsg
 animation sci_container_face
 identified 1
 name_pl strange containers
@@ -28,6 +32,7 @@ type 122
 face sci_container_1a.111
 y 1
 no_pick 1
+no_pass 1
 end
 More
 Object sci_container_3
@@ -37,6 +42,7 @@ face sci_container_1a.111
 x 1
 y 1
 no_pick 1
+no_pass 1
 end
 Object close_sci_container
 name strange container
@@ -46,3 +52,34 @@ no_pick 1
 no_drop 1
 identified 1
 end
+Object close_sci_container
+name strange container
+type 121
+face sci_container_2a.112
+no_pick 1
+no_drop 1
+identified 1
+x 1
+end
+Object close_sci_container
+name strange container
+type 121
+face sci_container_2a.112
+no_pick 1
+no_drop 1
+no_pass 1
+identified 1
+y 1
+end
+Object close_sci_container
+name strange container
+type 121
+face sci_container_2a.112
+no_pick 1
+no_drop 1
+no_pass 1
+identified 1
+x 1
+y 1
+end
+
