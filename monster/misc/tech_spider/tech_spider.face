@@ -1,0 +1,15 @@
+animation tech_spider
+facings 1
+tech_spider_1.111
+tech_spider_2.111
+tech_spider_3.111
+mina
+face tech_spider_1.111
+magicmap black
+end
+face tech_spider_2.111
+magicmap black
+end
+face tech_spider_3.111
+magicmap black
+end
