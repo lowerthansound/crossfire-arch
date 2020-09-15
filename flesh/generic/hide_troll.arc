@@ -6,5 +6,4 @@ material 32
 type 72
 # troll hide is heavy (25% weight vs. 20%)
 weight 25
-value 300
 end
