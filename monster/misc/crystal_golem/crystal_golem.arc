@@ -37,3 +37,34 @@ resist_death 100
 resist_blind 100
 resist_fire 30
 end
+More
+Object crystal_golem_2
+name golem of Necromancer
+face crystal_golem_e_1.131
+animation crystal_golem
+monster 1
+move_type walk
+alive 1
+x 1
+end
+More
+Object crystal_golem_3
+name golem of Necromancer
+face crystal_golem_e_1.131
+animation crystal_golem
+monster 1
+move_type walk
+alive 1
+y 1
+end
+More
+Object crystal_golem_3
+name golem of Necromancer
+face crystal_golem_e_1.131
+animation crystal_golem
+monster 1
+move_type walk
+alive 1
+x 1
+y 1
+end
