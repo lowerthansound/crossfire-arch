@@ -106,3 +106,10 @@ face comp_terminal_18.111
 no_pick 1
 end
 
+Object comp_terminal_19
+name computer terminal
+face comp_terminal_19.111
+no_pick 1
+end
+
+
