@@ -19,7 +19,7 @@ More
 Object sci_container_1
 name strange container
 type 122
-face sci_container_1b.111
+face sci_container_1a.111
 x 1
 no_pick 1
 end
@@ -27,7 +27,7 @@ More
 Object sci_container_2
 name strange container
 type 122
-face sci_container_1c.111
+face sci_container_1a.111
 y 1
 no_pick 1
 end
@@ -35,7 +35,7 @@ More
 Object sci_container_3
 name strange container
 type 122
-face sci_container_1d.111
+face sci_container_1a.111
 x 1
 y 1
 no_pick 1
@@ -54,7 +54,7 @@ More
 Object close_sci_container_1
 name strange container
 type 121
-face sci_container_2b.111
+face sci_container_2a.111
 x 1
 no_pick 1
 no_drop 1
@@ -64,7 +64,7 @@ More
 Object close_sci_container_2
 name strange container
 type 121
-face sci_container_2c.111
+face sci_container_2a.111
 y 1
 no_pick 1
 no_drop 1
@@ -74,7 +74,7 @@ More
 Object close_sci_container_3
 name strange container
 type 121
-face sci_container_2d.111
+face sci_container_2a.111
 x 1
 y 1
 no_pick 1
