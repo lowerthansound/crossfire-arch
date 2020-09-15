@@ -46,34 +46,3 @@ no_pick 1
 no_drop 1
 identified 1
 end
-More
-Object close_sci_container_1
-name strange container
-type 121
-face sci_container_2a.112
-x 1
-no_pick 1
-no_drop 1
-identified 1
-end
-More
-Object close_sci_container_2
-name strange container
-type 121
-face sci_container_2a.112
-y 1
-no_pick 1
-no_drop 1
-identified 1
-end
-More
-Object close_sci_container_3
-name strange container
-type 121
-face sci_container_2a.112
-x 1
-y 1
-no_pick 1
-no_drop 1
-identified 1
-end
