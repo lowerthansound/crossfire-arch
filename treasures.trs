@@ -504,39 +504,39 @@ treasureone random_coin
   more
   arch goldcoin
     chance 5
-    nrof 10
+    nrof 1
   more
   arch goldcoin
+    chance 5
+    nrof 1
+  more
+  arch goldcoin
+    chance 5
+    nrof 2
+  more
+  arch goldcoin
+    chance 5
+    nrof 2
+  more
+  arch silvercoin
+    chance 5
+    nrof 2
+  more
+  arch silvercoin
+    chance 5
+    nrof 5
+  more
+  arch silvercoin
+    chance 5
+    nrof 7
+  more
+  arch silvercoin
+    chance 5
+    nrof 1
+  more
+  arch silvercoin
     chance 5
     nrof 15
-  more
-  arch goldcoin
-    chance 5
-    nrof 20
-  more
-  arch goldcoin
-    chance 5
-    nrof 25
-  more
-  arch silvercoin
-    chance 5
-    nrof 25
-  more
-  arch silvercoin
-    chance 5
-    nrof 50
-  more
-  arch silvercoin
-    chance 5
-    nrof 75
-  more
-  arch silvercoin
-    chance 5
-    nrof 100
-  more
-  arch silvercoin
-    chance 5
-    nrof 150
 end
 treasureone random_wealth
   arch goldcoin
@@ -573,11 +573,11 @@ treasureone random_wealth
   more
   arch silvercoin
     chance 5
-    nrof 100
+    nrof 1
   more
   arch silvercoin
     chance 5
-    nrof 150
+    nrof 15
   more
   arch platinacoin
     chance 5
@@ -637,19 +637,19 @@ treasureone random_wealth
   end
 treasureone random_gem_amethyst
   arch amethyst
-    chance 30
+    chance 3
     nrof 1
   more
   arch amethyst
-    chance 20
+    chance 2
     nrof 2
   more
   arch amethyst
-    chance 20
+    chance 2
     nrof 3
   more
   arch amethyst
-    chance 10
+    chance 1
     nrof 4
   more
   arch amethyst
@@ -671,563 +671,563 @@ treasureone random_gem_amethyst
 treasureone random_gem_mine_emerald
   arch emerald
     chance 30
-    nrof 20
+    nrof 2
   more
   arch emerald
     chance 20
-    nrof 30
+    nrof 3
   more
   arch emerald
     chance 20
-    nrof 50
+    nrof 5
   more
   arch emerald
     chance 10
-    nrof 70
+    nrof 7
   more
   arch emerald
     chance 5
-    nrof 100
+    nrof 1
   more
   arch emerald
     chance 5
-    nrof 200
+    nrof 2
   more
   arch emerald
     chance 5
-    nrof 300
+    nrof 3
   more
   arch emerald
     chance 5
-    nrof 500
+    nrof 5
   end
 treasureone random_gem_mine_ruby
   arch ruby
-    chance 30
-    nrof 20
+    chance 3
+    nrof 2
   more
   arch ruby
-    chance 20
-    nrof 30
+    chance 2
+    nrof 3
   more
   arch ruby
-    chance 20
-    nrof 50
+    chance 2
+    nrof 5
   more
   arch ruby
-    chance 10
-    nrof 70
-  more
-  arch ruby
-    chance 5
-    nrof 100
+    chance 1
+    nrof 7
   more
   arch ruby
     chance 5
-    nrof 200
+    nrof 1
   more
   arch ruby
     chance 5
-    nrof 300
+    nrof 2
   more
   arch ruby
     chance 5
-    nrof 500
+    nrof 3
+  more
+  arch ruby
+    chance 5
+    nrof 5
   end
 treasureone random_gem_mine_sapphire
   arch sapphire
     chance 30
-    nrof 20
+    nrof 2
   more
   arch sapphire
     chance 20
-    nrof 30
+    nrof 3
   more
   arch sapphire
     chance 20
-    nrof 50
+    nrof 5
   more
   arch sapphire
     chance 10
-    nrof 70
+    nrof 7
   more
   arch sapphire
     chance 5
-    nrof 100
+    nrof 1
   more
   arch sapphire
     chance 5
-    nrof 200
+    nrof 2
   more
   arch sapphire
     chance 5
-    nrof 300
+    nrof 3
   more
   arch sapphire
     chance 5
-    nrof 500
+    nrof 5
   end
 treasureone random_gem_mine_gem
   arch gem
     chance 30
-    nrof 20
+    nrof 2
   more
   arch graphite
     chance 20
-    nrof 30
+    nrof 3
   more
   arch gem
     chance 20
-    nrof 30
+    nrof 3
   more
   arch graphite
     chance 10
-    nrof 70
+    nrof 7
   more
   arch gem
     chance 5
-    nrof 50
+    nrof 5
   more
   arch graphite
     chance 5
-    nrof 200
+    nrof 2
   more
   arch gem
     chance 5
-    nrof 100
+    nrof 1
   more
   arch gem
     chance 5
-    nrof 200
+    nrof 2
   end
 treasureone random_gem_mine_amethyst
   arch amethyst
     chance 30
-    nrof 20
+    nrof 2
   more
   arch amethyst
     chance 20
-    nrof 30
+    nrof 3
   more
   arch amethyst
     chance 20
-    nrof 50
+    nrof 5
   more
   arch amethyst
     chance 10
-    nrof 70
+    nrof 7
   more
   arch amethyst
     chance 5
-    nrof 100
+    nrof 1
   more
   arch amethyst
     chance 5
-    nrof 200
+    nrof 2
   more
   arch amethyst
     chance 5
-    nrof 300
+    nrof 3
   more
   arch amethyst
     chance 5
-    nrof 500
+    nrof 5
   end
 treasureone random_gem_mine_onyx
   arch onyx
     chance 30
-    nrof 20
+    nrof 2
   more
   arch onyx
     chance 20
-    nrof 30
+    nrof 3
   more
   arch onyx
     chance 20
-    nrof 50
+    nrof 5
   more
   arch onyx
-    chance 10
-    nrof 70
-  more
-  arch onyx
-    chance 5
-    nrof 100
+    chance 1
+    nrof 7
   more
   arch onyx
     chance 5
-    nrof 200
+    nrof 1
   more
   arch onyx
     chance 5
-    nrof 300
+    nrof 2
   more
   arch onyx
     chance 5
-    nrof 500
+    nrof 3
+  more
+  arch onyx
+    chance 5
+    nrof 5
   end
 treasureone random_gem_mine_tourmaline
   arch tourmaline
     chance 30
-    nrof 20
+    nrof 2
   more
   arch tourmaline
     chance 20
-    nrof 30
+    nrof 3
   more
   arch tourmaline
     chance 20
-    nrof 50
+    nrof 5
   more
   arch tourmaline
     chance 10
-    nrof 70
+    nrof 7
   more
   arch tourmaline
     chance 5
-    nrof 100
+    nrof 1
   more
   arch tourmaline
     chance 5
-    nrof 200
+    nrof 2
   more
   arch tourmaline
     chance 5
-    nrof 300
+    nrof 3
   more
   arch tourmaline
     chance 5
-    nrof 500
+    nrof 5
   end
 treasureone random_gem_mine_topaz
   arch topaz
     chance 30
-    nrof 20
+    nrof 2
   more
   arch topaz
     chance 20
-    nrof 30
+    nrof 3
   more
   arch topaz
     chance 20
-    nrof 50
+    nrof 5
   more
   arch topaz
     chance 10
-    nrof 70
+    nrof 7
   more
   arch topaz
     chance 5
-    nrof 100
+    nrof 1
   more
   arch topaz
     chance 5
-    nrof 200
+    nrof 2
   more
   arch topaz
     chance 5
-    nrof 300
+    nrof 3
   more
   arch topaz
     chance 5
-    nrof 500
+    nrof 5
   end
 treasureone random_gem_mine_quartz
   arch quartz
     chance 30
-    nrof 20
+    nrof 2
   more
   arch quartz
     chance 20
-    nrof 30
+    nrof 3
   more
   arch quartz
     chance 20
-    nrof 50
+    nrof 5
   more
   arch quartz
     chance 10
-    nrof 70
+    nrof 7
   more
   arch quartz
     chance 5
-    nrof 100
+    nrof 1
   more
   arch quartz
     chance 5
-    nrof 200
+    nrof 2
   more
   arch quartz
     chance 5
-    nrof 300
+    nrof 3
   more
   arch quartz
     chance 5
-    nrof 500
+    nrof 5
   end
 treasureone random_gem_mine_peridot
   arch peridot
     chance 30
-    nrof 20
+    nrof 2
   more
   arch peridot
     chance 20
-    nrof 30
+    nrof 3
   more
   arch peridot
     chance 20
-    nrof 50
+    nrof 5
   more
   arch peridot
     chance 10
-    nrof 70
+    nrof 7
   more
   arch peridot
     chance 5
-    nrof 100
+    nrof 1
   more
   arch peridot
     chance 5
-    nrof 200
+    nrof 2
   more
   arch peridot
     chance 5
-    nrof 300
+    nrof 3
   more
   arch peridot
     chance 5
-    nrof 500
+    nrof 5
   end
 treasureone random_gem_mine_mithril
   arch mithril
     chance 30
-    nrof 20
+    nrof 2
   more
   arch mithril
     chance 20
-    nrof 30
+    nrof 3
   more
   arch mithril
     chance 20
-    nrof 50
+    nrof 5
   more
   arch mithril
     chance 10
-    nrof 70
+    nrof 7
   more
   arch mithril
     chance 5
-    nrof 100
+    nrof 1
   more
   arch mithril
     chance 5
-    nrof 200
+    nrof 2
   more
   arch mithril
     chance 5
-    nrof 300
+    nrof 3
   more
   arch mithril
     chance 5
-    nrof 500
+    nrof 5
   end
 treasureone random_gem_mine_jacinth
   arch jacinth
     chance 30
-    nrof 20
+    nrof 2
   more
   arch jacinth
     chance 20
-    nrof 30
+    nrof 3
   more
   arch jacinth
     chance 20
-    nrof 50
+    nrof 5
   more
   arch jacinth
     chance 10
-    nrof 70
+    nrof 7
   more
   arch jacinth
     chance 5
-    nrof 100
+    nrof 1
   more
   arch jacinth
     chance 5
-    nrof 200
+    nrof 2
   more
   arch jacinth
     chance 5
-    nrof 300
+    nrof 3
   more
   arch jacinth
     chance 5
-    nrof 500
+    nrof 5
   end
 treasureone random_gem_mine_garnet
   arch garnet
     chance 30
-    nrof 20
+    nrof 2
   more
   arch garnet
     chance 20
-    nrof 30
+    nrof 3
   more
   arch garnet
     chance 20
-    nrof 50
+    nrof 5
   more
   arch garnet
     chance 10
-    nrof 70
+    nrof 7
   more
   arch garnet
     chance 5
-    nrof 100
+    nrof 1
   more
   arch garnet
     chance 5
-    nrof 200
+    nrof 2
   more
   arch garnet
     chance 5
-    nrof 300
+    nrof 3
   more
   arch garnet
     chance 5
-    nrof 500
+    nrof 5
   end
 treasureone random_gem_mine_chrysoberyl
   arch chrysoberyl
     chance 30
-    nrof 20
+    nrof 2
   more
   arch chrysoberyl
     chance 20
-    nrof 30
+    nrof 3
   more
   arch chrysoberyl
     chance 20
-    nrof 50
+    nrof 5
   more
   arch chrysoberyl
     chance 10
-    nrof 70
+    nrof 7
   more
   arch chrysoberyl
     chance 5
-    nrof 100
+    nrof 1
   more
   arch chrysoberyl
     chance 5
-    nrof 200
+    nrof 2
   more
   arch chrysoberyl
     chance 5
-    nrof 300
+    nrof 3
   more
   arch chrysoberyl
     chance 5
-    nrof 500
+    nrof 5
   end
 treasureone random_gem_mine_chalcedony
   arch chalcedony
     chance 30
-    nrof 20
+    nrof 2
   more
   arch chalcedony
     chance 20
-    nrof 30
+    nrof 3
   more
   arch chalcedony
     chance 20
-    nrof 50
+    nrof 5
   more
   arch chalcedony
     chance 10
-    nrof 70
+    nrof 7
   more
   arch chalcedony
     chance 5
-    nrof 100
+    nrof 1
   more
   arch chalcedony
     chance 5
-    nrof 200
+    nrof 2
   more
   arch chalcedony
     chance 5
-    nrof 300
+    nrof 3
   more
   arch chalcedony
     chance 5
-    nrof 500
+    nrof 5
   end
 treasureone random_gem_mine_aquamarine_gem
   arch aquamarine_gem
     chance 30
-    nrof 20
+    nrof 2
   more
   arch aquamarine_gem
     chance 20
-    nrof 30
+    nrof 3
   more
   arch aquamarine_gem
     chance 20
-    nrof 50
+    nrof 5
   more
   arch aquamarine_gem
     chance 10
-    nrof 70
+    nrof 7
   more
   arch aquamarine_gem
     chance 5
-    nrof 100
+    nrof 1
   more
   arch aquamarine_gem
     chance 5
-    nrof 200
+    nrof 2
   more
   arch aquamarine_gem
     chance 5
-    nrof 300
+    nrof 3
   more
   arch aquamarine_gem
     chance 5
-    nrof 500
+    nrof 5
   end
 treasureone random_gem_mine_agate
   arch agate
     chance 30
-    nrof 20
+    nrof 2
   more
   arch agate
     chance 20
-    nrof 30
+    nrof 3
   more
   arch agate
     chance 20
-    nrof 50
+    nrof 5
   more
   arch agate
     chance 10
-    nrof 70
+    nrof 7
   more
   arch agate
     chance 5
-    nrof 100
+    nrof 1
   more
   arch agate
     chance 5
-    nrof 200
+    nrof 2
   more
   arch agate
     chance 5
-    nrof 300
+    nrof 3
   more
   arch agate
     chance 5
-    nrof 500
+    nrof 5
   end
 treasureone random_gem_new
   arch coloredglass_white
