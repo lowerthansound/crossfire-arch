@@ -1,9 +1,8 @@
 Object table_1x2
 name large table
 face table_1x2.111
-no_pick 1
+no_pick 0
 weight 150000
-value 55
 material 16
 name_pl large tables
 client_type 8002
@@ -12,9 +11,8 @@ More
 Object table_1x2_2
 name large table
 face table_1x2.111
-no_pick 1
+no_pick 0
 weight 150000
-value 55
 material 16
 name_pl large tables
 client_type 8002

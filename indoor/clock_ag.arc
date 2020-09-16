@@ -7,7 +7,6 @@ animation clock_ag
 anim_speed 20
 client_anim_random 1
 weight 320000
-value 52890
 material 20
 materialname ancient wood
 name_pl ancient gnomish clocks
