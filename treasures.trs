@@ -3226,25 +3226,20 @@ treasure poor
   end
 treasure tree
   arch logs
+  nrof 2
   end
 treasure mountain
   arch mountain_rubble
+  nrof 2
   end
 treasure desert
   arch sandpile
     chance 90
-  more
-  arch bones1
-    chance 10
+  nrof 5
   more
   arch bones2
-    chance 10
-  more
-  arch bones3
-    chance 10
-  more
-  arch bones5
-    chance 10
+    chance 1
+  nrof 1
   end
 treasure dirt_ground
   arch ground_dirt
