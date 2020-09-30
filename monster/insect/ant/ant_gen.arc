@@ -34,6 +34,10 @@ speed 0.03
 maxsp 1
 weight 100000
 generator_limit 5
+smoothlevel 37
+is_floor 1
+smoothface desert.111 desert_S.111
+no_damage 1
 end
 
 Object generate_ant_beach
@@ -53,4 +57,8 @@ speed 0.03
 maxsp 1
 weight 100000
 generator_limit 5
+is_floor 1
+smoothlevel 10
+smoothface beach.111 beach_S.111
+no_damage 1
 end
