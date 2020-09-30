@@ -38,7 +38,6 @@ smoothlevel 37
 is_floor 1
 smoothface desert.111 desert_S.111
 no_damage 1
-death_animation filth
 randomitems gen_waste
 end
 
