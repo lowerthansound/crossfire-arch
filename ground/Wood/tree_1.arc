@@ -8,4 +8,5 @@ no_pick 1
 is_floor 1
 smoothface tree_1.111 sgrass_S.111
 smoothlevel 125
+harvest_exhaust_replacement grass
 end

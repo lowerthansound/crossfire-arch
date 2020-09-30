@@ -12,4 +12,5 @@ move_slow_penalty 1
 is_wooded 1
 smoothlevel 12
 move_block boat swim
+harvest_exhaust_replacement grass
 end

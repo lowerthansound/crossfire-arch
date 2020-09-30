@@ -2,6 +2,7 @@ Object mountain
 name mountains
 face mountain1.111
 randomitems mountain
+harvest_exhaust_replacement blackrock
 type 67
 race /terrain/mountain
 move_on walk

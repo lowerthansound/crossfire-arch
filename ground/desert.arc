@@ -3,6 +3,7 @@ face desert.111
 type 67
 race /terrain/desert
 randomitems desert
+harvest_exhaust_replacement generate_ant_desert
 move_on walk
 no_pick 1
 move_slow walk

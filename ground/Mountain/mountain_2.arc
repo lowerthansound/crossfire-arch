@@ -1,6 +1,7 @@
 Object mountain_2
 name high mountain
 randomitems mountain
+harvest_exhaust_replacement blackrock
 face mountain_2.x11
 no_pick 1
 move_slow walk
@@ -13,6 +14,7 @@ More
 Object mountain_2_2
 name high mountain
 randomitems mountain
+harvest_exhaust_replacement blackrock
 face mountain_2.x11
 no_pick 1
 x 1
@@ -26,6 +28,7 @@ More
 Object mountain_2_3
 name high mountain
 randomitems mountain
+harvest_exhaust_replacement blackrock
 face mountain_2.x11
 no_pick 1
 y 1
@@ -39,6 +42,7 @@ More
 Object mountain_2_4
 name high mountain
 randomitems mountain
+harvest_exhaust_replacement blackrock
 face mountain_2.x11
 no_pick 1
 x 1

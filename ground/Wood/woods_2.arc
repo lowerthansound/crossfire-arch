@@ -13,4 +13,5 @@ is_floor 1
 smoothface woods_2.111 woods_2_S.111
 smoothlevel 127
 move_block boat swim
+harvest_exhaust_replacement grass
 end

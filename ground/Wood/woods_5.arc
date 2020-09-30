@@ -10,4 +10,5 @@ move_slow walk
 move_slow_penalty 1
 is_wooded 1
 move_block boat swim
+harvest_exhaust_replacement grass
 end

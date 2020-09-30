@@ -2,6 +2,7 @@ Object mountain5
 name very high mountains
 face mountain5.111
 randomitems mountain
+harvest_exhaust_replacement blackrock
 type 67
 race /terrain/mountain
 no_pick 1
