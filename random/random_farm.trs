@@ -1,5 +1,4 @@
-treasureone random_farm
-  more
+treasure random_farm
   arch carrot
     chance 1
     nrof 1

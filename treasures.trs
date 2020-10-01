@@ -3281,6 +3281,23 @@ treasure sea_stuff
   arch fish_6
     chance 20
   end
+treasure random_farm
+  arch carrot
+    chance 1
+    nrof 1
+  more
+  arch cabbage
+    chance 2
+    nrof 1
+  more
+  arch potato
+    chance 3
+    nrof 1
+  more
+  arch onion
+    chance 1
+    nrof 1
+  end
 treasure new_cobble
   arch cobblestones3
   end
