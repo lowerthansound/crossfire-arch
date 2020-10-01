@@ -1,0 +1,18 @@
+treasureone random_farm
+  more
+  arch carrot
+    chance 1
+    nrof 1
+  more
+  arch cabbage
+    chance 2
+    nrof 1
+  more
+  arch potato
+    chance 3
+    nrof 1
+  more
+  arch onion
+    chance 1
+    nrof 1
+  end

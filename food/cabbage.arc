@@ -9,4 +9,9 @@ weight 4000
 identified 1
 name_pl cabbages
 client_type 601
+harvestable 1
+harvest_race farming
+harvest_exp 100
+harvest_level 1
+harvest_tool gardenhoe
 end

@@ -10,4 +10,5 @@ move_slow_penalty 1
 smoothlevel 35
 smoothface farmland.111 empty_S.111
 move_block boat swim
+randomitems random_farm
 end
