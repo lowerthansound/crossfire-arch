@@ -3,6 +3,7 @@ name tree
 face tree_4.111
 randomitems tree
 no_pick 1
+type 20
 move_block all
 msg
 you run into a tree, ouch!
