@@ -3284,7 +3284,7 @@ treasure sea_stuff
 treasure random_farm
   arch carrot
     chance 50
-  nrof 1
+  nrof 5
   more
   arch cabbage
     chance 30
@@ -3292,7 +3292,7 @@ treasure random_farm
   more
   arch potato
     chance 60
-  nrof 1
+  nrof 3
   end
 treasure new_cobble
   arch cobblestones3
