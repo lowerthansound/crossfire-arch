@@ -1,7 +1,10 @@
 Object tree
 face tree_1.111
-move_slow walk
-move_slow_penalty 1
+type 20
+move_block walk boat swim
+msg
+You run into a tree, OUCH!
+endmsg
 randomitems tree
 is_wooded 1
 no_pick 1

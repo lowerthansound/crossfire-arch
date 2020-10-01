@@ -1,14 +1,14 @@
 Object woods5
 name woods
 face woods_5.111
-type 67
 randomitems tree
 race /terrain/forest
-move_on walk
+type 20
+move_block walk boat swim
+msg
+This forest is so dense! Maybe you could fly over it...
+endmsg
 no_pick 1
-move_slow walk
-move_slow_penalty 1
 is_wooded 1
-move_block boat swim
-harvest_exhaust_replacement grass
+harvest_exhaust_replacement -
 end

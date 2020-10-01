@@ -3,11 +3,13 @@ name tree
 face tree_5.111
 randomitems tree
 no_pick 1
-no_pass 1
 type 20
-move_block all
+move_block walk boat swim
 msg
-you run into a tree, ouch!
+You run into a tree, OUCH!
+endmsg
+msg
+(note: use a woodsmans axe to chop trees)
 endmsg
 is_wooded 1
 harvest_exhaust_replacement -

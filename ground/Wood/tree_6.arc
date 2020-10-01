@@ -2,7 +2,11 @@ Object tree6
 name tree
 face tree_6.111
 no_pick 1
-move_slow walk
-move_slow_penalty 1
+type 20
+move_block walk boat swim
+msg
+you run into a tree, ouch!
+endmsg
+harvest_exhaust_replacement -
 is_wooded 1
 end
