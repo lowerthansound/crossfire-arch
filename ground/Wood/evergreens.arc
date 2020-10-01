@@ -13,5 +13,5 @@ is_floor 1
 smoothface evergreens.111 evergreens_S.111
 smoothlevel 135
 randomitems tree
-harvest_exhaust_replacement -
+harvest_exhaust_replacement grass
 end
