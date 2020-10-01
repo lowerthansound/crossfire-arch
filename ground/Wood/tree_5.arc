@@ -7,8 +7,6 @@ type 20
 move_block walk boat swim
 msg
 You run into a tree, OUCH!
-endmsg
-msg
 (note: use a woodsmans axe to chop trees)
 endmsg
 is_wooded 1
