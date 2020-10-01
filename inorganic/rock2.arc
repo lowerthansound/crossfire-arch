@@ -7,7 +7,7 @@ harvestable -1
 harvest_level 1
 harvest_exp 0
 material 64
-value 100
+value 1
 type 73
 weight 220
 nrof 1
