@@ -11,5 +11,5 @@ smoothlevel 35
 smoothface farmland.111 empty_S.111
 move_block boat swim
 randomitems random_farm
-harvest_exhaust_replacement steppe
+harvest_exhaust_replacement earth
 end
