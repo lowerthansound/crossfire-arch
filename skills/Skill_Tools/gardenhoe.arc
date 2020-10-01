@@ -9,7 +9,7 @@ nrof 1
 weight 5000
 client_type 451
 body_skill -1
-harvest_race farming
+harvest_race farming_material
 harvest_tool gardenhoe
 harvest_speed 2
 end
