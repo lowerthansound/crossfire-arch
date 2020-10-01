@@ -3283,19 +3283,15 @@ treasure sea_stuff
   end
 treasure random_farm
   arch carrot
-    chance 20
+    chance 50
   nrof 1
   more
   arch cabbage
-    chance 10
-  nrof 1
-  more
-  arch potato
     chance 30
   nrof 1
   more
-  arch onion
-    chance 5
+  arch potato
+    chance 60
   nrof 1
   end
 treasure new_cobble
