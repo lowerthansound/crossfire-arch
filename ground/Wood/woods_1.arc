@@ -6,6 +6,7 @@ type 20
 move_block walk boat swim
 msg
 This forest is so dense! Maybe you could fly over it...
+(note: use a woodsmans axe to chop trees)
 endmsg
 no_pick 1
 is_wooded 1

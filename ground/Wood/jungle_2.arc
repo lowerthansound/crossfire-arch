@@ -5,6 +5,7 @@ type 20
 move_block walk boat swim
 msg
 This jungle is so dense! Maybe you could fly over it...
+(note: use a woodsmans axe to chop trees)
 endmsg
 race /terrain/jungle
 no_pick 1

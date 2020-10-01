@@ -6,6 +6,7 @@ type 20
 move_block walk boat swim
 msg
 These evergreens are so dense! Maybe you could fly over them...
+(note: use a woodsmans axe to chop trees)
 endmsg
 is_wooded 1
 is_floor 1
