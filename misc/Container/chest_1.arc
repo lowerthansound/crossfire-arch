@@ -18,7 +18,7 @@ harvest_race mountain_rubble
 harvest_tool pickaxe
 harvestable -1
 harvest_level 1
-harvest_exp 0
+harvest_exp 100
 nrof 0
 type 4
 hp 1

@@ -5,7 +5,7 @@ harvest_race ground_material
 harvest_tool shovel
 harvestable -1
 harvest_level 1
-harvest_exp 0
+harvest_exp 100
 material 64
 value 1
 resist_acid 100

@@ -7,7 +7,7 @@ harvest_race ground_material
 harvest_tool shovel
 harvestable -1
 harvest_level 1
-harvest_exp 0
+harvest_exp 100
 last_sp 19
 weight 7000
 value 0
@@ -28,7 +28,7 @@ harvest_race ground_material
 harvest_tool shovel
 harvestable -1
 harvest_level 1
-harvest_exp 0
+harvest_exp 100
 last_sp 19
 weight 2000
 value 0
@@ -49,7 +49,7 @@ harvest_race ground_material
 harvest_tool shovel
 harvestable -1
 harvest_level 1
-harvest_exp 0
+harvest_exp 100
 last_sp 19
 weight 1000
 value 0
@@ -70,7 +70,7 @@ harvest_race ground_material
 harvest_tool shovel
 harvestable -1
 harvest_level 1
-harvest_exp 0
+harvest_exp 100
 last_sp 19
 weight 7000
 value 0
@@ -91,7 +91,7 @@ harvest_race ground_material
 harvest_tool shovel
 harvestable -1
 harvest_level 1
-harvest_exp 0
+harvest_exp 100
 last_sp 19
 weight 11000
 value 0

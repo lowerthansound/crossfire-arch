@@ -3,7 +3,7 @@ harvest_race logs
 harvest_tool axe
 harvestable -1
 harvest_level 1
-harvest_exp 0
+harvest_exp 100
 nrof 1
 face logs1.111
 material 16
