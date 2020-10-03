@@ -5,7 +5,7 @@ face witch_chaos.111
 animation witch_chaos
 randomitems witch_chaos
 monster 1
-move_type walk fly_low
+move_type walk
 alive 1
 resist_ghosthit 100
 resist_poison 100

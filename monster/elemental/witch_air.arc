@@ -5,7 +5,7 @@ face witch_air.111
 randomitems witch_air
 animation air_witch
 monster 1
-move_type walk fly_low
+move_type walk
 alive 1
 resist_magic 25
 resist_poison 100
