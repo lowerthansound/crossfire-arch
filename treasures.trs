@@ -3333,6 +3333,19 @@ treasure darcap_key_apartment
 treasure gen_waste
   arch filth
   end
+treasure wildmobs
+  arch generate_gnoll
+    chance 5
+  more
+  arch generate_goblin
+    chance 5
+  more  
+  arch generate_kobold
+    chance 5
+  more
+  arch generate_orc
+    chance 5
+  end
 
 # I switched the names to '_old' -- these lists
 # are just the way standard/rich were before we 

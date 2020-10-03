@@ -211,10 +211,6 @@ treasureone staff
     nrof 5
     chance 5
   more
-  arch spell_resurrection
-    nrof 5
-    chance 5
-  more
   arch spell_flaming_aura
     nrof 5
     chance 5
