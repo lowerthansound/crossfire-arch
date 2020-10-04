@@ -264,9 +264,6 @@ treasureone random_shop
   list random_armour
     chance 15
   more
-  list random_food
-    chance 15
-  more
   list random_special
     chance 3
   end
