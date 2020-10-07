@@ -8,5 +8,4 @@ is_floor 1
 smoothlevel 27
 smoothface steppe.111 steppe_S.111
 move_block boat swim
-randomitems wildmobs
 end
