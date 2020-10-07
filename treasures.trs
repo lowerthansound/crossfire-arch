@@ -2481,42 +2481,6 @@ end
 # melee_weapons combines old list 11 and list 12 together.  List 26
 # is obsolete now
 treasureone melee_weapons
-  arch b_dagger
-    magic 4
-    chance 5
-  more
-  arch b_bsword_1
-    magic 4
-    chance 5
-  more
-  arch b_bsword_2
-    magic 4
-    chance 5
-  more
-  arch b_lsword
-    magic 4
-    chance 5
-  more
-  arch b_scimitar
-    magic 4
-    chance 5
-  more
-  arch b_ssword_1
-    magic 4
-    chance 5
-  more
-  arch b_ssword_2
-    magic 4
-    chance 5
-  more
-  arch b_sword_1
-    magic 4
-    chance 5
-  more
-  arch b_axe1
-    magic 4
-    chance 5
-  more
   arch dagger
     magic 4
     chance 5
@@ -2713,6 +2677,43 @@ treasureone oriental_weapons
   arch sai2
     magic 4
     chance 1
+  end
+treasureone bronze_weapons
+  arch b_dagger
+    magic 4
+    chance 5
+  more
+  arch b_bsword_1
+    magic 4
+    chance 5
+  more
+  arch b_bsword_2
+    magic 4
+    chance 5
+  more
+  arch b_lsword
+    magic 4
+    chance 5
+  more
+  arch b_scimitar
+    magic 4
+    chance 5
+  more
+  arch b_ssword_1
+    magic 4
+    chance 5
+  more
+  arch b_ssword_2
+    magic 4
+    chance 5
+  more
+  arch b_sword_1
+    magic 4
+    chance 5
+  more
+  arch b_axe1
+    magic 4
+    chance 5
   end
 # uncommon artifacts 
 treasureone uncommon_artifacts
