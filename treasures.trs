@@ -2656,27 +2656,24 @@ treasureone rare_weapons
     magic 6
     chance 1
   more
-  arch sai1
-    magic 4
-    chance 1
-  more
-  arch sai2
-    magic 4
-    chance 1
-  more
-  arch kama1
-    magic 4
-    chance 1
-  more
-  arch kama2
-    magic 4
-    chance 1
-  more
   arch vlongsword
    magic 4
    chance 2
   end
 treasureone uncommon_weapons
+  arch stake
+    magic 2
+    chance 5
+  more
+  arch scythe1
+    magic 4
+    chance 2
+  more
+  arch trident
+    magic 3
+    chance 5
+  end
+treasureone oriental_weapons
   arch katana_1
     magic 4
     chance 5
@@ -2693,25 +2690,29 @@ treasureone uncommon_weapons
     magic 3
     chance 5
   more
-  arch stake
-    magic 2
-    chance 5
-  more
-  arch scythe1
+  arch t_star1
     magic 4
-    chance 2
+    chance 3
   more
   arch sickle1
     magic 4
     chance 2
   more
-  arch t_star1
+  arch kama1
     magic 4
-    chance 3
+    chance 1
   more
-  arch trident
-    magic 3
-    chance 5
+  arch kama2
+    magic 4
+    chance 1
+  more
+  arch sai1
+    magic 4
+    chance 1
+  more
+  arch sai2
+    magic 4
+    chance 1
   end
 # uncommon artifacts 
 treasureone uncommon_artifacts
