@@ -2970,6 +2970,16 @@ ingred crossbow,3 dust of consuming wrath,hill giant's heart,3 mithril crystal
 # ------------------
 # Weapons
 # ------------------
+Object NONE
+arch stake
+chance 10
+diff 5
+exp 800
+trans 1
+yield 2
+skill smithery
+cauldron forge
+ingred logs
 #
 Object Madness
 arch dagger,b_dagger

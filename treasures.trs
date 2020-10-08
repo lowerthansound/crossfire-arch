@@ -287,10 +287,6 @@ treasureone random_armour
     magic 4
     chance 5
   more
-  arch b_gauntlets
-    magic 4
-    chance 5
-  more
   arch b_plate_mail
     magic 4
     chance 5
@@ -316,10 +312,6 @@ treasureone random_armour
     chance 5
   more
   arch plate_mail
-    magic 4
-    chance 5
-  more
-  arch robe
     magic 4
     chance 5
   more
@@ -374,30 +366,18 @@ treasureone random_armour
   arch round_shield
     magic 1
     chance 5
-  more
-  arch low_boots
+  end
+treasureone random_clothes
+  arch lapron
     magic 1
+    chance 1
+  more
+  arch robe
+    magic 4
     chance 5
   more
-  arch gauntlets
-    magic 2
-    chance 1
-  more
-  arch high_boots
-    magic 3
-    chance 3
-  more
-  arch high_boots_b
-    magic 3
-    chance 1
-  more
-  arch high_boots_w
-    magic 3
-    chance 1
-  more
-  arch tunic
-    magic 3
-    chance 1
+  arch cloak
+    chance 10
   more
   arch gloves
     magic 2
@@ -411,12 +391,33 @@ treasureone random_armour
     magic 2
     chance 1
   more
-  arch lapron
-    magic 1
+  arch tunic
+    magic 3
+    chance 1
+  end
+treasureone random_cobbler
+  arch high_boots
+    magic 3
     chance 1
   more
-  arch cloak
-    chance 10
+  arch high_boots_b
+    magic 3
+    chance 1
+  more
+  arch high_boots_w
+    magic 3
+    chance 1
+  more
+  arch low_boots
+    magic 1
+    chance 5
+  arch b_gauntlets
+    magic 4
+    chance 5
+  more
+  arch gauntlets
+    magic 2
+    chance 1
   end
 treasure random_mushroom
   arch mushroom_1
@@ -2561,10 +2562,6 @@ treasureone melee_weapons
     magic 4
     chance 5
   more
-  arch stonehammer
-    magic 3
-    chance 5
-  more
   arch axe
     magic 4
     chance 5
@@ -2579,10 +2576,6 @@ treasureone melee_weapons
   more
   arch axe_4
     magic 4
-    chance 5
-  more
-  arch stoneaxe
-    magic 3
     chance 5
   more
   arch morningstar
@@ -2625,17 +2618,13 @@ treasureone rare_weapons
    chance 2
   end
 treasureone uncommon_weapons
-  arch stake
-    magic 2
-    chance 5
-  more
   arch scythe1
     magic 4
     chance 2
   more
   arch trident
     magic 3
-    chance 5
+    chance 1
   end
 treasureone oriental_weapons
   arch katana_1
