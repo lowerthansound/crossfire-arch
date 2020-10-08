@@ -413,7 +413,7 @@ treasureone random_cobbler
     chance 5
   arch b_gauntlets
     magic 4
-    chance 5
+    chance 1
   more
   arch gauntlets
     magic 2
