@@ -2922,6 +2922,9 @@ treasureone random_scroll
   arch wand_level_upgrade
     chance 1
   more
+  arch lesser_ice_aura_crystal
+    chance 1
+  more
   arch lesser_flame_aura_crystal
     chance 1
   more
