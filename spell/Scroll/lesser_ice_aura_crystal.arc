@@ -1,6 +1,5 @@
 Object lesser_ice_aura_crystal
-name Crystal
-title of Lesser Ice Aura
+name Chilled Crystal
 type 111
 face arescrystal7.111
 weight 1000

@@ -1,6 +1,5 @@
 Object great_flame_aura_crystal
-name Crystal
-title of Great Flame Aura
+name Very Hot Crystal
 type 111
 face arescrystal9.111
 weight 1000

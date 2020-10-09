@@ -1,6 +1,5 @@
 Object ice_aura_crystal
-name Crystal
-title of Ice Aura
+name Cold Crystal
 type 111
 face arescrystal6.111
 weight 1000

@@ -1,6 +1,5 @@
 Object greatest_flame_aura_crystal
-name Crystal
-title of Greatest Flame Aura
+name Insanely Hot Crystal
 type 111
 face arescrystal10.111
 weight 1000

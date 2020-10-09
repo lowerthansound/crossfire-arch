@@ -1,6 +1,5 @@
 Object great_ice_aura_crystal
-name Crystal
-title of Great Ice Aura
+name Very Cold Crystal
 type 111
 face arescrystal3.111
 weight 1000

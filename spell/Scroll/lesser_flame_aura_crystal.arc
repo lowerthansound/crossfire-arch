@@ -1,6 +1,5 @@
 Object lesser_flame_aura_crystal
-name Crystal
-title of Lesser Flame Aura
+name Warm Crystal
 type 111
 face arescrystal6.111
 weight 1000

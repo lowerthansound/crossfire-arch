@@ -1,6 +1,5 @@
 Object flame_aura_crystal
-name Crystal
-title of Flame Aura
+name Hot Crystal
 type 111
 face arescrystal4.111
 weight 1000

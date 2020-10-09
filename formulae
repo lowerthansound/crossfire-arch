@@ -975,7 +975,7 @@ diff 15
 exp 8000
 skill alchemy
 cauldron cauldron
-ingred 10 Crystal of Great Ice Aura
+ingred 10 Very Cold Crystal
 #
 # -- great ice aura
 Object NONE
@@ -985,7 +985,7 @@ diff 15
 exp 8000
 skill alchemy
 cauldron cauldron
-ingred 10 Crystal of Ice Aura
+ingred 10 Cold Crystal
 #
 # -- ice aura
 Object NONE
@@ -995,7 +995,7 @@ diff 15
 exp 8000
 skill alchemy
 cauldron cauldron
-ingred 10 Crystal of Lesser Ice Aura
+ingred 10 Chilled Crystal
 #
 # -- greatest flame aura
 Object NONE
@@ -1005,7 +1005,7 @@ diff 15
 exp 8000
 skill alchemy
 cauldron cauldron
-ingred 10 Crystal of Great Flame Aura
+ingred 10 Very Hot Crystal
 #
 # -- great flame aura
 Object NONE
@@ -1015,7 +1015,7 @@ diff 15
 exp 8000
 skill alchemy
 cauldron cauldron
-ingred 10 Crystal of Flame Aura
+ingred 10 Hot Crystal
 #
 # -- flame aura
 Object NONE
@@ -1025,7 +1025,7 @@ diff 15
 exp 8000
 skill alchemy
 cauldron cauldron
-ingred 10 Crystal of Lesser Ice Aura
+ingred 10 Warm Crystal
 #
 # -- fire prot.
 Object asbestos

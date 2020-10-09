@@ -1,6 +1,5 @@
 Object greatest_ice_aura_crystal
-name Crystal
-title of Greatest Ice Aura
+name Insanely Cold Crystal
 type 111
 face arescrystal9.111
 weight 1000
