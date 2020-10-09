@@ -967,66 +967,6 @@ ingred leather
 #
 # -- balms of protection --
 #
-# -- greatest ice aura
-Object NONE
-arch greatest_ice_aura_crystal
-chance 5
-diff 15
-exp 8000
-skill alchemy
-cauldron cauldron
-ingred 10 Very Cold Crystal
-#
-# -- great ice aura
-Object NONE
-arch great_ice_aura_crystal
-chance 5
-diff 15
-exp 8000
-skill alchemy
-cauldron cauldron
-ingred 10 Cold Crystal
-#
-# -- ice aura
-Object NONE
-arch ice_aura_crystal
-chance 5
-diff 15
-exp 8000
-skill alchemy
-cauldron cauldron
-ingred 10 Chilled Crystal
-#
-# -- greatest flame aura
-Object NONE
-arch greatest_flame_aura_crystal
-chance 5
-diff 15
-exp 8000
-skill alchemy
-cauldron cauldron
-ingred 10 Very Hot Crystal
-#
-# -- great flame aura
-Object NONE
-arch great_flame_aura_crystal
-chance 5
-diff 15
-exp 8000
-skill alchemy
-cauldron cauldron
-ingred 10 Hot Crystal
-#
-# -- flame aura
-Object NONE
-arch flame_aura_crystal
-chance 5
-diff 15
-exp 8000
-skill alchemy
-cauldron cauldron
-ingred 10 Warm Crystal
-#
 # -- fire prot.
 Object asbestos
 arch balm_generic
