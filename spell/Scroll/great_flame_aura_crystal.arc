@@ -5,6 +5,7 @@ face arescrystal9.111
 weight 1000
 value 6000
 no_pick 0
+nrof 1
 level 40
 arch spell_flaming_aura 
 end
