@@ -7,7 +7,7 @@ weight 1000
 value 6000
 no_pick 0
 level 40
-arch flaming_aura 
+arch spell_flaming_aura 
 end
 end
 
