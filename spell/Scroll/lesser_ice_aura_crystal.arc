@@ -1,8 +1,7 @@
 Object lesser_ice_aura_crystal
 name Chilled Crystal
-type 111
+type 5
 face arescrystal7.111
-is_stackable 1
 weight 1000
 value 300
 no_pick 0
