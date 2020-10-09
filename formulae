@@ -356,7 +356,7 @@ exp 1000
 skill woodsman
 tool saw
 cauldron sawhorse
-ingred 1 logs
+ingred logs
 #
 # flour
 Object NONE
