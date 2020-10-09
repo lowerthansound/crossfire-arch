@@ -277,7 +277,7 @@ treasureone random_armour
     chance 5
   more
   arch ench_armour
-    chance 1
+    chance 0
   more
   arch b_helmet
     magic 4
@@ -2929,37 +2929,37 @@ treasureone random_scroll
     chance 1
   more
   arch prepare_weapon
-    chance 1
+    chance 0
   more
   arch improve_cha
-    chance 1
+    chance 0
   more
   arch improve_con
-    chance 1
+    chance 0
   more
   arch improve_damage
-    chance 1
+    chance 0
   more
   arch improve_dex
-    chance 1
+    chance 0
   more
   arch improve_enchantment
-    chance 1
+    chance 0
   more
   arch improve_int
-    chance 1
+    chance 0
   more
   arch improve_pow
-    chance 1
+    chance 0
   more
   arch improve_str
-    chance 1
+    chance 0
   more
   arch improve_weight
     chance 0
   more
   arch improve_wis
-    chance 1
+    chance 0
   more
   list random_knowledge
     chance 1
