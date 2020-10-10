@@ -1,4 +1,4 @@
-earObject grass
+Object grass
 face grass.111
 type 67
 race /terrain/plains
