@@ -1,9 +1,9 @@
-Object grass
+earObject grass
 face grass.111
 type 67
 race /terrain/plains
 randomitems dirt_ground
-harvest_exhaust_replacement filth
+harvest_exhaust_replacement earth
 move_on walk
 is_floor 1
 no_pick 1
@@ -18,7 +18,7 @@ Object grass_only
 name grass
 face grass.111
 randomitems dirt_ground
-harvest_exhaust_replacement filth
+harvest_exhaust_replacement earth
 type 67
 move_on walk
 is_floor 1
