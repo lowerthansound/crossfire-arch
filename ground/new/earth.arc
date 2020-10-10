@@ -3,7 +3,7 @@ name earth
 face earth.111
 type 67
 move_on walk
-randomitems dirt_ground
+randomitems dirt_ground2
 harvest_exhaust_replacement blackrock
 is_floor 1
 no_pick 1
