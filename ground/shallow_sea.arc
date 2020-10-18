@@ -1,7 +1,7 @@
 Object shallow_sea
 name shallow sea
 face shallow_sea.111
-unique 1
+type 20
 move_block walk
 msg
 The Sea is shallow...

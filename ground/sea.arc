@@ -1,7 +1,7 @@
 Object sea
 face sea.111
 animation sea
-unique 1
+type 20
 smoothface sea.111 sea_S.111
 smoothface sea.112 sea_S.112
 smoothface sea.113 sea_S.113
@@ -42,7 +42,7 @@ face sea_nw.111
 msg
 The water is clear...
 endmsg
-unique 1
+type 20
 speed 0.2
 move_block walk
 no_pick 1
@@ -67,7 +67,7 @@ face sea_sw.111
 msg
 The water is clear...
 endmsg
-unique 1
+type 20
 speed 0.2
 move_block walk
 no_pick 1
@@ -92,7 +92,7 @@ face sea_7.111
 msg
 The water is clear...
 endmsg
-unique 1
+type 20
 move_block walk
 no_pick 1
 is_water 1
@@ -105,7 +105,7 @@ face sea_B.111
 msg
 The water is clear...
 endmsg
-unique 1
+type 20
 move_block walk
 no_pick 1
 is_water 1
@@ -118,7 +118,7 @@ face sea_D.111
 msg
 The water is clear...
 endmsg
-unique 1
+type 20
 move_block walk
 no_pick 1
 is_water 1
@@ -131,7 +131,7 @@ face sea_E.111
 msg
 The water is clear...
 endmsg
-unique 1
+type 20
 move_block walk
 no_pick 1
 is_water 1
@@ -144,7 +144,7 @@ face sea_F.111
 msg
 The water is clear...
 endmsg
-unique 1
+type 20
 move_block walk
 no_pick 1
 is_water 1
