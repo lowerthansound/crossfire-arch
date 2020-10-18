@@ -16,4 +16,6 @@ is_water 1
 is_floor 1
 type 20
 move_block walk
+randomitems sea_earth
+slaying sea_test
 end

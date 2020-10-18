@@ -17,4 +17,6 @@ client_anim_sync 1
 no_pick 1
 is_water 1
 is_floor 1
+randomitems sea_earth
+slaying sea_test
 end
