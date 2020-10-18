@@ -1,0 +1,8 @@
+face mood_floor_base.111
+magicmap black
+visibility 50
+end
+face mood_floor_furious.112
+magicmap black
+visibility 50
+end
