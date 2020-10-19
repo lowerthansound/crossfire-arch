@@ -1,5 +1,6 @@
 Object magicdoor
 face wdoor.114
+type 66
 animation mdoor_closed_1
 is_animated 0
 no_pick 1
