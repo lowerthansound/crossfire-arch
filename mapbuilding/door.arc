@@ -1,3 +1,49 @@
+Object magicdoor_library
+name door to a library
+face wdoor.114
+animation mdoor_closed_1
+is_animated 0
+no_pick 1
+arch event_apply
+title Python
+slaying /python/items/magic_door_library.py
+end
+end
+
+Object building_magicdoor_library
+name Library Addition material
+nrof 1
+weight 150
+value 1500
+type 161
+subtype 2
+slaying magicdoor_library
+face mb_oakdoor.111
+end
+
+Object magicdoor_farm
+name door to a farm
+face wdoor.114
+animation mdoor_closed_1
+is_animated 0
+no_pick 1
+arch event_apply
+title Python
+slaying /python/items/magic_door_farm.py
+end
+end
+
+Object building_magicdoor_farm
+name Farm Addition material
+nrof 1
+weight 150
+value 1500
+type 161
+subtype 2
+slaying magicdoor_farm
+face mb_oakdoor.111
+end
+
 Object magicdoor_basic
 name door to a room
 face wdoor.114
