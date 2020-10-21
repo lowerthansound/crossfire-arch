@@ -5,8 +5,9 @@ animation mdoor_closed_1
 is_animated 0
 no_pick 1
 arch event_apply
+name library
 title Python
-slaying /python/items/magic_door_library.py
+slaying /python/items/magic_door.py
 end
 end
 
@@ -28,8 +29,9 @@ animation mdoor_closed_1
 is_animated 0
 no_pick 1
 arch event_apply
+name farm
 title Python
-slaying /python/items/magic_door_farm.py
+slaying /python/items/magic_door.py
 end
 end
 
@@ -51,8 +53,9 @@ animation mdoor_closed_1
 is_animated 0
 no_pick 1
 arch event_apply
+name basic
 title Python
-slaying /python/items/magic_door_basic.py
+slaying /python/items/magic_door.py
 end
 end
 
@@ -74,8 +77,9 @@ animation mdoor_closed_1
 is_animated 0
 no_pick 1
 arch event_apply
+name hall
 title Python
-slaying /python/items/magic_door_hall.py
+slaying /python/items/magic_door.py
 end
 end
 
@@ -97,8 +101,9 @@ animation mdoor_closed_1
 is_animated 0
 no_pick 1
 arch event_apply
+name junction
 title Python
-slaying /python/items/magic_door_junction.py
+slaying /python/items/magic_door.py
 end
 end
 
