@@ -1,6 +1,7 @@
 Object hand
 nrof 1
 face hand.111
+type 72
 material 32
 weight 3
 name_pl hands

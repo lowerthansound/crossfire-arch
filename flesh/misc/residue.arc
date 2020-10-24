@@ -2,6 +2,7 @@ Object residue
 nrof 1
 name residue
 face residue.111
+type 72
 material 64
 weight 50
 identified 1

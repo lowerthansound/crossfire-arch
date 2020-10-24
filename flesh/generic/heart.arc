@@ -2,6 +2,7 @@ Object heart
 name heart
 nrof 1
 face heart.111
+type 72
 material 32
 weight 4
 name_pl hearts

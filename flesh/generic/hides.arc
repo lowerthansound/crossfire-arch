@@ -7,6 +7,7 @@ Object hide_black
 name hide
 nrof 1
 face hide_black.111
+type 72
 material 32
 weight 20
 end
@@ -16,6 +17,7 @@ Object hide_brown
 name hide
 nrof 1
 face hide_brown.111
+type 72
 material 32
 weight 20
 end
@@ -25,6 +27,7 @@ Object hide_grey
 name hide
 nrof 1
 face hide_grey.111
+type 72
 material 32
 weight 20
 end
@@ -34,6 +37,7 @@ Object hide_white
 name hide
 nrof 1
 face hide_white.111
+type 72
 material 32
 weight 20
 end

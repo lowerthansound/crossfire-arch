@@ -15,7 +15,7 @@ u_horn_gray.113
 u_horn_gray.114
 u_horn_gray.115
 mina
-type 15
+type 72
 nrof 1
 magicmap grey
 name_pl gray unicorn horns

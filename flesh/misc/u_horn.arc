@@ -15,7 +15,7 @@ u_horn.113
 u_horn.114
 u_horn.115
 mina
-type 15
+type 72
 nrof 1
 name_pl unicorn horns
 client_type 627

@@ -15,7 +15,7 @@ u_horn_black.113
 u_horn_black.114
 u_horn_black.115
 mina
-type 15
+type 72
 nrof 1
 magicmap black
 name_pl black unicorn horns

@@ -1,5 +1,6 @@
 Object corpse
 face corpse.111
+type 72
 nrof 1
 material 32
 weight 75000

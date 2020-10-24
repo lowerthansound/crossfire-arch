@@ -2,6 +2,7 @@ Object dragon_eye
 name eye
 nrof 1
 face dragon_eye.111
+type 72
 material 32
 weight 2
 editable 2048

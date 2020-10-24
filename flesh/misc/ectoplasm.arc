@@ -2,6 +2,7 @@ Object ectoplasm
 nrof 1
 name ectoplasm
 face ectoplasm.111
+type 72
 material 64
 weight 20
 identified 1
