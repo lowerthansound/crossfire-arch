@@ -4,7 +4,7 @@ name vial
 name_pl vials
 food 5
 nrof 1
-type 54
+type 5
 material 32
 value 4
 weight 150
@@ -18,7 +18,7 @@ name vial
 name_pl vials
 food 5
 nrof 1
-type 54
+type 5
 material 32
 value 4
 weight 150
@@ -32,7 +32,7 @@ name vial
 name_pl vials
 food 5
 nrof 1
-type 54
+type 5
 material 32
 value 4
 weight 150
@@ -46,7 +46,7 @@ name vial
 name_pl vials
 food 5
 nrof 1
-type 54
+type 5
 material 32
 value 4
 weight 150
@@ -60,7 +60,7 @@ name vial
 name_pl vials
 food 5
 nrof 1
-type 54
+type 5
 material 32
 value 4
 weight 150
@@ -74,7 +74,7 @@ name vial
 name_pl vials
 food 5
 nrof 1
-type 54
+type 5
 material 32
 value 4
 weight 150
@@ -88,7 +88,7 @@ name vial
 name_pl vials
 food 5
 nrof 1
-type 54
+type 5
 material 32
 value 4
 weight 150
