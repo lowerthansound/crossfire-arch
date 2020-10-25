@@ -113,4 +113,50 @@ slaying magicdoor_junction
 face mb_oakdoor.111
 end
 
+Object magicdoor_hall_left
+name door to a hall
+face wdoor.114
+animation mdoor_closed_1
+is_animated 0
+no_pick 1
+arch event_apply
+title Python
+slaying /python/items/magic_door_hall_left.py
+end
+end
+
+Object building_magicdoor_hall_left
+name Hall(left) Addition material
+nrof 1
+weight 150
+value 1500
+type 161
+subtype 2
+slaying magicdoor_hall_left
+face mb_oakdoor.111
+end
+
+Object magicdoor_hall_right
+name door to a hall
+face wdoor.114
+animation mdoor_closed_1
+is_animated 0
+no_pick 1
+arch event_apply
+title Python
+slaying /python/items/magic_door_hall_right.py
+end
+end
+
+Object building_magicdoor_hall_right
+name Hall(right) Addition material
+nrof 1
+weight 150
+value 1500
+type 161
+subtype 2
+slaying magicdoor_hall_right
+face mb_oakdoor.111
+end
+
 
