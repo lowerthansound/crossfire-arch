@@ -2,10 +2,6 @@ Object sage
 race human
 randomitems sage
 name sage
-msg
-@match *
-I'm too busy to answer your queries.
-endmsg
 face sage.151
 animation sage
 Pow 5
