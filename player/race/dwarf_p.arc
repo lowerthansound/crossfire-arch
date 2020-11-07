@@ -4,7 +4,7 @@ race dwarf
 randomitems dwarf_player_items
 face dwarf_p.151
 msg
-Skills_ Smithery
+Skills: Smithery
 Special: darkvision
 ---
 The Dwarves are the hardy scions of Mostrai. The traditional profession of the dwarf is smithery, and you'll be hard-pressed to find a dwarf who is not competent at it. Whether their great strength and hardiness leads them to become smiths and miners, or whether their profession leads to their strength and hardiness is unknown. Their thick musculature makes them slow of body, and seemingly, some of their muscle has crept into their brain. Perhaps their repetitive tasks dull their minds, perhaps they're simply born dumb.
@@ -55,6 +55,7 @@ end
 Object dwarf_player_force
 name dwarf_force
 invisible 1
+face blank.111
 type 114
 speed 0
 end
