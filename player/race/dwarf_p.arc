@@ -2,7 +2,7 @@ Object dwarf_player
 name dwarf
 race dwarf
 randomitems dwarf_player_items
-face dwarf_p.151
+face dwarf_down_walking.151
 msg
 Skills: Smithery
 Special: darkvision
