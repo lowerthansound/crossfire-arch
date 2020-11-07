@@ -1,11 +1,35 @@
 animation dwarf_player
-facings 4
-dwarf_p.111
-dwarf_p.112
-dwarf_p.131
-dwarf_p.132
-dwarf_p.151
-dwarf_p.152
-dwarf_p.171
-dwarf_p.172
+facings 8
+dwarf_up_walking.111
+dwarf_up_walking.112
+dwarf_up_walking.113
+dwarf_up_walking.114
+dwarf_rightup_walking.121
+dwarf_rightup_walking.122
+dwarf_rightup_walking.123
+dwarf_rightup_walking.124
+dwarf_right_walking.131
+dwarf_right_walking.132
+dwarf_right_walking.133
+dwarf_right_walking.134
+dwarf_rightdown_walking.141
+dwarf_rightdown_walking.142
+dwarf_rightdown_walking.143
+dwarf_rightdown_walking.144
+dwarf_down_walking.151
+dwarf_down_walking.152
+dwarf_down_walking.153
+dwarf_down_walking.154
+dwarf_downleft_walking.161
+dwarf_downleft_walking.162
+dwarf_downleft_walking.163
+dwarf_downleft_walking.164
+dwarf_left_walking.171
+dwarf_left_walking.172
+dwarf_left_walking.173
+dwarf_left_walking.174
+dwarf_upleft_walking.181
+dwarf_upleft_walking.182
+dwarf_upleft_walking.183
+dwarf_upleft_walking.184
 mina
