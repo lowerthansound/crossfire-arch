@@ -1,0 +1,27 @@
+animation dwarf_player_sword
+facings 8
+dwarf_up_attacking.111
+dwarf_up_attacking.112
+dwarf_up_attacking.113
+dwarf_rightup_attacking.121
+dwarf_rightup_attacking.122
+dwarf_rightup_attacking.123
+dwarf_right_attacking.131
+dwarf_right_attacking.132
+dwarf_right_attacking.133
+dwarf_rightdown_attacking.141
+dwarf_rightdown_attacking.142
+dwarf_rightdown_attacking.143
+dwarf_down_attacking.151
+dwarf_down_attacking.152
+dwarf_down_attacking.153
+dwarf_downleft_attacking.161
+dwarf_downleft_attacking.162
+dwarf_downleft_attacking.163
+dwarf_left_attacking.171
+dwarf_left_attacking.172
+dwarf_left_attacking.173
+dwarf_upleft_attacking.181
+dwarf_upleft_attacking.182
+dwarf_upleft_attacking.183
+mina
