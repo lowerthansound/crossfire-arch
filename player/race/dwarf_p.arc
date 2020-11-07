@@ -55,7 +55,9 @@ end
 Object dwarf_player_force
 name dwarf_force
 invisible 1
+applied 1
 face blank.111
+no_drop 1
 type 114
 speed 0
 end
