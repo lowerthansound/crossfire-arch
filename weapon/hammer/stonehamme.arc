@@ -1,4 +1,5 @@
 Object stonehammer
+anim_suffix hammer
 nrof 1
 name stonehammer
 last_sp 10

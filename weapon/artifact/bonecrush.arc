@@ -1,6 +1,7 @@
 Object bonecrusher
 name Bonecrusher
 nrof 1
+anim_suffix hammer
 slaying skeleton
 face bonecrush.111
 type 15

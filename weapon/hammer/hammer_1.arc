@@ -1,4 +1,5 @@
 Object hammer
+anim_suffix hammer
 nrof 1
 last_sp 9
 type 15
