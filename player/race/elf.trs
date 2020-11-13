@@ -15,5 +15,7 @@ treasure elf_player_items
   arch skill_woodsman
   more
   arch skill_missile_weapon
+  more
+  arch no_class_face_change
   end
 

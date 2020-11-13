@@ -2,7 +2,7 @@ Object elf_player
 race faerie
 name elf
 randomitems elf_player_items
-face elf.151
+face elf_down_walking.151
 msg
 Skills: Bowyer, Woodsman, Missile Weapons
 Items: Enchanted Bow & Arrows

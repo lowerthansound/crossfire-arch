@@ -1,11 +1,35 @@
 animation elf_player
-facings 4
-elf.111
-elf.112
-elf.131
-elf.132
-elf.151
-elf.152
-elf.171
-elf.172
+facings 8
+elf_up_walking.111
+elf_up_walking.112
+elf_up_walking.113
+elf_up_walking.114
+elf_rightup_walking.121
+elf_rightup_walking.122
+elf_rightup_walking.123
+elf_rightup_walking.124
+elf_right_walking.131
+elf_right_walking.132
+elf_right_walking.133
+elf_right_walking.134
+elf_rightdown_walking.141
+elf_rightdown_walking.142
+elf_rightdown_walking.143
+elf_rightdown_walking.144
+elf_down_walking.151
+elf_down_walking.152
+elf_down_walking.153
+elf_down_walking.154
+elf_downleft_walking.161
+elf_downleft_walking.162
+elf_downleft_walking.163
+elf_downleft_walking.164
+elf_left_walking.171
+elf_left_walking.172
+elf_left_walking.173
+elf_left_walking.174
+elf_upleft_walking.181
+elf_upleft_walking.182
+elf_upleft_walking.183
+elf_upleft_walking.184
 mina
