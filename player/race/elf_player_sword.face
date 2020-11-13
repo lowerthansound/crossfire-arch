@@ -1,43 +1,35 @@
-animation elf_player_hammer
+animation elf_player_sword
 facings 8
 elf_up_attacking.111
 elf_up_attacking.112
 elf_up_attacking.113
 elf_up_attacking.114
-elf_up_attacking.115
 elf_rightup_attacking.121
 elf_rightup_attacking.122
 elf_rightup_attacking.123
 elf_rightup_attacking.124
-elf_rightup_attacking.125
 elf_right_attacking.131
 elf_right_attacking.132
 elf_right_attacking.133
 elf_right_attacking.134
-elf_right_attacking.135
 elf_rightdown_attacking.141
 elf_rightdown_attacking.142
 elf_rightdown_attacking.143
 elf_rightdown_attacking.144
-elf_rightdown_attacking.145
 elf_down_attacking.151
 elf_down_attacking.152
 elf_down_attacking.153
 elf_down_attacking.154
-elf_down_attacking.155
 elf_downleft_attacking.161
 elf_downleft_attacking.162
 elf_downleft_attacking.163
 elf_downleft_attacking.164
-elf_downleft_attacking.165
 elf_left_attacking.171
 elf_left_attacking.172
 elf_left_attacking.173
 elf_left_attacking.174
-elf_left_attacking.175
 elf_upleft_attacking.181
 elf_upleft_attacking.182
 elf_upleft_attacking.183
 elf_upleft_attacking.184
-elf_upleft_attacking.185
 mina
