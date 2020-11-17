@@ -1,6 +1,7 @@
 Object skill_flame_touch
 name flame touch
 skill flame touch
+anim_suffix flametouch
 type 43
 invisible 1
 dam 2
