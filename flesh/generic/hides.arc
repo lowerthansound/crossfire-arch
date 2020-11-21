@@ -8,6 +8,7 @@ name hide
 nrof 1
 face hide_black.111
 type 72
+food 1
 material 32
 weight 20
 end
@@ -18,6 +19,7 @@ name hide
 nrof 1
 face hide_brown.111
 type 72
+food 1
 material 32
 weight 20
 end
@@ -28,6 +30,7 @@ name hide
 nrof 1
 face hide_grey.111
 type 72
+food 1
 material 32
 weight 20
 end
@@ -38,6 +41,7 @@ name hide
 nrof 1
 face hide_white.111
 type 72
+food 1
 material 32
 weight 20
 end

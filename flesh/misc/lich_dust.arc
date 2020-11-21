@@ -3,6 +3,7 @@ nrof 1
 name lich dust
 face lich_dust.111
 type 72
+food 1
 material 4
 weight 100
 identified 1

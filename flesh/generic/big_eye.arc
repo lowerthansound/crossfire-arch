@@ -3,6 +3,7 @@ name eye
 nrof 1
 face big_eye.111
 type 72
+food 1
 material 32
 weight 1
 name_pl eyes

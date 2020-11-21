@@ -2,6 +2,7 @@ Object dead_neko
 name corpse
 face dead_neko.111
 type 72
+food 1
 nrof 1
 material 32
 weight 650

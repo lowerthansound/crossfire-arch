@@ -2,6 +2,7 @@ Object brain
 name brain
 face brain.111
 type 72
+food 1
 material 32
 weight 4
 nrof 1

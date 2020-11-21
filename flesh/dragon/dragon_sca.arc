@@ -3,6 +3,7 @@ name dragon scale
 nrof 1
 face dragon_sca.111
 type 72
+food 1
 color_fg dark_orange
 weight 25000
 editable 2048
@@ -14,6 +15,7 @@ name blue dragon scale
 nrof 1
 face dragon_blue_scale.111
 type 72
+food 1
 color_fg dark_orange
 weight 25000
 editable 2048
@@ -25,6 +27,7 @@ name green dragon scale
 nrof 1
 face dragon_green_scale.111
 type 72
+food 1
 color_fg dark_orange
 weight 25000
 editable 2048
@@ -36,6 +39,7 @@ name orange dragon scale
 nrof 1
 face dragon_orange_scale.111
 type 72
+food 1
 color_fg dark_orange
 weight 25000
 editable 2048
@@ -47,6 +51,7 @@ name gray dragon scale
 nrof 1
 face dragon_gray_scale.111
 type 72
+food 1
 color_fg gray
 weight 25000
 editable 2048
@@ -58,6 +63,7 @@ name white dragon scale
 nrof 1
 face dragon_white_scale.111
 type 72
+food 1
 color_fg white
 weight 25000
 editable 2048
@@ -69,6 +75,7 @@ name black dragon scale
 nrof 1
 face dragon_black_scale.111
 type 72
+food 1
 color_fg black
 weight 25000
 editable 2048
@@ -80,6 +87,7 @@ name beige dragon scale
 nrof 1
 face dragon_beige_scale.111
 type 72
+food 1
 color_fg orange
 weight 25000
 editable 2048

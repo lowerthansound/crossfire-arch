@@ -1,6 +1,7 @@
 Object corpse1
 face corpse1.111
 type 72
+food 1
 nrof 1
 type 7
 material 32

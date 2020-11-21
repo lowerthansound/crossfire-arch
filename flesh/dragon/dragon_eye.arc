@@ -3,6 +3,7 @@ name eye
 nrof 1
 face dragon_eye.111
 type 72
+food 1
 material 32
 weight 2
 editable 2048

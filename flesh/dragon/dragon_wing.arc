@@ -3,6 +3,7 @@ name wing
 nrof 1
 face dragon_wing.111
 type 72
+food 1
 material 32
 weight 25
 editable 2048

@@ -3,6 +3,7 @@ nrof 1
 name ectoplasm
 face ectoplasm.111
 type 72
+food 1
 material 64
 weight 20
 identified 1

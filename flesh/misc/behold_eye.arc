@@ -3,6 +3,7 @@ name beholdereye
 nrof 1
 face behold_eye.111
 type 72
+food 1
 material 32
 weight 2500
 name_pl beholdereyes
