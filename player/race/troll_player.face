@@ -1,11 +1,35 @@
 animation troll_player
-facings 4
-troll_p.111
-troll_p.112
-troll_p.131
-troll_p.132
-troll_p.151
-troll_p.152
-troll_p.171
-troll_p.172
+facings 8
+Troll_up_walking.111
+Troll_up_walking.112
+Troll_up_walking.113
+Troll_up_walking.114
+Troll_upright_walking.121
+Troll_upright_walking.122
+Troll_upright_walking.123
+Troll_upright_walking.124
+Troll_right_walking.131
+Troll_right_walking.132
+Troll_right_walking.133
+Troll_right_walking.134
+Troll_downright_walking.141
+Troll_downright_walking.142
+Troll_downright_walking.143
+Troll_downright_walking.144
+Troll_down_walking.151
+Troll_down_walking.152
+Troll_down_walking.153
+Troll_down_walking.154
+Troll_downleft_walking.161
+Troll_downleft_walking.162
+Troll_downleft_walking.163
+Troll_downleft_walking.164
+Troll_left_walking.171
+Troll_left_walking.172
+Troll_left_walking.173
+Troll_left_walking.174
+Troll_upleft_walking.181
+Troll_upleft_walking.182
+Troll_upleft_walking.183
+Troll_upleft_walking.184
 mina
